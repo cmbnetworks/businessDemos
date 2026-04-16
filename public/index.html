@@ -621,6 +621,7 @@ async function selectBusiness(id) {
     // Update book button
     const bookBtn = document.getElementById('bookBtn');
     bookBtn.href = biz.booking_url;
+    bookBtn.textContent = biz.id === 'keys-dental' ? 'Book Appointment →' : 'Book Now →';
     bookBtn.style.display = 'block';
 
     // Update sidebar active
@@ -664,21 +665,37 @@ const starterQuestions = {
     "What fish will we catch?",
     "Is there food on the boat?",
   ],
+  'keys-dental': [
+    "Do you accept my insurance?",
+    "How do I book an emergency appointment?",
+    "What is sedation dentistry?",
+    "Do you see kids?",
+    "What dental implant options do you offer?",
+  ],
+};
+
+const welcomeMessages = {
+  'danger-charters': "I'm your booking assistant. Ask me anything about tours, boats, pricing, or what experience is right for your group.",
+  'fishmonster': "I'm your booking assistant. Ask me anything about fishing trips, island adventures, pricing, or what's right for your group.",
+  'gulfstream': "I'm your booking assistant. Ask me anything about our party boat trips, private charters, pricing, or what to expect on the water.",
+  'keys-dental': "I'm your patient care assistant. Ask me anything about our services, scheduling, insurance, sedation options, or what to expect at your visit.",
 };
 
 function renderWelcome(biz) {
   const starters = starterQuestions[biz.id] || [
-    "What tours do you offer?",
-    "How do I book?",
-    "What's included?",
+    "What services do you offer?",
+    "How do I book an appointment?",
+    "Do you accept insurance?",
   ];
+
+  const welcomeSub = welcomeMessages[biz.id] || "Ask me anything and I'll do my best to help.";
 
   const msgWrap = document.getElementById('messages');
   msgWrap.innerHTML = `
     <div class="welcome">
       <div class="welcome-icon">${biz.logo_emoji}</div>
       <div class="welcome-title">Welcome to ${biz.name}</div>
-      <div class="welcome-sub">I'm your AI booking assistant. Ask me anything about tours, pricing, availability, or what's right for your group.</div>
+      <div class="welcome-sub">${welcomeSub}</div>
       <div class="starters">
         ${starters.map(q => `<button class="starter-btn" onclick="sendStarter(this)">${q}</button>`).join('')}
       </div>
