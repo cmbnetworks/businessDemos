@@ -62,7 +62,7 @@ def load_business(business_id: str) -> dict:
     filepath = BUSINESSES_DIR / f"{business_id}.json"
     if not filepath.exists():
         raise HTTPException(status_code=404, detail=f"Business '{business_id}' not found")
-    with open(filepath, "r", encoding="utf-8") as f:
+    with open(filepath, "r") as f:
         return json.load(f)
 
 
@@ -70,7 +70,7 @@ def list_businesses() -> list[dict]:
     """Return all businesses as summary dicts (no system_prompt)."""
     businesses = []
     for filepath in sorted(BUSINESSES_DIR.glob("*.json")):
-        with open(filepath, "r", encoding="utf-8") as f:
+        with open(filepath, "r") as f:
             data = json.load(f)
         businesses.append({
             "id": data["id"],
