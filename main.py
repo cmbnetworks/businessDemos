@@ -111,7 +111,9 @@ def get_businesses():
 def get_business(business_id: str):
     """Get a single business config (system_prompt excluded for security)."""
     data = load_business(business_id)
-    return {k: v for k, v in data.items() if k != "system_prompt"}
+    # Exclude system_prompt from frontend exposure
+    excluded = {"system_prompt"}
+    return {k: v for k, v in data.items() if k not in excluded}
 
 
 @app.post("/api/chat/{business_id}")
