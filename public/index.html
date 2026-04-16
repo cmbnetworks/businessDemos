@@ -647,7 +647,22 @@ function renderReputation(biz) {
   const s = biz.review_stats;
   const reviews = biz.reviews || [];
 
-  const stars = '★'.repeat(Math.round(s.rating)) + '☆'.repeat(5 - Math.round(s.rating));
+  const opportunityText = {
+    'keys-dental': `${s.total} reviews and a ${s.rating}-star rating is genuinely exceptional. The problem: a ${s.response_rate}% response rate means ${s.unresponded}+ patient reviews have gone unanswered. Google factors response rate directly into local search ranking — and every unanswered review is a missed chance to build trust with the next patient choosing a dentist.`,
+    'danger-charters': `${s.total} reviews at ${s.rating} stars makes Danger Charters one of the most reviewed tour operators in Key West. But with a ${s.response_rate}% response rate, ${s.unresponded}+ guests who praised your crew heard nothing back. Tourists researching Key West charters read every response — a captain who replies builds a personality that books charters before competitors do.`,
+    'fishmonster': `${s.total} reviews at ${s.rating} stars is a strong reputation on a competitive dock. But ${s.unresponded}+ of those reviewers got no reply — including guests who called out specific crew members by name. Responding boosts Google ranking and shows future customers that FishMonster cares about every angler who steps aboard.`,
+    'gulfstream': `With ${s.total} reviews since 1947, Gulfstream has one of the most trusted names on Charter Boat Row. But ${s.unresponded}+ reviews have no response — including repeat customers who keep coming back. Responding consistently signals to Google that you're an active, engaged business, which directly improves your ranking in Key West fishing charter searches.`,
+  };
+
+  const concernText = {
+    'keys-dental': "Every new review triggers a personalized draft response — mentioning the staff member by name, addressing the specific procedure — delivered for one-click approval within 2 hours. Response rate goes from 5% to 98% without adding a minute to anyone's workday.",
+    'danger-charters': "Every new review triggers a draft response that mentions the crew member by name and the specific tour — delivered within 2 hours. Guests who raved about Bryan, Logan, or Micah see a personal reply in Danger Charters' warm, nautical voice. Response rate goes from 2% to 98% automatically.",
+    'fishmonster': "Every new review gets a personalized response mentioning the captain by name and the specific catch — delivered within 2 hours of posting. The system learns your voice and keeps every response sounding like it came from the dock.",
+    'gulfstream': "Every new review gets a response within 2 hours — personalized to the trip, crew member, and fish caught. The system runs automatically so the captain is never pulled off the water to answer a Google notification. Response rate goes from 3% to 98% immediately.",
+  };
+
+  const opp = opportunityText[biz.id] || `${s.total} reviews at ${s.rating} stars is a strong reputation. The opportunity: ${s.response_rate}% response rate means ${s.unresponded}+ reviews have no reply. AI fixes that automatically.`;
+  const conc = concernText[biz.id] || 'Every new review triggers a personalized AI response within 2 hours, delivered for approval or auto-posted.';
 
   container.innerHTML = `
     <div style="margin-bottom:1rem">
@@ -659,19 +674,15 @@ function renderReputation(biz) {
         <div class="rep-stat"><p class="rep-stat-num warn">${s.unresponded.toLocaleString()}+</p><p class="rep-stat-lbl">No reply</p></div>
       </div>
     </div>
-
     <div class="rep-opportunity">
       <p class="rep-opp-title">The opportunity</p>
-      <p class="rep-opp-text">${s.total} reviews and a ${s.rating}-star rating is genuinely exceptional. The problem: ${s.response_rate}% response rate means ${s.unresponded}+ reviews have gone unanswered. Google factors response rate into local search ranking — and every unanswered review is a missed chance to build trust with the next patient reading it.</p>
+      <p class="rep-opp-text">${opp}</p>
     </div>
-
     <div class="rep-concern">
       <p class="rep-con-title">What AI handles automatically</p>
-      <p class="rep-con-text">Every new review triggers a personalized draft response — mentioning staff by name, addressing the specific situation — delivered to you for one-click approval within 2 hours. Or set it to auto-post. Either way, your response rate goes from 5% to 98% without adding a minute to anyone's workday.</p>
+      <p class="rep-con-text">${conc}</p>
     </div>
-
-    <div style="font-size:13px;font-weight:500;color:var(--primary);margin:0 0 .75rem">Recent reviews — with AI-generated responses ready to post</div>
-
+    <div style="font-size:13px;font-weight:500;color:var(--primary);margin:.25rem 0 .75rem">Recent unanswered reviews — with AI responses ready to post</div>
     ${reviews.map(r => `
       <div class="rep-card">
         <div class="rep-header">
@@ -689,7 +700,7 @@ function renderReputation(biz) {
         </div>
         <p class="rep-text">"${r.text}"</p>
         <div class="rep-ai">
-          <p class="rep-ai-lbl">AI response — ready to post in 2 hours</p>
+          <p class="rep-ai-lbl">AI response — ready to post within 2 hours</p>
           <p class="rep-ai-text">${r.ai_response}</p>
         </div>
       </div>
