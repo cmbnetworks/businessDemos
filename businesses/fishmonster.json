@@ -72,7 +72,7 @@
           "ai_response": "A 6-year-old hooked on fishing — that's the greatest result we could ask for! Ben has a special gift for making sure every single person on the boat has a great time, regardless of age or experience. Thank you for trusting us with her first fishing trip. We hope to see the whole family back soon — especially the newest angler!"
         }
       ],
-      "profile_url": "https://maps.app.goo.gl/fishmonster"
+      "profile_url": "https://www.google.com/maps/place/FishMonster+Charters/@24.5606,-81.8027,17z"
     },
     "tripadvisor": {
       "name": "TripAdvisor",
@@ -193,5 +193,6 @@
     }
   },
   "total_reviews_all_platforms": 2122,
-  "avg_rating": 4.5
+  "avg_rating": 4.5,
+  "booking_label": "Book a Trip"
 }

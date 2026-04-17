@@ -22,57 +22,57 @@
       "name": "Google",
       "icon": "G",
       "color": "#4285F4",
-      "total": 15094,
-      "rating": 4.5,
-      "responded": 200,
-      "unresponded": 14894,
+      "total": 14200,
+      "rating": 4.4,
+      "responded": 100,
+      "unresponded": 14100,
       "response_rate": 1,
       "profile_url": "https://www.google.com/maps/place/Sloppy+Joe%27s+Bar/@24.5590845,-81.8049713",
       "reviews": [
         {
-          "reviewer": "Live Music Fan",
-          "initials": "LM",
+          "reviewer": "Sloppy Rita Convert",
+          "initials": "SR",
           "date": "1 week ago",
           "stars": 5,
-          "text": "Sloppy Joe's is a Key West institution. The live music is amazing, the staff incredibly friendly, and the energy is unlike anywhere else on Duval. Highly recommend the Sloppy Rita — strong and delicious. Went back three nights in a row!",
+          "text": "Iconic Key West experience. Matty at the bar was exceptional — remembered our drinks from the night before! Three live bands throughout the day, dollar bills to staple everywhere, and the Sloppy Rita is dangerously good. The food is overpriced but the drinks and atmosphere make up for it.",
           "responded": false,
-          "ai_response": "Three nights in a row — now THAT'S the Sloppy Joe's effect! The Sloppy Rita has that power. Live music 365 days a year and a staff that treats everyone like a regular — that's what 90 years of Key West hospitality looks like. Thank you for making us part of your trip and we'll see you on the next visit!"
+          "ai_response": "Matty remembering your drinks from the night before is exactly what makes this bar what it is — that's 90 years of hospitality in one bartender. Three bands, the Rita, and your name in the history books — that's a Key West day. Fair point on the food and noted. Thank you for coming back and we'll see you again!"
         },
         {
-          "reviewer": "History Buff",
-          "initials": "HB",
+          "reviewer": "Jukebox Hero",
+          "initials": "JH",
           "date": "2 weeks ago",
           "stars": 5,
-          "text": "Came for the history, stayed for the drinks! The Hemingway connection is real and the memorabilia all over the walls is fascinating. Matty at the bar was the best bartender — knew everything about the bar's history and made us feel like locals.",
+          "text": "We spent hours here. Live music from noon with three different sets — a Jimmy Buffett tribute, a rock act, and a late night blues band. Best $10 I spent in Key West just sitting at the bar with a rum punch. Friendly staff all around.",
           "responded": false,
-          "ai_response": "Matty is a legend behind that bar and we're so glad he made your visit special! The history runs deep here — from the 1933 opening day to Hemingway's barstool, there's a story in every corner. Thank you for taking the time to share this. Come back anytime — the history never gets old and neither does the Sloppy Rita!"
+          "ai_response": "Three sets, a rum punch, and hours well spent — that's the Sloppy Joe's formula working exactly as intended! The live music rotation is something our entertainment team works hard to curate. Thank you for spending your Key West time with us and we'll have that rum punch ready for round two!"
         },
         {
-          "reviewer": "Disappointed Foodie",
-          "initials": "DF",
-          "date": "3 weeks ago",
+          "reviewer": "Food Complaint",
+          "initials": "FC",
+          "date": "1 month ago",
           "stars": 3,
-          "text": "Drinks were great and the atmosphere is unbeatable, but the food was overpriced for what you get. The Sloppy Joe sandwich was smaller than expected for $15. Definitely worth visiting for drinks and music but manage your food expectations.",
+          "text": "The atmosphere and live music are absolutely fantastic. But the conch fritters were $16.49 and tasted like frozen ones from a grocery store. The smoked fish dip was inedible — we threw it away. Drinks are good and staff is friendly. Come for drinks not food.",
           "responded": false,
-          "ai_response": "Thank you for the honest feedback — we genuinely appreciate it. You're right that we're first and foremost a bar with legendary drinks and live music. On the food, we hear this occasionally and our kitchen is always working to improve the value. We hope the drinks, music, and atmosphere made the visit worthwhile — and we'd love to have you back to try the full experience again!"
+          "ai_response": "This is hard to read but we're grateful you said it. Conch fritters and smoked fish dip at those prices need to be exceptional — not grocery store quality. That's not acceptable and we're addressing it directly with our kitchen team. Thank you for the honest review. We'd love the chance to make it right on a future visit."
         },
         {
-          "reviewer": "Paul's Fan",
-          "initials": "PF",
-          "date": "2 weeks ago",
+          "reviewer": "Repeat Visitor",
+          "initials": "RV",
+          "date": "6 weeks ago",
           "stars": 5,
-          "text": "Stop in and see Paul! He hooked us up with drinks and food and even made us a shot to try which turned into us ordering the drink! Rainy day turned into the best afternoon. Cheers to Paul!!!",
+          "text": "Been coming to Key West for 20 years and Sloppy Joe's is always on the list. The vibe never gets old — history on every wall, live music all day, drinks with a generous pour. It's not fancy but it's authentic and that's what keeps us coming back.",
           "responded": false,
-          "ai_response": "Paul is a Key West treasure behind that bar and we're so glad he made your rainy afternoon something worth raising a glass to. That's the Sloppy Joe's magic — the weather outside doesn't matter when you're inside with the right bartender. Cheers to Paul, and cheers to you for sharing this!"
+          "ai_response": "Twenty years and still coming back — you are exactly the guest we're most grateful for! Authentic, not fancy — that's been the Sloppy Joe's mission since 1933 and we never plan to change it. Thank you for being part of our story year after year. See you on your next visit!"
         },
         {
-          "reviewer": "Hemingway Pilgrim",
-          "initials": "HP",
-          "date": "3 weeks ago",
+          "reviewer": "Dog at the Bar",
+          "initials": "DB",
+          "date": "2 months ago",
           "stars": 5,
-          "text": "Came to pay respects to Hemingway's favorite bar. The 119-pound sailfish on the wall he caught, the memorabilia everywhere, the longest bar in town — it's all there and it's all real. Drinks strong, atmosphere unmatched.",
+          "text": "One of the few bars where you can bring your dog and they genuinely welcome him. Water bowl appeared without us asking. Staff was warm and attentive. Great rum punch and the live music was a perfect end to a Key West afternoon.",
           "responded": false,
-          "ai_response": "Paying respects the right way — with a strong drink and an appreciation for the history on every wall! That sailfish has been watching over this bar for decades and we love that guests take the time to discover the stories behind everything. Thank you for this wonderful review and for being part of Sloppy Joe's 90+ year story!"
+          "ai_response": "We love our four-legged guests! A water bowl without asking is the minimum — Key West is a dog-friendly town and Sloppy Joe's is a dog-friendly bar. Thank you for bringing your pup and for the kind words about our team. Both of you are welcome back anytime!"
         }
       ]
     },
@@ -80,58 +80,58 @@
       "name": "TripAdvisor",
       "icon": "TA",
       "color": "#34E0A1",
-      "total": 4200,
-      "rating": 4.0,
-      "responded": 60,
-      "unresponded": 4140,
+      "total": 8452,
+      "rating": 4.2,
+      "responded": 50,
+      "unresponded": 8402,
       "response_rate": 1,
-      "ranking": "#1 Bar in Key West — National Register of Historic Places",
+      "ranking": "#106 of 371 restaurants in Key West",
       "profile_url": "https://www.tripadvisor.com/Restaurant_Review-g34345-d495523",
       "reviews": [
         {
-          "reviewer": "KW First-Timer",
+          "reviewer": "Matty Fan",
+          "initials": "MF",
+          "date": "2 weeks ago",
+          "stars": 5,
+          "text": "While visiting Key West we had to stop in to the iconic Sloppy Joe's for a drink and had the pleasure of meeting Matt (Matty). Matt greeted us with a warm welcome as soon as we entered and had our delicious drinks to us within minutes. It was evident that Matt is passionate about serving others. Thank you Matt and to Sloppy Joe's for a great experience!",
+          "responded": false,
+          "ai_response": "Thank you for this wonderful shoutout — Matty is exactly the kind of bartender that makes Sloppy Joe's what it is! He takes genuine pride in every guest who walks through those doors and it shows. We'll make sure he sees this. Welcome back anytime — the barstool and the Sloppy Rita will be waiting!"
+        },
+        {
+          "reviewer": "KW First Timer",
           "initials": "KF",
-          "date": "October 2025",
-          "stars": 5,
-          "text": "I've heard about Sloppy Joe's my whole life and it absolutely lived up to the hype. The Jimmy Buffett lookalike playing guitar was a highlight. Great drinks, wonderful atmosphere, and the kind of place you just don't want to leave.",
-          "responded": false,
-          "ai_response": "Living up to a lifetime of hype — that's the bar and we're thrilled we cleared it! The live music is the heartbeat of this place and it sounds like you got the full Sloppy Joe's experience. Thank you for finally making it in and for the kind words. The guitar player and the Sloppy Ritas will be here waiting for your next visit!"
-        },
-        {
-          "reviewer": "Honest Critic",
-          "initials": "HC",
-          "date": "November 2025",
-          "stars": 3,
-          "text": "Worth visiting once as a tourist landmark. The atmosphere is lively and fun. Food is overpriced and not great quality — the famous Sloppy Joe sandwich was disappointing. Go for drinks and music, skip the food.",
-          "responded": false,
-          "ai_response": "Thanks for the candid review! We'll always own that we're first and foremost a bar and music venue — that's 90 years of history. We appreciate the feedback on the food and our kitchen takes it seriously. The drinks and the live music we're proud of every single day. We hope to earn that extra star on your next visit!"
-        },
-        {
-          "reviewer": "Live Music Lover",
-          "initials": "LM",
-          "date": "August 2025",
-          "stars": 5,
-          "text": "Sloppy Joe's is as much about the history as it is a bar. Live music from noon daily, friendly staff, strong drinks at decent prices. The Sloppy Rita is outstanding. Stayed for three hours and wished we'd stayed longer.",
-          "responded": false,
-          "ai_response": "Three hours and wishing for more — that's the Sloppy Joe's pull! Live music from noon, history in every corner, and a Sloppy Rita in hand is a combination that's hard to leave. Thank you for spending your Key West time with us and we hope to keep you here even longer on the next visit!"
-        },
-        {
-          "reviewer": "First Time KW",
-          "initials": "FT",
-          "date": "September 2025",
+          "date": "3 weeks ago",
           "stars": 4,
-          "text": "Had to visit as a Key West rite of passage. Drinks were good and reasonably priced. Live music was great. Food was average but the atmosphere makes up for it. Go for the experience, not the food.",
+          "text": "Been going to Key West for over 25 years and finally made it to Sloppy Joe's. The drinks are pricey but really good. There was a Jimmy Buffett lookalike playing guitar — for drinks and music I could not recommend it more. The food however was disappointing — the famous Sloppy Joe was small for the price and the conch fritters seemed identical to frozen ones. Go for drinks and music, skip the food.",
           "responded": false,
-          "ai_response": "A Key West rite of passage — we'll take it! You nailed the approach: come for the atmosphere, the history, the live music, and the drinks. We always welcome honest feedback on the food and our kitchen is always working to improve. Thank you for making Sloppy Joe's part of your Key West story!"
+          "ai_response": "Thank you for being straight with us — this is exactly the kind of feedback we need. You're right that our drinks and live music are what we're most proud of. The food feedback is noted and we're actively working on improving quality and portion value. We're glad the Jimmy Buffett lookalike and the Sloppy Rita delivered! Next time swing by and give the kitchen another chance — we'd love to earn that fifth star."
         },
         {
-          "reviewer": "Anniversary Night",
-          "initials": "AN",
-          "date": "October 2025",
+          "reviewer": "Live Music Night",
+          "initials": "LN",
+          "date": "1 month ago",
           "stars": 5,
-          "text": "Spent our anniversary evening at Sloppy Joe's. Bartender Matt went above and beyond — warm welcome as soon as we walked in, drinks in hand within minutes, remembered our order all night. Passionate about serving and it shows.",
+          "text": "Saturday night at Sloppy Joe's was incredible. Three bands throughout the day and night, friendly staff, strong drinks. This is Key West at its absolute best. You don't come here for the food — you come for the experience and the history and it delivers every single time.",
           "responded": false,
-          "ai_response": "Matt and an anniversary evening at Sloppy Joe's — that sounds like a Key West memory worth keeping! Matt brings that energy to every single guest and we're proud to have him behind the bar. Thank you for celebrating with us and happy anniversary!"
+          "ai_response": "Three bands, strong drinks, and the energy that only Sloppy Joe's can produce on a Saturday night — you nailed it! The experience and the history is exactly what we've been delivering since 1933. Thank you for being part of it and we'll see you back on the corner of Duval and Greene!"
+        },
+        {
+          "reviewer": "Paul's Table",
+          "initials": "PT",
+          "date": "6 weeks ago",
+          "stars": 5,
+          "text": "Stop in and see Paul! He hooked us up with drinks and food and even made us a shot to try which turned into ordering the drink! The weather wasn't the greatest and this was a great place to relax. Cheers to Paul!!!",
+          "responded": false,
+          "ai_response": "Paul behind the bar is a Key West institution all on his own! Turning a rainy afternoon into a great time with a mystery shot that becomes a favorite order — that's exactly the Sloppy Joe's bartender magic. We'll pass the cheers along to Paul. Come back soon!"
+        },
+        {
+          "reviewer": "History Lover",
+          "initials": "HL",
+          "date": "2 months ago",
+          "stars": 5,
+          "text": "Came to pay respects to Hemingway's favorite bar. The memorabilia on every wall is fascinating — the sailfish he caught, the old photographs, the long wooden bar with all its character. Drinks were strong and reasonably priced for Key West. The atmosphere is unlike anywhere else in the world.",
+          "responded": false,
+          "ai_response": "That 119-pound sailfish has been watching over this bar for decades and we love that guests take the time to find the stories behind everything on these walls. Hemingway's fingerprints are all over this place and we take real pride in honoring that history every single day. Thank you for visiting and for sharing this wonderful review!"
         }
       ]
     },
@@ -139,60 +139,61 @@
       "name": "Yelp",
       "icon": "Y",
       "color": "#FF1A1A",
-      "total": 1568,
+      "total": 1569,
       "rating": 3.5,
       "responded": 10,
-      "unresponded": 1558,
+      "unresponded": 1559,
       "response_rate": 1,
       "profile_url": "https://www.yelp.com/biz/sloppy-joes-bar-key-west",
       "reviews": [
         {
-          "reviewer": "Yelp Regular",
-          "initials": "YR",
-          "date": "2 months ago",
+          "reviewer": "Duval Drinker",
+          "initials": "DD",
+          "date": "1 month ago",
           "stars": 4,
-          "text": "Sloppy Joe's has always been a favorite spot to enjoy live music while having a drink or two on Duval. The atmosphere is electric and the staff always friendly. It's a must-stop on any Key West trip.",
+          "text": "Sloppy Joe's has always been a favorite spot to enjoy live music while having a drink or two on Duval St. Atmosphere is electric and staff always friendly. The Sloppy Rita is outstanding. A must-stop on any Key West trip — just don't expect the food to match the hype.",
           "responded": false,
-          "ai_response": "A must-stop on every Key West trip — that's exactly what we aim to be! Live music from open to close, a staff that loves what they do, and 90 years of history in every barstool. Thank you for the Yelp love and we'll see you on Duval next time you're in town!"
+          "ai_response": "A must-stop with an outstanding Sloppy Rita — we'll take it! And fair point on the food — our drinks and live music are the main events and we own that. We appreciate the honest review and hope to keep earning your Duval Street stops for years to come!"
         },
         {
-          "reviewer": "Music Night",
-          "initials": "MN",
+          "reviewer": "Dog Friendly Fan",
+          "initials": "DF",
           "date": "2 months ago",
           "stars": 5,
-          "text": "Sloppy Joe's has always been a favorite spot to enjoy live music while having a drink on Duval. The atmosphere is electric and the staff always friendly. Must-stop on any Key West trip.",
+          "text": "Love that Sloppy Joe's is dog friendly! Brought my pup and the server brought a water bowl without us even asking. Great staff, great music, fun vibe all day. This place really is the best party in Key West.",
           "responded": false,
-          "ai_response": "A must-stop on every Key West trip — that's exactly what we aim to be! Live music from open to close, a staff that loves what they do, and 90 years of history in every barstool. Thank you for the Yelp love and we'll see you on Duval next time!"
+          "ai_response": "We love our four-legged guests as much as their humans! A water bowl without asking — that's our team doing what they do best. Thank you for bringing your pup and for the kind words. The best party in Key West has a spot for both of you anytime!"
         },
         {
-          "reviewer": "Conch Republic Fan",
-          "initials": "CF",
+          "reviewer": "Sloppy Critic",
+          "initials": "SC",
           "date": "3 months ago",
-          "stars": 4,
-          "text": "Great atmosphere and live music. Staff was friendly and fast even when busy. Drinks are decent value for Key West. The famous Sloppy Joe sandwich was smaller than expected but the overall experience is worth it for the vibe.",
+          "stars": 2,
+          "text": "Went purely for the famous Sloppy Joe sandwich. $15.49 for what arrived on the smallest bun I've ever seen was genuinely disappointing. The smoked fish dip was inedible. Drinks were good but the food is a tourist trap. Atmosphere and music are great — wish the kitchen matched.",
           "responded": false,
-          "ai_response": "Thanks for the honest and fair review! The vibe, the music, and the staff are what we're most proud of. We hear the feedback on portion size occasionally and our kitchen takes it seriously. We hope the overall experience made it a worthwhile stop and we'd love the chance to make it a 5-star on your next visit!"
+          "ai_response": "Thank you for the direct feedback — we genuinely appreciate it even when it stings. The Sloppy Joe sandwich is our namesake and you deserved better for that price. We're actively reviewing our kitchen quality and portion standards because reviews like this matter. We hope you'll give the kitchen another chance on a future visit — we want to earn your trust back."
         },
         {
-          "reviewer": "Tourist Turned Local",
-          "initials": "TL",
+          "reviewer": "Hemingway Pilgrim",
+          "initials": "HP",
           "date": "4 months ago",
           "stars": 5,
-          "text": "Sloppy joes is a whole vibe! Super fun and feels very safe with all the security. The entire staff were super nice, friendly, and genuinely happy to serve. Love this place every single time.",
+          "text": "You don't visit Key West without visiting Sloppy Joe's. The history alone is worth it — Hemingway's favorite bar, on the National Register of Historic Places, live music all day. Three bands daily, generous drinks, and a staff that treats everyone like a regular.",
           "responded": false,
-          "ai_response": "'A whole vibe' — that might be our new tagline! A safe, fun environment with staff who genuinely love what they do is something we work hard to maintain every single day. Thank you for being a regular part of the Sloppy Joe's story. See you on Duval!"
+          "ai_response": "A Key West rite of passage done right! The history, the music, and a staff that makes every guest feel like a regular — that's what 90 years of showing up looks like. Thank you for making Sloppy Joe's part of your story and we'll see you next trip!"
         },
         {
-          "reviewer": "Jimmy Buffett Night",
-          "initials": "JB",
+          "reviewer": "Joes Tap Room Fan",
+          "initials": "JT",
           "date": "5 months ago",
           "stars": 5,
-          "text": "Saturday night at Sloppy Joe's was incredible. Jimmy Buffett lookalike playing guitar, frozen drinks flowing, great energy. This is Key West at its absolute best. You don't come here for the food — you come for the experience and it delivers every time.",
+          "text": "Pro tip: when Sloppy Joe's is packed, duck into Joe's Tap Room around back. Air conditioned, craft beers on tap, sports on TVs, and you can still hear the band. Stayed three hours. This is the hidden gem of Duval Street.",
           "responded": false,
-          "ai_response": "A Jimmy Buffett lookalike, frozen drinks, and that Saturday night energy — you got Sloppy Joe's at full power! You put it perfectly: the experience is the product and we're proud to have been delivering it since 1933. Thank you for being part of the tradition and we'll see you back on the corner of Duval and Greene!"
+          "ai_response": "You found the secret! Joe's Tap Room is exactly that — a cool escape when the main bar is at full Duval Street capacity. Craft beers, AC, sports, and the music still floating in — we're glad you discovered it. Consider yourself a Sloppy Joe's insider now. See you on both sides!"
         }
       ]
     }
   },
-  "system_prompt": "You are the friendly bar assistant for Sloppy Joe's Bar in Key West, Florida — one of the most famous bars in America, established in 1933. Located at the corner of Duval and Greene Street since 1937, Sloppy Joe's is on the National Register of Historic Places and is known worldwide.\n\nYou speak with the energy and warmth of a great Key West bartender — welcoming, a little fun, proud of the history.\n\n--- ABOUT ---\nSloppy Joe's has been serving Key West since Prohibition ended in 1933. Ernest Hemingway was a regular. The bar is listed on the National Register of Historic Places. Live music 365 days a year from 10am to 2am.\n\n--- HOURS ---\nMon–Sat: 9:00 AM – 4:00 AM\nSun: 10:00 AM – 4:00 AM\n\n--- WHAT WE OFFER ---\n- Live music every day, 10am–2am, dancing every night\n- Full bar with specialty cocktails: Sloppy Rita, Rum Punch, Pina Colada, Sloppy Ginger\n- Food menu: Sloppy Joe sandwich, conch fritters, wings, burgers, sandwiches, smoked fish dip\n- World-famous retail store with clothing and souvenirs\n- Joe's Tap Room: craft beers on tap, sports on TVs\n- Annual Hemingway Look-Alike Contest every July\n- New Year's Eve Conch Shell Drop\n\n--- LOCATION ---\n201 Duval St, corner of Duval and Greene, Key West. Right near Mallory Square.\n\n--- BOOKING ---\nNo reservations — walk in and grab a table. First come first served.\n\nIf unsure: 'Your best bet is to call us at (305) 294-5717 or check sloppyjoes.com for the latest entertainment schedule!'"
+  "system_prompt": "You are the friendly bar assistant for Sloppy Joe's Bar in Key West, Florida — one of the most famous bars in America, established in 1933. Located at the corner of Duval and Greene Street since 1937, Sloppy Joe's is on the National Register of Historic Places and is known worldwide.\n\nYou speak with the energy and warmth of a great Key West bartender — welcoming, a little fun, proud of the history.\n\n--- ABOUT ---\nSloppy Joe's has been serving Key West since Prohibition ended in 1933. Ernest Hemingway was a regular. The bar is listed on the National Register of Historic Places. Live music 365 days a year from 10am to 2am.\n\n--- HOURS ---\nMon–Sat: 9:00 AM – 4:00 AM\nSun: 10:00 AM – 4:00 AM\n\n--- WHAT WE OFFER ---\n- Live music every day, 10am–2am, dancing every night\n- Full bar with specialty cocktails: Sloppy Rita, Rum Punch, Pina Colada, Sloppy Ginger\n- Food menu: Sloppy Joe sandwich, conch fritters, wings, burgers, sandwiches, smoked fish dip\n- World-famous retail store with clothing and souvenirs\n- Joe's Tap Room: craft beers on tap, sports on TVs\n- Annual Hemingway Look-Alike Contest every July\n- New Year's Eve Conch Shell Drop\n\n--- LOCATION ---\n201 Duval St, corner of Duval and Greene, Key West. Right near Mallory Square.\n\n--- BOOKING ---\nNo reservations — walk in and grab a table. First come first served.\n\nIf unsure: 'Your best bet is to call us at (305) 294-5717 or check sloppyjoes.com for the latest entertainment schedule!'",
+  "booking_label": "Visit Website"
 }

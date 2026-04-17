@@ -459,6 +459,11 @@
   .send-btn svg { width: 16px; height: 16px; }
 
 
+
+  .biz-info-strip{display:flex;align-items:center;gap:16px;padding:8px 20px;background:var(--color-background-secondary,rgba(10,35,64,0.04));border-bottom:0.5px solid rgba(10,35,64,0.08);flex-wrap:wrap;flex-shrink:0}
+  .biz-info-link{font-size:12px;color:var(--primary);text-decoration:none;display:flex;align-items:center;gap:4px;opacity:0.75;transition:opacity .15s}
+  .biz-info-link:hover{opacity:1}
+  .biz-info-sep{font-size:11px;color:rgba(10,35,64,0.2)}
   .tab-bar{display:flex;gap:0;border-bottom:1px solid rgba(10,35,64,0.1);background:white;flex-shrink:0}
   .tab-btn{flex:1;padding:12px 8px;font-size:13px;font-weight:500;color:var(--text-mid);border:none;background:transparent;cursor:pointer;border-bottom:2.5px solid transparent;transition:all .15s;font-family:'DM Sans',sans-serif}
   .tab-btn.active{color:var(--primary);border-bottom-color:var(--primary)}
@@ -570,6 +575,9 @@
       <button class="tab-btn active" id="tabChat" onclick="switchTab('chat')">Chat Assistant</button>
       <button class="tab-btn" id="tabRep" onclick="switchTab('reputation')">Reputation Audit</button>
     </div>
+
+    <!-- BUSINESS INFO STRIP -->
+    <div class="biz-info-strip" id="bizInfoStrip" style="display:none"></div>
 
     <!-- CHAT PANEL -->
     <div class="tab-panel active" id="panelChat" style="display:flex;flex-direction:column;flex:1;overflow:hidden;padding:0">
@@ -940,11 +948,28 @@ async function selectBusiness(id) {
     document.getElementById('topbarAvatar').textContent = biz.logo_emoji;
     document.getElementById('topbarName').textContent = biz.name;
 
-    // Update book button
+    // Update book button with dynamic label
     const bookBtn = document.getElementById('bookBtn');
     bookBtn.href = biz.booking_url;
-    bookBtn.textContent = biz.id === 'keys-dental' ? 'Book Appointment →' : 'Book Now →';
-    bookBtn.style.display = 'block';
+    const bookLabel = biz.booking_label || (biz.booking_url && biz.booking_url !== biz.website ? 'Book Now' : 'Visit Website');
+    bookBtn.textContent = bookLabel + ' →';
+    bookBtn.style.display = biz.booking_url ? 'block' : 'none';
+
+    // Render info strip
+    const strip = document.getElementById('bizInfoStrip');
+    const googleUrl = biz.platforms?.google?.profile_url || '';
+    const taUrl = biz.platforms?.tripadvisor?.profile_url || '';
+    const yelpUrl = biz.platforms?.yelp?.profile_url || biz.platforms?.healthgrades?.profile_url || '';
+    const links = [];
+    if (biz.website) links.push(`<a href="${biz.website}" target="_blank" rel="noopener" class="biz-info-link">🌐 Website</a><span class="biz-info-sep">|</span>`);
+    if (googleUrl) links.push(`<a href="${googleUrl}" target="_blank" rel="noopener" class="biz-info-link">📍 Google Maps</a><span class="biz-info-sep">|</span>`);
+    if (taUrl) links.push(`<a href="${taUrl}" target="_blank" rel="noopener" class="biz-info-link">🔍 TripAdvisor</a><span class="biz-info-sep">|</span>`);
+    if (yelpUrl) links.push(`<a href="${yelpUrl}" target="_blank" rel="noopener" class="biz-info-link">⭐ Yelp</a><span class="biz-info-sep">|</span>`);
+    if (biz.phone) links.push(`<a href="tel:${biz.phone}" class="biz-info-link">📞 ${biz.phone}</a>`);
+    // Remove trailing separator
+    while (links.length && links[links.length-1].includes('biz-info-sep')) links.pop();
+    strip.innerHTML = links.join('');
+    strip.style.display = links.length ? 'flex' : 'none';
 
     // Update sidebar active
     document.querySelectorAll('.biz-card').forEach(c => c.classList.remove('active'));

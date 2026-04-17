@@ -25,7 +25,7 @@
       "responded": 120,
       "unresponded": 5561,
       "response_rate": 2,
-      "profile_url": "https://maps.app.goo.gl/dangercharters",
+      "profile_url": "https://www.google.com/maps/place/Danger+Charters/@24.5602,-81.8077,17z",
       "reviews": [
         {
           "reviewer": "Sarah M.",
@@ -193,5 +193,6 @@
     }
   },
   "total_reviews_all_platforms": 13920,
-  "avg_rating": 4.9
+  "avg_rating": 4.9,
+  "booking_label": "Book a Trip"
 }

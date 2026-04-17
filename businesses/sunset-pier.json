@@ -23,56 +23,56 @@
       "icon": "G",
       "color": "#4285F4",
       "total": 4092,
-      "rating": 4.6,
+      "rating": 4.4,
       "responded": 80,
       "unresponded": 4012,
       "response_rate": 2,
       "profile_url": "https://www.google.com/maps/place/Sunset+Pier/@24.5609118,-81.8072677",
       "reviews": [
         {
-          "reviewer": "Sunset Chaser",
-          "initials": "SC",
+          "reviewer": "Burger Sauce Fanatic",
+          "initials": "BS",
           "date": "1 week ago",
           "stars": 5,
-          "text": "One of the best places to hang on Key West. Incredible views of the water and passing boats, usually live music on stage, TVs, vibrant colors, fans to keep cool. The bartending service was great and the drinks were excellent. It could almost seem like a hidden gem with fewer crowds than Duval!",
+          "text": "Their burgers are absolutely amazing — we ordered them on Wednesday, Friday and Sunday during boat race week! Would love to have the sunset pier sauce recipe. The waterfront views of the boats and harbor are unbeatable. Seating all the way down the pier means everyone gets a great spot.",
           "responded": false,
-          "ai_response": "A hidden gem at the end of Duval — that's exactly the vibe we love hearing! The water views, the live music, and a breeze from the Gulf — it's hard to beat for a Key West afternoon or sunset. Thank you for the kind words about our bar team and we hope to see you back for another round in the best seat on the island!"
+          "ai_response": "Three burger orders in one week during boat race week — you are officially our biggest fan! The sunset pier sauce is a closely guarded secret but we love that it keeps guests coming back. Pier seating with harbor views for everyone is exactly the experience we work hard to deliver. Thank you for the wonderful review and we'll have those burgers ready next race week!"
         },
         {
-          "reviewer": "Lobster Roll Fan",
-          "initials": "LR",
+          "reviewer": "Natalia's Return",
+          "initials": "NR",
           "date": "2 weeks ago",
           "stars": 5,
-          "text": "Great little spot on the water's edge. Awesome views all around. Service was good even though they were busier than usual. The Lobster Rolls were excellent and the key lime pie was fabulous — cheesecake-esque. Recommend this spot for drinks, food and live music.",
+          "text": "Came back specifically hoping for Natalia as our server. She was there and she was just as wonderful — drinks always full, attentive without being intrusive, genuinely warm. The key lime colada and Mahi Tacos were excellent. Perfect waterfront dinner.",
           "responded": false,
-          "ai_response": "The Lobster Roll and that key lime pie — two of our proudest menu items! Thank you for the patience on a busy evening and the kind words about our team pushing through it. Views, live music, lobster, and key lime pie at the water's edge — that's a Key West afternoon worth writing home about. We hope to see you back for round two!"
+          "ai_response": "Returning specifically for Natalia — she is going to love reading this! That's the mark of a truly exceptional server and we're so fortunate to have her. The key lime colada and Mahi Tacos is a winning combination and we're glad everything delivered. Thank you for coming back and we hope the next visit brings you both back together again!"
         },
         {
-          "reviewer": "Sunset Seeker",
-          "initials": "SS",
+          "reviewer": "Three Amigos Fan",
+          "initials": "TF",
           "date": "1 month ago",
           "stars": 5,
-          "text": "This fantastic spot on the boardwalk offers live music and a charming tiki bar for drinks. Most tables are along the boardwalk with a perfect view of the boats and stunning sunsets. The drinks are enjoyable and the food is above average. Perfect place to savor a meal while watching the sunset.",
+          "text": "Blackened mahi-mahi sandwich and frozen margarita — both excellent. Husband had Mexican street corn and chicken salad and enjoyed everything. The Three Amigos band were so much fun. This is a great spot right on the water for casual dinner with live music and a beautiful sunset.",
           "responded": false,
-          "ai_response": "Boats, boardwalk, tiki bar, and a Key West sunset — you found the right table! We work hard to make Sunset Pier feel like the most naturally perfect spot on the island for that golden hour. Thank you for the lovely review and we hope the next sunset you catch from our pier is even more spectacular!"
+          "ai_response": "The Three Amigos always bring the energy and it sounds like they delivered that night! The blackened mahi sandwich and margarita is one of our best combinations and the Mexican street corn has its own fan club. Casual waterfront dinner with live music and a Key West sunset — that's exactly what Sunset Pier is for. Thank you and we hope to see you back!"
         },
         {
-          "reviewer": "Pier Fanatic",
-          "initials": "PF",
-          "date": "1 month ago",
-          "stars": 5,
-          "text": "One of the best places to hang on Key West. Incredible views of water and passing boats, live music on stage, TVs, vibrant colors, fans to keep cool. Bartending was great and drinks excellent. Fewer crowds than Duval!",
-          "responded": false,
-          "ai_response": "A hidden gem at the end of Duval — that's exactly the vibe we love hearing! The water views, the live music, and a Gulf breeze are hard to beat for a Key West afternoon or sunset. Thank you for the kind words about our bar team and we hope to see you back for another round in the best seat on the island!"
-        },
-        {
-          "reviewer": "Sunset Chaser Pro",
-          "initials": "SC",
+          "reviewer": "Lindsay's Fan",
+          "initials": "LF",
           "date": "6 weeks ago",
           "stars": 5,
-          "text": "Watched the most spectacular sunset of my life from this pier. The Pena coladas were outstanding. Lobster roll was fresh and generous. Service was excellent even though they were slammed. Best end to a Key West trip.",
+          "text": "Amazing dinner at Sunset Pier. The key lime colada was delicious and so were the Mahi Mahi tacos. Our server Lindsay was great — amazing service. Would recommend and would definitely come back!",
           "responded": false,
-          "ai_response": "The most spectacular sunset of your life from Sunset Pier — we'll take it! The Pena coladas, a fresh lobster roll, and the Gulf of Mexico turning gold in front of you is a combination we're proud to offer every single evening. Thank you for the wonderful review and we hope every Key West trip ends on our pier from now on!"
+          "ai_response": "Lindsay is one of our best and we're so glad she made the evening exceptional! The key lime colada and Mahi Tacos is a combination we're very proud of. Thank you for the kind words and we'll make sure Lindsay sees this review. Come back anytime — she and those tacos will be here!"
+        },
+        {
+          "reviewer": "Lobster Roll Issue",
+          "initials": "LI",
+          "date": "2 months ago",
+          "stars": 3,
+          "text": "The views and location are absolutely unmatched — best seat in Key West for the sunset. But the food pricing doesn't match the quality. The lobster roll at $38 had very little lobster. Drinks were good. Come for the views and cocktails, be selective with the food.",
+          "responded": false,
+          "ai_response": "The views and cocktails earning praise alongside an honest food concern — thank you for both. $38 for a lobster roll should mean loaded with lobster and we understand the disappointment when it doesn't deliver. We're reviewing this dish because you're not alone in this feedback. We want every part of the Sunset Pier experience to match those views. Please give us another chance on the food."
         }
       ]
     },
@@ -80,58 +80,58 @@
       "name": "TripAdvisor",
       "icon": "TA",
       "color": "#34E0A1",
-      "total": 1200,
-      "rating": 4.3,
+      "total": 1842,
+      "rating": 4.0,
       "responded": 25,
-      "unresponded": 1175,
-      "response_rate": 2,
-      "ranking": "Top Waterfront Dining — Key West",
+      "unresponded": 1817,
+      "response_rate": 1,
+      "ranking": "Waterfront Dining — Adjacent to Mallory Square",
       "profile_url": "https://www.tripadvisor.com/Restaurant_Review-g34345-d1390476",
       "reviews": [
         {
-          "reviewer": "Mahi Taco Convert",
-          "initials": "MT",
+          "reviewer": "Natalia Fan",
+          "initials": "NF",
           "date": "October 2025",
           "stars": 5,
-          "text": "Ordered the Grilled Mahi Mahi Tacos and Lobster Roll. Both were excellent! Service was great, Pena coladas were so good, and the views were amazing. Fun live music rounding it all out. One of the best spots in Key West.",
+          "text": "Beautiful scenery and weather. What made Sunset Pier stand out was our waitress Natalia. She saw to it that our drinks were always full and that we had everything we needed at all times. The personality of Natalia is that of a lovely lady who takes great care of her customers. My fiance and I have never felt compelled to leave remarks — Natalia was the difference maker. We look forward to going back in hopes she is our waitress.",
           "responded": false,
-          "ai_response": "The Mahi Tacos AND the Lobster Roll — you came prepared! Add the live music, the Pena coladas, and those water views and you've got the full Sunset Pier experience. Thank you for this wonderful review from TripAdvisor — we'll share it with our kitchen and bar team who work hard every day to earn exactly this. Hope to see you back at the best seat in Key West!"
+          "ai_response": "Natalia made such an impression that you felt compelled to leave your first ever review — that's the highest compliment a server can receive! She takes genuine pride in every guest at her tables and we're incredibly lucky to have her. We'll make sure she sees this. We hope to have both of you back — and we'll do our best to make sure Natalia is there to take care of you again!"
         },
         {
-          "reviewer": "Mahi Taco Fan",
-          "initials": "MT",
-          "date": "September 2025",
-          "stars": 5,
-          "text": "Ordered Grilled Mahi Mahi Tacos and Lobster Roll. Both were excellent! Service great, Pena coladas so good, views amazing. Fun live music rounding it all out. One of the best spots in Key West.",
-          "responded": false,
-          "ai_response": "The Mahi Tacos AND the Lobster Roll in one visit — you came prepared! Add the live music, the Pena coladas, and those water views and you've got the full Sunset Pier experience. Thank you for this wonderful review and we hope to see you back at the best seat in Key West!"
-        },
-        {
-          "reviewer": "Boardwalk Regular",
-          "initials": "BR",
-          "date": "October 2025",
-          "stars": 5,
-          "text": "This fantastic boardwalk spot has live music and a charming tiki bar. Tables along the boardwalk with a perfect view of boats and stunning sunsets. Drinks enjoyable, food above average. Perfect for a meal watching the sunset.",
-          "responded": false,
-          "ai_response": "Boats, boardwalk, tiki bar, and a Key West sunset — you found the right table! We work hard to make Sunset Pier feel like the most naturally perfect spot on the island for that golden hour. Thank you for the lovely review and we hope the next sunset you catch from our pier is even more spectacular!"
-        },
-        {
-          "reviewer": "Couple's Sunset",
-          "initials": "CS",
+          "reviewer": "Burger Boat Race Fan",
+          "initials": "BB",
           "date": "November 2025",
           "stars": 5,
-          "text": "My husband and I made this our nightly sunset ritual for our entire Key West vacation. Different drinks each night, always great service, always a stunning view. The key lime pie is fabulous. Will plan our trips around this place.",
+          "text": "Their burgers are absolutely amazing! We were there for the boat races and ordered a burger on Wednesday, Friday AND Sunday — we couldn't stop! Would love to have the sunset pier sauce recipe if anyone knows what it is! The waterfront view during the races was incredible.",
           "responded": false,
-          "ai_response": "A nightly sunset ritual for an entire vacation — that's the highest compliment we could ever receive! Planning future trips around Sunset Pier means the world to us. The key lime pie, the ever-changing drink menu, and that reliable sunset view — we'll have it all waiting for you on your next visit. Thank you!"
+          "ai_response": "A burger order three times in one week — that is the ultimate endorsement! The sunset pier sauce is one of our best-kept secrets and we love that it keeps you coming back. The boat race views from the pier are something special. Thank you for this wonderful review and we'll have those burgers ready for your next visit!"
         },
         {
-          "reviewer": "Nightly Ritual",
-          "initials": "NR",
+          "reviewer": "Three Amigos Night",
+          "initials": "TA",
           "date": "December 2025",
           "stars": 5,
-          "text": "Made Sunset Pier our nightly ritual for our entire vacation. Different drinks each night, always great service, stunning views every time. The key lime pie is fabulous. Staff recognized us by night three. Planning all future Key West trips around this place.",
+          "text": "This is a great spot right on the water for casual dinner, fruity cocktails, live music, and a beautiful sunset. I had the blackened mahi-mahi sandwich and a frozen margarita — both excellent. My husband ordered the Mexican street corn and chicken salad and enjoyed his too. The band performing was the Three Amigos and they were so much fun to watch. Seating extends all the way down the pier so no problem getting a table.",
           "responded": false,
-          "ai_response": "A nightly ritual for an entire vacation and recognized by staff by night three — that's Sunset Pier doing exactly what we love to do! Planning future trips around us means the world to our whole team. The key lime pie, the ever-changing drink menu, and that reliable sunset view will all be here waiting. Thank you and see you soon!"
+          "ai_response": "The Three Amigos are one of our favorite acts and it sounds like they brought the energy that night! The blackened mahi-mahi sandwich and frozen margarita is a great combination and we're glad the Mexican street corn landed too. Seating all the way down the pier means everyone gets a view — exactly how it should be. Thank you for the wonderful review and we hope to see you back for the next Three Amigos show!"
+        },
+        {
+          "reviewer": "Lindsay's Guest",
+          "initials": "LG",
+          "date": "January 2026",
+          "stars": 5,
+          "text": "Had the most amazing dinner at Sunset Pier! The key lime colada was delicious and so were the Mahi Mahi tacos! Would recommend and would come back! Our server Lindsay was great — amazing service all night!",
+          "responded": false,
+          "ai_response": "Lindsay takes pride in every guest and it sounds like she delivered! The key lime colada and Mahi Mahi tacos is one of our favorite combinations — we're glad you discovered it. Thank you for the kind words and we'll make sure Lindsay sees this. Come back anytime — the colada and the tacos will be waiting!"
+        },
+        {
+          "reviewer": "Lobster Roll Critic",
+          "initials": "LR",
+          "date": "February 2026",
+          "stars": 3,
+          "text": "This may be a resort area but the prices they wanted for the food were outrageous. The lobster roll for $38 had hardly any lobster that I could taste. The views are breathtaking and the location is unmatched but the food pricing doesn't match the quality. Drinks were good.",
+          "responded": false,
+          "ai_response": "Thank you for the honest feedback — $38 for a lobster roll that doesn't deliver on lobster is not acceptable and we hear you. Our kitchen team is reviewing this dish specifically because it's not the first time we've heard this concern. The views and location are things we're proud of and the food needs to match. We'd love the chance to make this right on a return visit — please come back and let us know so we can take care of you."
         }
       ]
     },
@@ -147,52 +147,53 @@
       "profile_url": "https://www.yelp.com/biz/sunset-pier-key-west",
       "reviews": [
         {
-          "reviewer": "Waterfront Diner",
-          "initials": "WD",
-          "date": "3 months ago",
-          "stars": 4,
-          "text": "Great waterfront location with excellent views. Drinks were good and the atmosphere was perfect for watching the sunset. Food was decent — nothing exceptional but solid. Service could be faster during peak times but overall a great Key West experience.",
-          "responded": false,
-          "ai_response": "Thank you for the honest and fair review! The waterfront location and sunset views are something we're genuinely proud of every single evening. We hear you on service speed during peak times — that's a real challenge at a pier this popular and we're always working on it. We're glad the overall experience delivered and hope to show you an even better one on your next visit!"
-        },
-        {
-          "reviewer": "Tiki Bar Devotee",
-          "initials": "TB",
+          "reviewer": "Mahi Taco Devotee",
+          "initials": "MT",
           "date": "2 months ago",
           "stars": 5,
-          "text": "The tiki bar at Sunset Pier is legitimately one of the best spots in Key West. Cold drinks, amazing views, live music, friendly staff. Went back three times in one week. Cheaper than most places nearby too.",
+          "text": "Ordered Grilled Mahi Mahi Tacos and a key lime colada. Both were excellent! Service was great, views were amazing. Fun live music made the whole vibe perfect. One of the best spots in Key West for a casual waterfront dinner.",
           "responded": false,
-          "ai_response": "Three times in one week — you officially have great taste in Key West bars! The tiki bar is our pride and the views make every drink taste better. Thank you for being a Sunset Pier regular and we'll have your spot at the rail ready whenever you're back in town!"
-        },
-        {
-          "reviewer": "Weekend Warrior",
-          "initials": "WW",
-          "date": "3 months ago",
-          "stars": 4,
-          "text": "Great waterfront location and views. Food was solid, drinks were good. Gets very busy around sunset which means service slows down. Worth it for the view though — just plan to arrive early for the best seats.",
-          "responded": false,
-          "ai_response": "Arrive early for the best seats — that's the Sunset Pier pro tip right there! You're absolutely right that sunset hour gets busy and we appreciate the honest feedback on service pace. We're always working on handling the rush better. Thank you for the fair review and for sharing that valuable advice with future guests!"
+          "ai_response": "Grilled Mahi Tacos, a key lime colada, waterfront views, and live music — you put together the perfect Sunset Pier evening! Thank you for the kind words and we hope to have you back for round two. The colada and tacos will be waiting!"
         },
         {
           "reviewer": "Margarita Sunset",
           "initials": "MS",
-          "date": "4 months ago",
+          "date": "3 months ago",
           "stars": 5,
-          "text": "Perfect spot for happy hour before the Mallory Square sunset celebration. Cocktails were well-made and not overpriced for Key West. The views of the harbor were stunning. Staff was attentive and friendly. Will be back.",
+          "text": "Perfect happy hour spot before the Mallory Square sunset celebration. Cocktails well-made and not outrageously priced for Key West. Views of the harbor were stunning. Staff attentive and friendly. The blackened mahi sandwich was fresh and excellent. Came back the next two nights.",
           "responded": false,
-          "ai_response": "A pre-Mallory Square happy hour at Sunset Pier — you've figured out the perfect Key West evening sequence! Well-made cocktails at fair prices with harbor views and attentive staff is exactly what we aim for. Thank you for the wonderful review and we'll have the happy hour specials ready for your return!"
+          "ai_response": "Back two more nights — that's the Sunset Pier effect! Pre-Mallory Square happy hour with harbor views and a blackened mahi sandwich is a Key West evening sequence we're proud of. Thank you for the kind words and we'll have your spot at the pier ready for the next visit!"
         },
         {
-          "reviewer": "Harbor View Happy Hour",
-          "initials": "HH",
+          "reviewer": "Overpriced View",
+          "initials": "OV",
+          "date": "4 months ago",
+          "stars": 3,
+          "text": "Beautiful location and views — can't argue with that. But food is resort-priced and quality doesn't match. Lobster roll had minimal lobster for $38. Drinks were good. Come for the views and cocktails, be careful with the food menu.",
+          "responded": false,
+          "ai_response": "Fair and honest — thank you. The views are something we're genuinely proud of and the cocktails consistently earn good feedback. The lobster roll pricing and portion is an issue we're actively addressing because it's not the first time we've heard this. We want the food to match the setting. Come back and try the Mahi Tacos — those are consistently our best received dish."
+        },
+        {
+          "reviewer": "Sunset Tradition",
+          "initials": "ST",
           "date": "5 months ago",
           "stars": 5,
-          "text": "Perfect happy hour spot before Mallory Square. Well-made cocktails, not overpriced for Key West. Views of the harbor were stunning. Staff attentive and friendly. The lobster roll was fresh and generous. Came back the next two nights.",
+          "text": "Made Sunset Pier our nightly ritual during our vacation. Different live acts each night, always great service, views that never get old. The burgers are legitimately outstanding — ordered them three nights in a row. That sunset pier sauce is worth coming back for alone.",
           "responded": false,
-          "ai_response": "Pre-Mallory Square happy hour at Sunset Pier — you figured out the perfect Key West evening sequence! Back the next two nights is the best review we could ask for. Well-made cocktails, a fresh lobster roll, and harbor views with attentive staff is exactly the standard we hold ourselves to every night. Thank you and we'll have your spot at the rail ready!"
+          "ai_response": "Nightly ritual with three consecutive burger orders — you are officially part of the Sunset Pier family! The burgers and that sauce have their own fan club and we're glad you joined it. Thank you for making us your Key West anchor and we'll have the whole experience waiting for your next visit!"
+        },
+        {
+          "reviewer": "Pier Table Seeker",
+          "initials": "PT",
+          "date": "6 months ago",
+          "stars": 4,
+          "text": "Great waterfront location with excellent views. Gets very busy around actual sunset time which means slower service. Worth it for the view — just plan to arrive early for the best seats down the pier. Drinks were good and the blackened mahi was solid.",
+          "responded": false,
+          "ai_response": "Arrive early for the best pier seats — that's the insider tip and you've shared it with future guests perfectly. We're always working on handling the sunset rush better and we appreciate the honest feedback on service pace. Glad the blackened mahi and drinks delivered. Thank you and come early next time — the best seats are absolutely worth it!"
         }
       ]
     }
   },
-  "system_prompt": "You are the friendly assistant for Sunset Pier at Ocean Key Resort in Key West — a waterfront bar and restaurant at the very end of Duval Street, right on the Gulf of Mexico. Known for spectacular sunsets, live music, lobster rolls, and mahi tacos.\n\nYou speak with laid-back Key West warmth and genuine pride in the views and the vibe.\n\n--- ABOUT ---\nSunset Pier sits at the tip of Duval Street, directly on the water at Ocean Key Resort. One of the best spots on the island to watch the world-famous Key West sunset. Live music on stage most days.\n\n--- HOURS ---\nDaily: 11:30 AM – 8:30 PM\n\n--- MENU HIGHLIGHTS ---\n- Lobster Rolls (excellent)\n- Grilled Mahi Mahi Tacos\n- Key Lime Pie (cheesecake-style, fabulous)\n- Tropical cocktails and Pena coladas\n- Full tiki bar\n\n--- SEATING ---\nMost tables on the boardwalk with water views. Arrive early for the best sunset seats — no reservations for outdoor seating, first come first served.\n\n--- LIVE MUSIC ---\nLive music on stage regularly. Check oceankey.com for entertainment schedule.\n\n--- LOCATION ---\n0 Duval St (at Ocean Key Resort), Key West\nPhone: (305) 809-8072\n\nIf unsure: 'Call us at (305) 809-8072 or visit oceankey.com for today's entertainment schedule and specials!'"
+  "system_prompt": "You are the friendly assistant for Sunset Pier at Ocean Key Resort in Key West — a waterfront bar and restaurant at the very end of Duval Street, right on the Gulf of Mexico. Known for spectacular sunsets, live music, lobster rolls, and mahi tacos.\n\nYou speak with laid-back Key West warmth and genuine pride in the views and the vibe.\n\n--- ABOUT ---\nSunset Pier sits at the tip of Duval Street, directly on the water at Ocean Key Resort. One of the best spots on the island to watch the world-famous Key West sunset. Live music on stage most days.\n\n--- HOURS ---\nDaily: 11:30 AM – 8:30 PM\n\n--- MENU HIGHLIGHTS ---\n- Lobster Rolls (excellent)\n- Grilled Mahi Mahi Tacos\n- Key Lime Pie (cheesecake-style, fabulous)\n- Tropical cocktails and Pena coladas\n- Full tiki bar\n\n--- SEATING ---\nMost tables on the boardwalk with water views. Arrive early for the best sunset seats — no reservations for outdoor seating, first come first served.\n\n--- LIVE MUSIC ---\nLive music on stage regularly. Check oceankey.com for entertainment schedule.\n\n--- LOCATION ---\n0 Duval St (at Ocean Key Resort), Key West\nPhone: (305) 809-8072\n\nIf unsure: 'Call us at (305) 809-8072 or visit oceankey.com for today's entertainment schedule and specials!'",
+  "booking_label": "Visit Website"
 }

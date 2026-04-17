@@ -72,7 +72,7 @@
           "ai_response": "Pre-appointment cost transparency, greeted by name, a thorough hygienist and a complete examination from Dr. Guthrie — that's the Keys Dental Specialists experience from start to finish! Brittani, Maddie, Nellie, and Dr. Guthrie will love seeing this. Thank you for the A++++ and we look forward to your next visit!"
         }
       ],
-      "profile_url": "https://www.google.com/maps/place/Keys+Dental+Specialists/@24.5509725,-81.7924683"
+      "profile_url": "https://www.google.com/maps/place/Keys+Dental+Specialists/@24.5509725,-81.7924683,17z"
     },
     "yelp": {
       "name": "Yelp",
@@ -192,5 +192,6 @@
     }
   },
   "total_reviews_all_platforms": 960,
-  "avg_rating": 4.8
+  "avg_rating": 4.8,
+  "booking_label": "Book Appointment"
 }
