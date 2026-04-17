@@ -15,58 +15,120 @@
   },
   "logo_emoji": "⛵",
   "system_prompt": "You are the friendly, knowledgeable booking assistant for Danger Charters in Key West, Florida — one of the most respected sailing charter companies in the Florida Keys, operating for over 30 years. Your job is to help visitors choose the right tour, answer their questions warmly and accurately, and guide them toward booking.\n\nYou speak in a warm, nautical, laid-back Key West tone — not overly formal, not too casual. You love the ocean and you want people to have the best possible experience on the water.\n\nALWAYS try to understand what the guest is looking for (romance, adventure, family fun, group event, wedding) and recommend the best tour. End most responses with a soft nudge toward booking or asking what else they'd like to know.\n\n--- TOURS ---\n\n1. WIND & WINE SUNSET SAIL\n- Duration: 2 hours\n- Ages: 13+ only\n- What's included: Fine wine from around the world, gourmet cheese and appetizers, imported and domestic beer\n- Description: Sail into the world-famous Key West sunset on a historic, shallow-draft schooner. Equal parts romance and fun. Consistently rated TripAdvisor's #1 Thing To Do in Florida.\n- Best for: Couples, adults, romantic evenings, special occasions\n- Price: Check website for current pricing\n- Booking: Direct through FareHarbor on dangercharters.com\n\n2. SAIL, SNORKEL & KAYAK\n- Duration: 4.5 hours (morning or afternoon) or 6.5 hours (full day with lunch)\n- Ages: All ages\n- What's included: Top-quality snorkel gear, ocean kayaks, organic snacks, beverages. Full-day includes lunch.\n- Description: Sail to the Key West National Wildlife Refuge — the Backcountry. Kayak through mangrove islands, snorkel over living coral reefs, spot dolphins, sea turtles, manatees, and hundreds of bird species. One of the most ecologically intact marine areas in Florida, accessible only by boat.\n- Best for: Families, nature lovers, active adventurers, first-time snorkelers\n- Note: Crew provides safety briefing and instruction — beginners welcome\n\n3. SANDBAR, SNORKEL & SUNSET SAIL\n- Duration: 5 hours (afternoon)\n- Ages: All ages\n- What's included: Beer and wine included\n- Description: A laid-back afternoon on the sandbar, snorkeling in clear backcountry waters, then watching the Key West sunset from the water. The perfect combination of relaxation and adventure.\n- Best for: Groups, families, those who want a mix of activities and a sunset\n\n4. POWER BOAT CRUISES\n- Private, customizable trips\n- Features: Sandbar visits, dolphin watching, snorkeling in coral reefs, Lily Pad floating mat, sandbar games, custom playlist\n- Best for: Private groups, family reunions, corporate outings, those who want flexibility\n\n5. PRIVATE CHARTERS\n- Fully customizable — you choose the experience\n- Options: Sunset cruise, sandbar, snorkeling, dolphin watching, combination\n- BYOB options available, Bluetooth speakers, professional captain\n- Perfect for: Bachelorette parties, anniversaries, birthday groups, corporate events\n- To book: Contact the team with your date, group size, and what you'd like to do\n\n6. WEDDINGS\n- Four distinct wedding packages ranging from intimate to fully customized\n- Must obtain and bring your marriage license\n- Sailing weddings in Key West are incredibly romantic\n- Contact: Reach out with your date and vision\n\n7. SPECIAL CRUISES\n- Holiday and seasonal events throughout the year (July 4th, St. Patrick's Day, New Year's)\n- Limited availability — book early\n\n--- THE FLEET ---\n\n- DANGER: Custom-built historic shallow-draft schooner. Built for navigating the Keys backcountry — shallow channels, mangrove islands, sandbars.\n- SARAH: First-ever Exuma 52. Built for exploring the Keys, Gulf, and Caribbean. Elegant and spacious.\n- DANGER'S PRIZE: Spacious, swift, smooth. Seamlessly sails in shallow waters.\n- DANGER'S PEARL: The newest addition to the fleet.\n\nAll four are traditional shallow-draft schooners, which means they can go places big catamarans can't — the real backcountry.\n\n--- PRACTICAL INFO ---\n\nCancellation: Trip protection available at booking. Allows cancellation/reschedule for any reason up to 30 minutes before departure for a full refund (minus trip protection cost).\n\nWhat to bring: Reef-safe sunscreen (they sell it onboard), comfortable clothes, camera. Towels available to rent. Small coolers welcome, no glass.\n\nFood allergies/dietary restrictions: Note in comments when booking. Vegetarian/vegan options accommodated when possible.\n\nSeasickness: The schooners sail in calm, protected backcountry waters — much smoother than open ocean trips. Very rarely an issue.\n\nKids: Most tours welcome all ages. Wind & Wine Sunset Sail is 13+ only.\n\nPets: Not allowed on regular tours. Private charters may accommodate pets for an additional fee — ask when booking.\n\nParking: Street parking near 255 Front St. Historic Seaport area.\n\nLocation: 255 Front St, Key West, FL. At the Historic Seaport.\n\nPhone: (305) 304-7999\n\nEco commitment: Danger Charters partners with Reef Relief for coral conservation. They host annual Coral Camp for kids. Only reef-safe sunscreen recommended.\n\n--- BOOKING ---\n\nBook directly at dangercharters.com or call (305) 304-7999. Booking direct saves up to $20 vs third-party sites.\n\nGift cards available.\n\n--- IF THEY ASK SOMETHING YOU DON'T KNOW ---\nAlways say: 'That's a great question — for the most accurate answer, give the team a call at (305) 304-7999 or check dangercharters.com. They'll get you sorted out right away.'\n\nNEVER make up prices, availability, or specific dates. Always direct to the website or phone for confirmed pricing and availability.",
-  "review_stats": {
-    "total": 5681,
-    "rating": 4.9,
-    "responded": 120,
-    "unresponded": 5561,
-    "response_rate": 2
-  },
-  "reviews": [
-    {
-      "reviewer": "Sarah M.",
-      "initials": "SM",
-      "date": "1 week ago",
-      "stars": 5,
-      "text": "I can't get over how personal this experience was! The group was small which made the experience that much better. Myself, my sister, and my two daughters had the best time! Everyone was so kind and personable! Danger Charters is definitely a must if you are looking for a sail, snorkel, kayak experience!",
-      "responded": false,
-      "ai_response": "Thank you so much for this wonderful review! A small group, a personal experience, and four happy guests — that's exactly what Danger Charters is all about. We're so glad you and your family had the best time, and we hope to welcome you back the next time you're in Key West!"
+  "platforms": {
+    "google": {
+      "name": "Google",
+      "icon": "G",
+      "color": "#4285F4",
+      "total": 5681,
+      "rating": 4.9,
+      "responded": 120,
+      "unresponded": 5561,
+      "response_rate": 2,
+      "profile_url": "https://g.page/dangercharters",
+      "reviews": [
+        {
+          "reviewer": "Sarah M.",
+          "initials": "SM",
+          "date": "1 week ago",
+          "stars": 5,
+          "text": "I can't get over how personal this experience was! The group was small which made it so much better. Myself, my sister, and my two daughters had the best time! Danger Charters is a must if you're looking for a sail, snorkel, kayak experience!",
+          "responded": false,
+          "ai_response": "Thank you so much for this wonderful review! A small group, a personal experience, and four happy guests — that's exactly what Danger Charters is all about. We're so glad you and your family had the best time, and we hope to welcome you back the next time you're in Key West!"
+        },
+        {
+          "reviewer": "Hunter R.",
+          "initials": "HR",
+          "date": "2 weeks ago",
+          "stars": 5,
+          "text": "We did a full day sail and snorkel trip with 27 of us and it was perfect! The crew Bryan, Logan, and Alex were informative, attentive, and make a mean pasta salad! Hands down the best trip during our Key West stay.",
+          "responded": false,
+          "ai_response": "Hunter, what a crew to have on a full-day adventure — Bryan, Logan, and Alex will be thrilled to see this! A group of 27 is no small task and we're so glad every detail came together perfectly. Thank you for choosing Danger Charters!"
+        },
+        {
+          "reviewer": "Micah's Guest",
+          "initials": "MG",
+          "date": "3 weeks ago",
+          "stars": 5,
+          "text": "Amazing adventure. Four people, Captain Micah — dolphins, lemon sharks, sandbar time and knowledge bites all the way through. Totally fluid and accommodating when things came up.",
+          "responded": false,
+          "ai_response": "Dolphins, lemon sharks, and a sandbar — sounds like Micah delivered the full Keys experience! He has a real gift for reading the water and keeping things flexible. Thank you for sharing this — we'll make sure Micah sees it. Hope to see you back on the Danger fleet soon!"
+        }
+      ]
     },
-    {
-      "reviewer": "Hunter R.",
-      "initials": "HR",
-      "date": "2 weeks ago",
-      "stars": 5,
-      "text": "We did a full day sail and snorkel trip with about 27 of us and it was perfect! The crew Bryan, Logan, and Alex were informative, attentive, down to Earth, and make a mean pasta salad! Hands down the best trip during our Key West stay.",
-      "responded": false,
-      "ai_response": "Hunter, what a crew to have on a full-day adventure — Bryan, Logan, and Alex will be thrilled to see this! A group of 27 is no small task and we're so glad every detail came together perfectly. The pasta salad gets its own fan club at this point. Thank you for choosing Danger Charters and we hope to see your crew back on the water!"
+    "tripadvisor": {
+      "name": "TripAdvisor",
+      "icon": "TA",
+      "color": "#34E0A1",
+      "total": 7236,
+      "rating": 4.9,
+      "responded": 200,
+      "unresponded": 7036,
+      "response_rate": 3,
+      "ranking": "#2 of 391 Boat Tours & Water Sports in Key West",
+      "profile_url": "https://www.tripadvisor.com/Attraction_Review-g34345-d642768",
+      "reviews": [
+        {
+          "reviewer": "Letitia G.",
+          "initials": "LG",
+          "date": "September 2025",
+          "stars": 5,
+          "text": "I'm so happy we chose Danger Charters for our sunset cruise — exactly what we were looking for. As two couples in our 30s and 40s we wanted something quaint without a party vibe. The captain and crew were laid back but extremely attentive. 8 different wines, very generous pours, and the appetizers were delicious.",
+          "responded": false,
+          "ai_response": "Letitia, this is exactly the feedback that makes our crew's day! The Wind & Wine sail is designed for guests who want something intimate and genuinely special — not a floating party barge. So glad the wine, appetizers, and company hit the mark. We'd love to have all four of you back next time you're in Key West!"
+        },
+        {
+          "reviewer": "Repeat Sailor",
+          "initials": "RS",
+          "date": "October 2025",
+          "stars": 5,
+          "text": "I've been doing Danger Charters with my wife since 2015 twice a year. Every time we come to Key West we book a Danger cruise. Always relaxing, safe, well executed, and the crews are genuinely friendly. The best part is the intimacy — opposed to other charters who pack hundreds aboard.",
+          "responded": false,
+          "ai_response": "Twice a year since 2015 — you are officially part of the Danger Charters family! Nothing makes us prouder than guests who keep coming back, and knowing that the intimacy and quality has held up year after year means everything. We'll see you on the next trip. Fair winds!"
+        },
+        {
+          "reviewer": "Family Celebration",
+          "initials": "FC",
+          "date": "November 2025",
+          "stars": 5,
+          "text": "Born and raised in Key West, I chartered a sailboat from Danger to celebrate my brother's life with 25 family members. The boat was spectacular, the crew amazing and respectful. It was a fantastic experience from booking all the way to stepping off the boat.",
+          "responded": false,
+          "ai_response": "Thank you for trusting us with such a deeply meaningful moment. Celebrating your brother's life on the water he loved — that's an honor we don't take lightly. We hope the day brought your family some peace and beautiful memories. Our thoughts are with you."
+        }
+      ]
     },
-    {
-      "reviewer": "Micah's Guest",
-      "initials": "MG",
-      "date": "3 weeks ago",
-      "stars": 5,
-      "text": "Absolutely amazing adventure. We had a small boat, four people and our captain Micah. He gave us so many options and was fluid to change as things came up. We saw dolphins, lemon sharks, sand bar time and he taught us little knowledge bites all the way through.",
-      "responded": false,
-      "ai_response": "Dolphins, lemon sharks, and a sandbar — sounds like Micah delivered the full Keys experience! He has a real gift for reading the water and keeping things flexible so every trip feels tailor-made. Thank you for sharing this — we'll make sure Micah sees it. Hope to see you back on the Danger fleet soon!"
-    },
-    {
-      "reviewer": "J. Williams",
-      "initials": "JW",
-      "date": "1 month ago",
-      "stars": 5,
-      "text": "We had a 10 member family event celebrating a 21st birthday. The sunset cruise was amazing. The captain and crew were informative and fun. The boat, Sarah, was comfortable and very well kept. The best part was the small amount of passengers on the boat. It felt like a private cruise.",
-      "responded": false,
-      "ai_response": "Happy belated 21st birthday! A 10-person family celebration on the Sarah — that's exactly the kind of milestone memory we love being part of. The intimate feel is something we're really proud of, and it sounds like the crew made the evening everything it should have been. Thank you for celebrating with us!"
-    },
-    {
-      "reviewer": "Rocky's Guest",
-      "initials": "RG",
-      "date": "1 month ago",
-      "stars": 5,
-      "text": "We originally booked the full day snorkeling and the sunset sail but unfortunately missed the snorkeling. They were so kind to offer us a gift certificate. Captain Joe and the crew were nice and thoughtful. Rocky gave us some bar recommendations where we were able to hear some wonderful live music.",
-      "responded": false,
-      "ai_response": "We're so glad the team was able to make things right for you — missing a trip is never fun but we always want guests to leave with a great impression regardless. Captain Joe and Rocky are two of our best and it sounds like they delivered. Use that gift certificate soon — we'd love to get you out on the water for the snorkel experience you missed!"
+    "yelp": {
+      "name": "Yelp",
+      "icon": "Y",
+      "color": "#FF1A1A",
+      "total": 1003,
+      "rating": 4.5,
+      "responded": 15,
+      "unresponded": 988,
+      "response_rate": 1,
+      "profile_url": "https://www.yelp.com/biz/danger-charters-key-west",
+      "reviews": [
+        {
+          "reviewer": "Yelp Reviewer",
+          "initials": "YR",
+          "date": "2 months ago",
+          "stars": 5,
+          "text": "Sail, kayak, snorkel — the schooner held 20 people and it never felt crowded. Guides Katie and Joe were amazing. Joe had a great playlist. It was windy but they made the best of it. Still the best day we had in Key West.",
+          "responded": false,
+          "ai_response": "Katie and Joe make every trip feel like it was designed just for your group — that playlist debate is real! Wind on the water is part of the Keys experience and we're glad the crew turned it into something memorable. Thanks for the Yelp love and hope to see you back!"
+        },
+        {
+          "reviewer": "KW Vacationer",
+          "initials": "KV",
+          "date": "3 months ago",
+          "stars": 5,
+          "text": "Booked last minute because our fishing charter cancelled. It was a blessing. Logan, Morgan and Christian provided such a wonderful experience — went above and beyond. The kayaking and snorkeling was beyond amazing. Saw an eagle ray, southern ray, tarpon, snook, barracudas.",
+          "responded": false,
+          "ai_response": "A last-minute booking that turned into the trip highlight — Logan, Morgan, and Christian will love hearing this! That wildlife list is genuinely impressive and speaks to how pristine the backcountry waters are when you get out there with people who know where to look. Thanks for the review!"
+        }
+      ]
     }
-  ]
+  },
+  "total_reviews_all_platforms": 13920,
+  "avg_rating": 4.9
 }

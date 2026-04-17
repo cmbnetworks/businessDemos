@@ -639,62 +639,39 @@ function switchTab(tab) {
 
 function renderReputation(biz) {
   const container = document.getElementById('repContent');
-  if (!biz.review_stats) {
-    container.innerHTML = '<div style="padding:40px;text-align:center;color:rgba(74,63,47,0.4);font-size:14px">No reputation data available for this business yet.</div>';
+  if (!biz.platforms) {
+    container.innerHTML = '<div style="padding:40px;text-align:center;color:rgba(74,63,47,0.4);font-size:14px">No reputation data available.</div>';
     return;
   }
 
-  const s = biz.review_stats;
-  const reviews = biz.reviews || [];
+  const platforms = Object.values(biz.platforms);
+  const totalAll = biz.total_reviews_all_platforms || 0;
+  const totalUnresponded = platforms.reduce((s, p) => s + p.unresponded, 0);
 
-  const opportunityText = {
-    'keys-dental': `${s.total} reviews and a ${s.rating}-star rating is genuinely exceptional. The problem: a ${s.response_rate}% response rate means ${s.unresponded}+ patient reviews have gone unanswered. Google factors response rate directly into local search ranking — and every unanswered review is a missed chance to build trust with the next patient choosing a dentist.`,
-    'danger-charters': `${s.total} reviews at ${s.rating} stars makes Danger Charters one of the most reviewed tour operators in Key West. But with a ${s.response_rate}% response rate, ${s.unresponded}+ guests who praised your crew heard nothing back. Tourists researching Key West charters read every response — a captain who replies builds a personality that books charters before competitors do.`,
-    'fishmonster': `${s.total} reviews at ${s.rating} stars is a strong reputation on a competitive dock. But ${s.unresponded}+ of those reviewers got no reply — including guests who called out specific crew members by name. Responding boosts Google ranking and shows future customers that FishMonster cares about every angler who steps aboard.`,
-    'gulfstream': `With ${s.total} reviews since 1947, Gulfstream has one of the most trusted names on Charter Boat Row. But ${s.unresponded}+ reviews have no response — including repeat customers who keep coming back. Responding consistently signals to Google that you're an active, engaged business, which directly improves your ranking in Key West fishing charter searches.`,
-  };
+  // Pick first platform as default
+  const defaultPlatform = Object.keys(biz.platforms)[0];
 
-  const concernText = {
-    'keys-dental': "Every new review triggers a personalized draft response — mentioning the staff member by name, addressing the specific procedure — delivered for one-click approval within 2 hours. Response rate goes from 5% to 98% without adding a minute to anyone's workday.",
-    'danger-charters': "Every new review triggers a draft response that mentions the crew member by name and the specific tour — delivered within 2 hours. Guests who raved about Bryan, Logan, or Micah see a personal reply in Danger Charters' warm, nautical voice. Response rate goes from 2% to 98% automatically.",
-    'fishmonster': "Every new review gets a personalized response mentioning the captain by name and the specific catch — delivered within 2 hours of posting. The system learns your voice and keeps every response sounding like it came from the dock.",
-    'gulfstream': "Every new review gets a response within 2 hours — personalized to the trip, crew member, and fish caught. The system runs automatically so the captain is never pulled off the water to answer a Google notification. Response rate goes from 3% to 98% immediately.",
-  };
+  const platformColors = { google:'#4285F4', tripadvisor:'#34E0A1', yelp:'#FF1A1A', healthgrades:'#00A3E0' };
 
-  const opp = opportunityText[biz.id] || `${s.total} reviews at ${s.rating} stars is a strong reputation. The opportunity: ${s.response_rate}% response rate means ${s.unresponded}+ reviews have no reply. AI fixes that automatically.`;
-  const conc = concernText[biz.id] || 'Every new review triggers a personalized AI response within 2 hours, delivered for approval or auto-posted.';
+  function renderPlatformTab(platformKey) {
+    const p = biz.platforms[platformKey];
+    if (!p) return;
 
-  container.innerHTML = `
-    <div style="margin-bottom:1rem">
-      <div style="font-size:13px;font-weight:500;color:var(--primary);margin:0 0 .75rem">Review performance — Google</div>
-      <div class="rep-stat-grid">
-        <div class="rep-stat"><p class="rep-stat-num">${s.rating}</p><p class="rep-stat-lbl">Star rating</p></div>
-        <div class="rep-stat"><p class="rep-stat-num">${s.total.toLocaleString()}</p><p class="rep-stat-lbl">Total reviews</p></div>
-        <div class="rep-stat"><p class="rep-stat-num bad">${s.response_rate}%</p><p class="rep-stat-lbl">Response rate</p></div>
-        <div class="rep-stat"><p class="rep-stat-num warn">${s.unresponded.toLocaleString()}+</p><p class="rep-stat-lbl">No reply</p></div>
-      </div>
-    </div>
-    <div class="rep-opportunity">
-      <p class="rep-opp-title">The opportunity</p>
-      <p class="rep-opp-text">${opp}</p>
-    </div>
-    <div class="rep-concern">
-      <p class="rep-con-title">What AI handles automatically</p>
-      <p class="rep-con-text">${conc}</p>
-    </div>
-    <div style="font-size:13px;font-weight:500;color:var(--primary);margin:.25rem 0 .75rem">Recent unanswered reviews — with AI responses ready to post</div>
-    ${reviews.map(r => `
+    const reviews = p.reviews || [];
+    const rankingBadge = p.ranking ? `<span style="font-size:11px;background:#EAF3DE;color:#27500A;padding:2px 8px;border-radius:10px;margin-left:8px">${p.ranking}</span>` : '';
+
+    const reviewsHtml = reviews.map(r => `
       <div class="rep-card">
         <div class="rep-header">
           <div class="rep-reviewer">
             <div class="rep-avatar">${r.initials}</div>
             <div>
               <p class="rep-name">${r.reviewer}</p>
-              <p class="rep-date">${r.date} · Google</p>
+              <p class="rep-date">${r.date} · ${p.name}</p>
             </div>
           </div>
           <div style="display:flex;align-items:center;gap:8px">
-            <span class="rep-stars">${'★'.repeat(r.stars)}</span>
+            <span class="rep-stars">${'★'.repeat(r.stars)}${'☆'.repeat(5-r.stars)}</span>
             <span class="no-reply-badge">No response</span>
           </div>
         </div>
@@ -704,8 +681,132 @@ function renderReputation(biz) {
           <p class="rep-ai-text">${r.ai_response}</p>
         </div>
       </div>
-    `).join('')}
+    `).join('');
+
+    document.getElementById('platformContent').innerHTML = `
+      <div style="display:flex;align-items:center;gap:8px;margin-bottom:.75rem">
+        <span style="font-size:13px;font-weight:500;color:var(--primary)">${p.name} performance</span>
+        ${rankingBadge}
+      </div>
+      <div class="rep-stat-grid">
+        <div class="rep-stat"><p class="rep-stat-num">${p.rating}</p><p class="rep-stat-lbl">Star rating</p></div>
+        <div class="rep-stat"><p class="rep-stat-num">${p.total.toLocaleString()}</p><p class="rep-stat-lbl">Total reviews</p></div>
+        <div class="rep-stat"><p class="rep-stat-num bad">${p.response_rate}%</p><p class="rep-stat-lbl">Response rate</p></div>
+        <div class="rep-stat"><p class="rep-stat-num warn">${p.unresponded.toLocaleString()}+</p><p class="rep-stat-lbl">No reply</p></div>
+      </div>
+      ${reviews.length > 0 ? `
+        <div style="font-size:13px;font-weight:500;color:var(--primary);margin:.25rem 0 .75rem">Unanswered reviews — AI responses ready to post</div>
+        ${reviewsHtml}
+      ` : '<p style="font-size:13px;color:rgba(74,63,47,0.5);padding:1rem 0">Sample reviews not yet loaded for this platform.</p>'}
+    `;
+  }
+
+  const platformTabsHtml = platforms.map(p => {
+    const key = Object.keys(biz.platforms).find(k => biz.platforms[k] === p);
+    const col = p.color || '#888';
+    return `<button class="plat-tab" id="ptab-${key}" onclick="selectPlatform('${key}')" style="border-bottom-color:transparent">
+      <span style="display:inline-block;width:16px;height:16px;border-radius:3px;background:${col};color:white;font-size:9px;font-weight:700;line-height:16px;text-align:center;margin-right:5px">${p.icon}</span>
+      ${p.name}
+      <span style="font-size:10px;color:rgba(74,63,47,0.5);margin-left:4px">(${p.total.toLocaleString()})</span>
+    </button>`;
+  }).join('');
+
+  const opportunityText = {
+    'keys-dental': `Across all platforms, ${totalAll.toLocaleString()} patients have reviewed this practice — and ${totalUnresponded.toLocaleString()}+ of those reviews have no response. New patients research across Google, Yelp, and Healthgrades before choosing a dentist. Your AI system monitors all three and responds within 2 hours.`,
+    'danger-charters': `Danger Charters has ${totalAll.toLocaleString()} reviews across Google, TripAdvisor, and Yelp — making it one of the most reviewed tour operators in Key West. TripAdvisor alone has ${biz.platforms.tripadvisor?.total?.toLocaleString()} reviews, ranked #2 in Key West. AI manages responses across all three platforms simultaneously.`,
+    'fishmonster': `${totalAll.toLocaleString()} reviews across Google, TripAdvisor, and Yelp — and ${totalUnresponded.toLocaleString()}+ have gone unanswered including guests who called out specific crew members by name. AI monitors all three platforms and responds within 2 hours of every new review.`,
+    'gulfstream': `${totalAll.toLocaleString()} reviews across Google, TripAdvisor, and Yelp spanning decades of fishing history. ${totalUnresponded.toLocaleString()}+ have no response. AI keeps you active on every platform where travelers research Key West fishing charters.`,
+  };
+
+  const opp = opportunityText[biz.id] || `${totalAll.toLocaleString()} total reviews across all platforms. ${totalUnresponded.toLocaleString()}+ unanswered. AI responds to all of them within 2 hours.`;
+
+  container.innerHTML = `
+    <div style="display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;margin-bottom:1rem">
+      <div class="rep-stat"><p class="rep-stat-num">${totalAll.toLocaleString()}</p><p class="rep-stat-lbl">Reviews — all platforms</p></div>
+      <div class="rep-stat"><p class="rep-stat-num bad">${totalUnresponded.toLocaleString()}+</p><p class="rep-stat-lbl">Unanswered total</p></div>
+      <div class="rep-stat"><p class="rep-stat-num good">${platforms.length}</p><p class="rep-stat-lbl">Platforms monitored</p></div>
+    </div>
+
+    <div class="rep-opportunity" style="margin-bottom:.75rem">
+      <p class="rep-opp-title">The full picture</p>
+      <p class="rep-opp-text">${opp}</p>
+    </div>
+
+    <div style="display:flex;gap:0;border-bottom:1px solid rgba(10,35,64,0.1);margin-bottom:1rem" id="platformTabs">
+      ${platformTabsHtml}
+    </div>
+
+    <div id="platformContent"></div>
   `;
+
+  // Add platform tab styles inline
+  document.querySelectorAll('.plat-tab').forEach(btn => {
+    btn.style.cssText = 'flex:1;padding:8px 6px;font-size:12px;font-weight:500;color:rgba(74,63,47,0.6);border:none;background:transparent;cursor:pointer;border-bottom:2.5px solid transparent;transition:all .15s;font-family:DM Sans,sans-serif;display:flex;align-items:center;justify-content:center';
+  });
+
+  // Activate default platform
+  selectPlatform(defaultPlatform);
+}
+
+function selectPlatform(key) {
+  document.querySelectorAll('.plat-tab').forEach(btn => {
+    btn.style.color = 'rgba(74,63,47,0.6)';
+    btn.style.borderBottomColor = 'transparent';
+  });
+  const activeBtn = document.getElementById('ptab-' + key);
+  if (activeBtn && currentBiz && currentBiz.platforms && currentBiz.platforms[key]) {
+    const col = currentBiz.platforms[key].color || 'var(--primary)';
+    activeBtn.style.color = 'var(--primary)';
+    activeBtn.style.borderBottomColor = col;
+  }
+
+  if (currentBiz && currentBiz.platforms) {
+    const p = currentBiz.platforms[key];
+    if (!p) return;
+
+    const reviews = p.reviews || [];
+    const rankingBadge = p.ranking ? `<span style="font-size:11px;background:#EAF3DE;color:#27500A;padding:2px 8px;border-radius:10px;margin-left:8px">${p.ranking}</span>` : '';
+
+    const reviewsHtml = reviews.map(r => `
+      <div class="rep-card">
+        <div class="rep-header">
+          <div class="rep-reviewer">
+            <div class="rep-avatar">${r.initials}</div>
+            <div>
+              <p class="rep-name">${r.reviewer}</p>
+              <p class="rep-date">${r.date} · ${p.name}</p>
+            </div>
+          </div>
+          <div style="display:flex;align-items:center;gap:8px">
+            <span class="rep-stars">${'★'.repeat(r.stars)}${'☆'.repeat(5-r.stars)}</span>
+            <span class="no-reply-badge">No response</span>
+          </div>
+        </div>
+        <p class="rep-text">"${r.text}"</p>
+        <div class="rep-ai">
+          <p class="rep-ai-lbl">AI response — ready to post within 2 hours</p>
+          <p class="rep-ai-text">${r.ai_response}</p>
+        </div>
+      </div>
+    `).join('');
+
+    document.getElementById('platformContent').innerHTML = `
+      <div style="display:flex;align-items:center;gap:8px;margin-bottom:.75rem">
+        <span style="font-size:13px;font-weight:500;color:var(--primary)">${p.name} performance</span>
+        ${rankingBadge}
+      </div>
+      <div class="rep-stat-grid">
+        <div class="rep-stat"><p class="rep-stat-num">${p.rating}</p><p class="rep-stat-lbl">Star rating</p></div>
+        <div class="rep-stat"><p class="rep-stat-num">${p.total.toLocaleString()}</p><p class="rep-stat-lbl">Total reviews</p></div>
+        <div class="rep-stat"><p class="rep-stat-num bad">${p.response_rate}%</p><p class="rep-stat-lbl">Response rate</p></div>
+        <div class="rep-stat"><p class="rep-stat-num warn">${p.unresponded.toLocaleString()}+</p><p class="rep-stat-lbl">No reply</p></div>
+      </div>
+      ${reviews.length > 0 ? `
+        <div style="font-size:13px;font-weight:500;color:var(--primary);margin:.25rem 0 .75rem">Unanswered reviews — AI responses ready to post</div>
+        ${reviewsHtml}
+      ` : '<p style="font-size:13px;color:rgba(74,63,47,0.5);padding:1rem 0">No sample reviews loaded for this platform yet.</p>'}
+    `;
+  }
 }
 
 // ---- LOGIN SCREEN ----

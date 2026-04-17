@@ -15,58 +15,99 @@
   },
   "logo_emoji": "🐟",
   "system_prompt": "You are the friendly booking assistant for Gulfstream Fishing, Inc. in Key West — the longest-running deep-sea fishing charter in the Keys, operating since 1947. Your job is to help visitors understand what trips are available and get them booked.\n\nYou speak in a welcoming, no-nonsense style — like someone who's been on the water their whole life and loves sharing that with visitors. Helpful, warm, and straightforward.\n\n--- TRIPS ---\n\n1. PARTY BOAT FISHING (Main Trip)\n- Price: Adults $69.95 / Kids $42.95\n- Duration: 6 hours\n- Departure: 10:00 AM daily\n- Boat: The Gulfstream IV — 60-foot vessel with air-conditioned galley and onboard restrooms\n- What's included: Tackle, fishing license, bait, free parking\n- Target species: Yellowtail snapper, hogfish, grouper, mackerel, and more\n- Great for: First-timers, families, solo travelers, groups — anyone who wants to catch fish at an affordable price\n\n2. PRIVATE CHARTERS\n- Customized for your group\n- Contact for pricing and availability\n- Captain and crew dedicated to your party\n\n3. SUMMER NIGHT FISHING\n- Seasonal evening trips\n- Check website for schedule\n\n4. MULTI-TRIP PASSES\n- For guests staying longer and planning to fish more than once\n- Great value — ask about pricing\n\n--- WHAT TO EXPECT ---\n\nThe crew fillets your catch right on the dock. A nearby restaurant can cook your fresh fish — one of the best experiences in Key West.\n\nBeginners and experienced anglers both welcome. Crew helps everyone.\n\nThe Gulfstream IV is spacious and stable — air-conditioned galley below, restrooms onboard.\n\nTips for first-timers: Motion sickness patches available at pharmacies nearby if you're prone to seasickness. Bring sunscreen, a hat, and close-toed shoes. The crew provides everything else.\n\n--- PRACTICAL INFO ---\n\nLocation: Garrison Bight Marina, 1801 N Roosevelt Blvd — free parking included\nPhone: (305) 296-8494\nCaptain: Chris Mendola — 25+ years experience in Florida Keys waters\n\n--- BOOKING ---\nBook at gulfstreamkeywest.com or call (305) 296-8494.\n\nIf you don't know something specific, say: 'Give the crew a call at (305) 296-8494 — they'll have the exact answer for you and can check availability right away.'",
-  "review_stats": {
-    "total": 1642,
-    "rating": 4.8,
-    "responded": 50,
-    "unresponded": 1592,
-    "response_rate": 3
-  },
-  "reviews": [
-    {
-      "reviewer": "Happy Angler",
-      "initials": "HA",
-      "date": "1 week ago",
-      "stars": 5,
-      "text": "We had an amazing time with Gulfstream Fishing. The crew was extremely attentive, the fishing action was constant, and the owner was a joy to work with. I highly recommend this company. Every time I come back to Key West I plan on going on this charter.",
-      "responded": false,
-      "ai_response": "Thank you so much — this is exactly why we do what we do! Constant action and an attentive crew is what every angler deserves on the water. We love hearing that Gulfstream is now part of your Key West tradition. See you on the next trip — and next time, let us know what species you're targeting and we'll put you right on them!"
+  "platforms": {
+    "google": {
+      "name": "Google",
+      "icon": "G",
+      "color": "#4285F4",
+      "total": 1642,
+      "rating": 4.8,
+      "responded": 50,
+      "unresponded": 1592,
+      "response_rate": 3,
+      "reviews": [
+        {
+          "reviewer": "Dan & Ryan Fan",
+          "initials": "DR",
+          "date": "1 month ago",
+          "stars": 5,
+          "text": "Captain Dan and first mate Ryan were great! Knew exactly where to go — put us right in the honey hole! Both super knowledgeable about all fish species. Everyone was reeling in fish all day. Highly recommend!",
+          "responded": false,
+          "ai_response": "The honey hole! Captain Dan and Ryan know these waters better than anyone and it shows. When everyone on the boat is reeling all day, that's a charter doing its job right. We'll pass this along to Dan and Ryan. Can't wait to have you back aboard the Gulfstream IV!"
+        },
+        {
+          "reviewer": "Brandon Family",
+          "initials": "BF",
+          "date": "6 weeks ago",
+          "stars": 5,
+          "text": "First time on a fishing charter as a family. Captain Brandon and mate Ethan gave us an incredible trip. Perfect weather, caught lots of fish. Definitely a must when in Key West!",
+          "responded": false,
+          "ai_response": "A family's first charter — what an honor! Captain Brandon and Ethan take real pride in making first-timers comfortable and leaving with a cooler full of fish. We hope this becomes a Key West family tradition. Book early next time and we'll get you the same great crew!"
+        },
+        {
+          "reviewer": "Happy Angler",
+          "initials": "HA",
+          "date": "2 months ago",
+          "stars": 5,
+          "text": "Amazing time with Gulfstream Fishing. Crew extremely attentive, fishing action was constant. Every time I come back to Key West I plan on going on this charter.",
+          "responded": false,
+          "ai_response": "Constant action and an attentive crew is what every angler deserves. We love hearing that Gulfstream is now part of your Key West tradition. See you on the next trip — tell us what you're targeting and we'll put you right on them!"
+        }
+      ]
     },
-    {
-      "reviewer": "Joe's Guest",
-      "initials": "JG",
-      "date": "2 weeks ago",
-      "stars": 5,
-      "text": "Joe and Ethan were great, they were there immediately to help with everything. Lots of fish were caught, the ride to and from was nice and the weather was perfect. Every time I come back to KW I plan on going on this charter.",
-      "responded": false,
-      "ai_response": "Joe and Ethan are two of our best — we'll make sure they see this! Perfect weather, lots of fish, and another repeat customer in the making. That's a great day on the Gulfstream IV. We'll have the lines ready for you on your next visit to Key West. Thank you for making us part of your trips!"
+    "tripadvisor": {
+      "name": "TripAdvisor",
+      "icon": "TA",
+      "color": "#34E0A1",
+      "total": 1284,
+      "rating": 4.5,
+      "responded": 25,
+      "unresponded": 1259,
+      "response_rate": 2,
+      "ranking": "#8 of 65 Fishing Charters in Key West",
+      "reviews": [
+        {
+          "reviewer": "Party Boat Fan",
+          "initials": "PB",
+          "date": "September 2025",
+          "stars": 5,
+          "text": "Party boat is the way to go if you don't have a large group and just want to get out on the water and fish. Great captain and mate, everyone caught fish. We brought our catch to the restaurant to cook — delicious!",
+          "responded": false,
+          "ai_response": "The party boat is exactly that — a great way to get on the water without needing a full private charter. Fresh catch cooked at the restaurant is always the perfect ending to a Gulfstream day. Thanks for the TripAdvisor review and we hope to see you back in the honey hole soon!"
+        },
+        {
+          "reviewer": "Tourist Angler",
+          "initials": "TA",
+          "date": "October 2025",
+          "stars": 5,
+          "text": "I was visiting Key West and wanted to try deep sea fishing. Found Gulfstream and it was absolutely worth it. Affordable price, great crew, caught tons of fish. The crew even helped fillet everything at the dock.",
+          "responded": false,
+          "ai_response": "Welcome to the Gulfstream family! Deep sea fishing on your first Key West visit is the right call — and we're glad the crew and the fishing delivered. The dock-side filleting is one of those little extras that makes the day feel complete. Come back anytime!"
+        }
+      ]
     },
-    {
-      "reviewer": "Brandon Family",
-      "initials": "BF",
-      "date": "3 weeks ago",
-      "stars": 5,
-      "text": "This was our first time out on a fishing charter as a family. Captain Brandon and mate Ethan gave us an incredible trip out on the water. Perfect weather, caught lots of fish. Will definitely book again! Definitely a must when in Key West.",
-      "responded": false,
-      "ai_response": "A family's first-ever fishing charter — what an honor to be part of that memory! Captain Brandon and Ethan take real pride in making first-timers feel comfortable and leaving with a cooler full of fish. We hope this becomes a Key West family tradition. Book early next time and we'll make sure you get the same great crew!"
-    },
-    {
-      "reviewer": "Dan & Ryan Fan",
-      "initials": "DR",
-      "date": "1 month ago",
-      "stars": 5,
-      "text": "Captain Dan and first mate Ryan were great! They knew exactly where to go! Put us right in the honey hole! Both were super knowledgeable about all the fish species. Everyone was reeling in fish all day long. We had a great time! Highly recommend!",
-      "responded": false,
-      "ai_response": "The honey hole! Captain Dan and Ryan know these waters better than anyone and it shows. When everyone on the boat is reeling in fish all day, that's a charter doing its job right. Thank you for the glowing review — we'll pass it along to Dan and Ryan. Can't wait to have you back aboard the Gulfstream IV!"
-    },
-    {
-      "reviewer": "Ethan's Guest",
-      "initials": "EG",
-      "date": "6 weeks ago",
-      "stars": 5,
-      "text": "The entire crew was fantastic and made sure we had a great experience. A big shout out to Ethan for taking care of our side of the boat! Everything you need is provided. The captain put us in a couple of great locations for snapper, grouper, and red grouper.",
-      "responded": false,
-      "ai_response": "Shout out received and passed along — Ethan will be thrilled! Snapper, grouper, and a crew that takes care of every angler on the boat — that's Gulfstream on a great day. Everything provided so you just show up and fish — that's the way it should be. Thank you for the kind words and we hope to see you back soon!"
+    "yelp": {
+      "name": "Yelp",
+      "icon": "Y",
+      "color": "#FF1A1A",
+      "total": 312,
+      "rating": 4.0,
+      "responded": 8,
+      "unresponded": 304,
+      "response_rate": 3,
+      "reviews": [
+        {
+          "reviewer": "Yelp Sailor",
+          "initials": "YS",
+          "date": "3 months ago",
+          "stars": 4,
+          "text": "Good affordable option for fishing in Key West. Boat was crowded but that's the nature of a party boat. Crew was helpful and we caught plenty of fish. Good value for the price.",
+          "responded": false,
+          "ai_response": "Thanks for the honest review! You're right — the party boat is designed for value and shared adventure. For a more spacious experience, our private charters give you the full boat. Either way, we're glad the fishing delivered and hope to see you back!"
+        }
+      ]
     }
-  ]
+  },
+  "total_reviews_all_platforms": 3238,
+  "avg_rating": 4.7
 }
