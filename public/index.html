@@ -683,10 +683,14 @@ function renderReputation(biz) {
       </div>
     `).join('');
 
+    const profileLink = p.profile_url ? 
+      `<a href="${p.profile_url}" target="_blank" rel="noopener" style="font-size:11px;color:var(--primary);background:var(--color-background-secondary,#f5f0e8);border:0.5px solid rgba(10,35,64,0.15);padding:3px 10px;border-radius:20px;text-decoration:none;font-weight:500">View on ${p.name} →</a>` : '';
+
     document.getElementById('platformContent').innerHTML = `
-      <div style="display:flex;align-items:center;gap:8px;margin-bottom:.75rem">
+      <div style="display:flex;align-items:center;gap:8px;margin-bottom:.75rem;flex-wrap:wrap">
         <span style="font-size:13px;font-weight:500;color:var(--primary)">${p.name} performance</span>
         ${rankingBadge}
+        ${profileLink}
       </div>
       <div class="rep-stat-grid">
         <div class="rep-stat"><p class="rep-stat-num">${p.rating}</p><p class="rep-stat-lbl">Star rating</p></div>
@@ -790,10 +794,14 @@ function selectPlatform(key) {
       </div>
     `).join('');
 
+    const profileLink = p.profile_url ? 
+      `<a href="${p.profile_url}" target="_blank" rel="noopener" style="font-size:11px;color:var(--primary);background:var(--color-background-secondary,#f5f0e8);border:0.5px solid rgba(10,35,64,0.15);padding:3px 10px;border-radius:20px;text-decoration:none;font-weight:500">View on ${p.name} →</a>` : '';
+
     document.getElementById('platformContent').innerHTML = `
-      <div style="display:flex;align-items:center;gap:8px;margin-bottom:.75rem">
+      <div style="display:flex;align-items:center;gap:8px;margin-bottom:.75rem;flex-wrap:wrap">
         <span style="font-size:13px;font-weight:500;color:var(--primary)">${p.name} performance</span>
         ${rankingBadge}
+        ${profileLink}
       </div>
       <div class="rep-stat-grid">
         <div class="rep-stat"><p class="rep-stat-num">${p.rating}</p><p class="rep-stat-lbl">Star rating</p></div>
@@ -995,6 +1003,41 @@ const starterQuestions = {
     "Do you see kids?",
     "What dental implant options do you offer?",
   ],
+  'sloppyjoes': [
+    "What time does live music start?",
+    "What's the Sloppy Rita?",
+    "Can I staple a dollar bill to the wall?",
+    "What's the Hemingway Look-Alike Contest?",
+    "Do you take reservations?",
+  ],
+  'fogartys': [
+    "What are the Flying Monkey frozen drinks?",
+    "What's the best thing to order?",
+    "Tell me about the insulated cup deal",
+    "What events do you host?",
+    "What's the Pain in the Ass drink?",
+  ],
+  'willieTs': [
+    "How do I staple a dollar to the wall?",
+    "What's the best food to order?",
+    "What time does live music start?",
+    "What are the margarita specials?",
+    "How crowded does it get at night?",
+  ],
+  'seaside-cafe': [
+    "Tell me about the lobster pizza",
+    "What are the honey butter lobster biscuits?",
+    "Do I need a reservation for waterside seating?",
+    "What cocktails do you recommend?",
+    "Is gluten-free available?",
+  ],
+  'sunset-pier': [
+    "What time is best to see the sunset?",
+    "Do I need a reservation?",
+    "What's the best thing to eat here?",
+    "Is there live music today?",
+    "What cocktails do you recommend?",
+  ],
 };
 
 const welcomeMessages = {
@@ -1002,6 +1045,11 @@ const welcomeMessages = {
   'fishmonster': "I'm your booking assistant. Ask me anything about fishing trips, island adventures, pricing, or what's right for your group.",
   'gulfstream': "I'm your booking assistant. Ask me anything about our party boat trips, private charters, pricing, or what to expect on the water.",
   'keys-dental': "I'm your patient care assistant. Ask me anything about our services, scheduling, insurance, sedation options, or what to expect at your visit.",
+  'sloppyjoes': "I'm your Sloppy Joe's assistant. Ask me about drinks, food, live music, the famous dollar bill walls, Hemingway history, or what's happening tonight.",
+  'fogartys': "I'm your Fogarty's assistant. Ask me about our world-famous frozen drinks, food menu, the Flying Monkeys Saloon, or what to order on your first visit.",
+  'willieTs': "I'm your Willie T's assistant. Ask me about our food, drinks, live music, the dollar bill tradition, or what to expect on your visit.",
+  'seaside-cafe': "I'm your Seaside Cafe assistant. Ask me about our legendary lobster pizza, honey butter lobster biscuits, ocean view seating, cocktails, or reservations.",
+  'sunset-pier': "I'm your Sunset Pier assistant. Ask me about waterfront dining, live music, the best sunset viewing spots, cocktails, or what to order.",
 };
 
 function renderWelcome(biz) {

@@ -53,7 +53,8 @@
           "responded": false,
           "ai_response": "Constant action and an attentive crew is what every angler deserves. We love hearing that Gulfstream is now part of your Key West tradition. See you on the next trip — tell us what you're targeting and we'll put you right on them!"
         }
-      ]
+      ],
+      "profile_url": "https://www.google.com/maps/place/Gulfstream+Fishing/@24.560,–81.785"
     },
     "tripadvisor": {
       "name": "TripAdvisor",
@@ -84,7 +85,8 @@
           "responded": false,
           "ai_response": "Welcome to the Gulfstream family! Deep sea fishing on your first Key West visit is the right call — and we're glad the crew and the fishing delivered. The dock-side filleting is one of those little extras that makes the day feel complete. Come back anytime!"
         }
-      ]
+      ],
+      "profile_url": "https://www.tripadvisor.com/Attraction_Review-g34345-d1383046"
     },
     "yelp": {
       "name": "Yelp",
@@ -105,7 +107,8 @@
           "responded": false,
           "ai_response": "Thanks for the honest review! You're right — the party boat is designed for value and shared adventure. For a more spacious experience, our private charters give you the full boat. Either way, we're glad the fishing delivered and hope to see you back!"
         }
-      ]
+      ],
+      "profile_url": "https://www.yelp.com/biz/gulfstream-fishing-key-west"
     }
   },
   "total_reviews_all_platforms": 3238,

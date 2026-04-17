@@ -53,7 +53,8 @@
           "responded": false,
           "ai_response": "Toni, we're so relieved we could get you in right away — a loose crown is stressful enough! Dr. Buckley will be thrilled to hear your kind words. Taking the time to do things right under pressure is exactly the standard we hold ourselves to. We're here whenever you need us!"
         }
-      ]
+      ],
+      "profile_url": "https://www.google.com/maps/place/Keys+Dental+Specialists/@24.5509725,-81.7924683"
     },
     "yelp": {
       "name": "Yelp",
@@ -114,7 +115,8 @@
           "responded": false,
           "ai_response": "Ten years — that means the world to us! Robin and Dr. McCarron are cornerstones of our practice and it's wonderful to hear that the care has been consistent throughout. Thank you for your loyalty and for taking the time to share this. We look forward to many more years of keeping your smile healthy!"
         }
-      ]
+      ],
+      "profile_url": "https://www.healthgrades.com/group-directory/fl-florida/key-west/keys-dental-specialists-x5g56f"
     }
   },
   "total_reviews_all_platforms": 960,

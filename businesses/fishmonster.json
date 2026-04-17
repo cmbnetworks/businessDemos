@@ -53,7 +53,8 @@
           "responded": false,
           "ai_response": "Yellowtail snapper for dinner the same night — as fresh as it gets! 'He does all the work and you catch all the fish' might be our new tagline. Thank you for the kind words!"
         }
-      ]
+      ],
+      "profile_url": "https://maps.app.goo.gl/fishmonster"
     },
     "tripadvisor": {
       "name": "TripAdvisor",
@@ -84,7 +85,8 @@
           "responded": false,
           "ai_response": "Thank you for the honest feedback — and we're glad the crew delivered on the water! The reef time on split charters can fly by. Next time, consider the private charter option so you control the clock entirely. We'd love to have you back and make it a 5-star experience!"
         }
-      ]
+      ],
+      "profile_url": "https://www.tripadvisor.com/Attraction_Review-g34345-d2308070"
     },
     "yelp": {
       "name": "Yelp",
@@ -105,7 +107,8 @@
           "responded": false,
           "ai_response": "Thanks for the kind words and the honest note about the dock — we hear that occasionally and we're working on making our directions clearer. We're glad the fishing delivered! Next time, call us when you're close and we'll talk you right in. Hope to see you back!"
         }
-      ]
+      ],
+      "profile_url": "https://www.yelp.com/biz/fishmonster-key-west"
     }
   },
   "total_reviews_all_platforms": 2122,
