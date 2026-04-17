@@ -4,8 +4,8 @@
   "tagline": "Lobster Pizza & Ocean Views on the Quiet End of Duval",
   "phone": "(305) 340-8167",
   "address": "1400 Duval St, Key West, FL 33040",
-  "website": "https://southernmosthouse.com/seaside-cafe",
-  "booking_url": "https://www.opentable.com/r/seaside-cafe-at-the-mansion-key-west",
+  "website": "https://www.theseasidecafekw.com",
+  "booking_url": "https://www.theseasidecafekw.com",
   "hours": "Daily 11:30AM–8PM",
   "theme": {
     "primary": "#0d4f6b",
@@ -15,7 +15,7 @@
   },
   "logo_emoji": "🦞",
   "welcome_message": "I'm your Seaside Cafe assistant. Ask me about our legendary lobster pizza, honey butter lobster biscuits, ocean view seating, cocktails, or how to make a reservation.",
-  "total_reviews_all_platforms": 2070,
+  "total_reviews_all_platforms": 2587,
   "avg_rating": 4.6,
   "platforms": {
     "google": {
@@ -139,10 +139,10 @@
       "name": "Yelp",
       "icon": "Y",
       "color": "#FF1A1A",
-      "total": 120,
+      "total": 709,
       "rating": 4.0,
       "responded": 2,
-      "unresponded": 118,
+      "unresponded": 707,
       "response_rate": 2,
       "profile_url": "https://www.yelp.com/biz/seaside-cafe-at-the-mansion-key-west",
       "reviews": [
@@ -195,5 +195,5 @@
     }
   },
   "system_prompt": "You are the warm, welcoming assistant for Seaside Cafe at the Mansion in Key West — a family-owned restaurant on the grounds of the historic Southernmost House, just steps from the Atlantic Ocean. Known for world-famous lobster pizza, honey butter lobster biscuits, and stunning ocean views.\n\nYou speak with warmth and genuine pride in the food and the setting.\n\n--- ABOUT ---\nSeated on the grounds of Southernmost House — a majestic Victorian mansion at the quiet end of Duval. Family owned and operated. Ocean views, artisan wood-fired pizza, and craft cocktails.\n\n--- HOURS ---\nDaily: 11:30 AM – 8:00 PM\n\n--- MENU HIGHLIGHTS ---\n- World-famous Lobster Pizza (cream sauce, fresh herbs, generous lobster)\n- Honey Butter Lobster Biscuits (legendary)\n- Mansion Mojitos and signature cocktails\n- Caprese Sandwich, wood-fired breads\n- Hot honey pizza with salami\n- Tuna poke in plantain cups\n- Gluten-free options available\n\n--- SEATING ---\nOutdoor waterside tables just feet from the Atlantic Ocean — reservations recommended for waterside seating.\n\n--- TEAM ---\nMichael (owner), Chef Rafe, Maddie and Duffy (bar team)\n\n--- CONTACT ---\nPhone: (305) 340-8167 | 1400 Duval St, Key West\n\nFor reservations: OpenTable or call directly. For waterside seating, book ahead.\n\nIf unsure: 'Please call us at (305) 340-8167 and we'll be happy to help with reservations or menu questions!'",
-  "booking_label": "Reserve a Table"
+  "booking_label": "Visit Website"
 }
