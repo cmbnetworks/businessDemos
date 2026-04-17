@@ -1,0 +1,154 @@
+{
+  "id": "viva-steakhouse",
+  "name": "Viva Argentinian Steakhouse",
+  "tagline": "Grass-Fed Argentine Steaks, Tiki Bar & Live Music on Duval",
+  "phone": "(305) 783-2602",
+  "address": "903 Duval St, Key West, FL 33040",
+  "website": "https://vivaargentiniansteakhouse.com",
+  "booking_url": "https://www.opentable.com/r/viva-argentinean-steakhouse-key-west",
+  "booking_label": "Reserve a Table",
+  "hours": "Mon–Thu 11AM–10PM | Fri–Sat 10AM–12AM | Sun 10AM–10PM",
+  "theme": {
+    "primary": "#5c1a1a",
+    "accent": "#c8973a",
+    "bg": "#fdf6ef",
+    "chat_bg": "#5c1a1a"
+  },
+  "logo_emoji": "🥩",
+  "welcome_message": "I'm your Viva Steakhouse assistant. Ask me about our Argentine grass-fed steaks, steak empanadas, Omar's legendary mojitos, the Tiki bar, the Follow the Rabbit speakeasy, live music, or how to make a reservation.",
+  "total_reviews_all_platforms": 2093,
+  "avg_rating": 4.3,
+  "platforms": {
+    "google": {
+      "name": "Google",
+      "icon": "G",
+      "color": "#4285F4",
+      "total": 1000,
+      "rating": 4.4,
+      "responded": 30,
+      "unresponded": 970,
+      "response_rate": 3,
+      "profile_url": "https://www.google.com/maps/place/Viva+Argentinian+Steakhouse/@24.5506,-81.8002,17z",
+      "reviews": [
+        {
+          "reviewer": "Filet & Risotto Fan", "initials": "FR", "date": "2 weeks ago", "stars": 5,
+          "text": "The filet and risotto were perfect! We also loved the sweet potato mashed and garlic mashed. This is the best steakhouse in Key West! Service is attentive. The atmosphere is great, and Doug the musician is top notch! If you're in Key West, this restaurant is a must.",
+          "responded": false,
+          "ai_response": "Thank you so much for this wonderful review! The filet with risotto and those sides is one of our proudest combinations and it's great to hear it delivered. Doug is an incredible talent and we're so lucky to have him on that patio. We'll make sure both he and our kitchen team see this. A must in Key West — we'll take it! See you on your next visit!"
+        },
+        {
+          "reviewer": "Omar's Mojito Convert", "initials": "OM", "date": "3 weeks ago", "stars": 5,
+          "text": "Best mojito in Key West and amazing empanadas! The food was delicious and Omar really does make the best mojito in Key West. He single-handedly ran the show during our lunch. I highly recommend this restaurant and especially the mojito.",
+          "responded": false,
+          "ai_response": "Omar is a legend behind that bar and we are very lucky to have him! The lemongrass mojito is one of those drinks people talk about long after leaving Key West, and the steak empanadas alongside it is a combination we're genuinely proud of. Thank you for the glowing review and we hope to see you back — Omar will have the mojito ready!"
+        },
+        {
+          "reviewer": "Kendra Fan", "initials": "KF", "date": "1 month ago", "stars": 5,
+          "text": "Kendra is THE best bartender in all of Key West! We just came from another well-established bar and Kendra far exceeded the service and the tastiness of the drinks. The tiki bar gave off great vibes and the live music was amazing. We will be back — Kendra has converted us!",
+          "responded": false,
+          "ai_response": "Kendra converted you — that is the highest compliment! She brings a level of energy and craft to that tiki bar that is genuinely one of a kind on Duval Street. The live music and that open patio atmosphere does the rest. Thank you for the wonderful review and we'll have Kendra and a cold drink waiting for you on your return!"
+        },
+        {
+          "reviewer": "Ribeye Disappointment", "initials": "RD", "date": "6 weeks ago", "stars": 2,
+          "text": "We went on a recommendation and were disappointed. Online says happy hour until 10pm for the indoor bar, showed the waiter who took a photo and sent to the owner but we never heard back. A couple of us got the ribeye and were sadly disappointed by the toughness and texture. The filet was ok but for the price the quality doesn't live up to the hype.",
+          "responded": false,
+          "ai_response": "We are sorry for this experience and we want to address both issues directly. The happy hour policy confusion should have been resolved at the table immediately — not with a photo sent to the owner and no response. That's unacceptable and we've corrected how this is handled. On the ribeye, consistency is something we hold ourselves to and your feedback goes directly to our kitchen. The filet is our most consistent cut and we'd love the opportunity to make this right. Please reach out to us directly at 305-783-2602 and we'll take care of you."
+        },
+        {
+          "reviewer": "Daniel M's Service", "initials": "DS", "date": "2 months ago", "stars": 4,
+          "text": "We were initially disappointed since they ran out of two cuts of steak we wanted — how does that happen at a steakhouse? But our server Daniel M. made some great recommendations and we were very happy and satisfied with what we ended up with. Place has a great vibe and everyone was friendly and helpful.",
+          "responded": false,
+          "ai_response": "Running out of specific cuts is something we're always working to avoid and we appreciate you flagging it. Daniel M. turning a frustrating moment into a great meal with smart recommendations is exactly the kind of server we're proud to have. We'll make sure he sees this! Thank you for giving us the chance to make it right and we hope to have your first-choice cuts ready on your next visit."
+        }
+      ]
+    },
+    "tripadvisor": {
+      "name": "TripAdvisor",
+      "icon": "TA",
+      "color": "#34E0A1",
+      "total": 605,
+      "rating": 4.0,
+      "responded": 20,
+      "unresponded": 585,
+      "response_rate": 3,
+      "ranking": "#92 of 371 restaurants in Key West",
+      "profile_url": "https://www.tripadvisor.com/Restaurant_Review-g34345-d8493900",
+      "reviews": [
+        {
+          "reviewer": "Best Steakhouse KW", "initials": "BS", "date": "January 2026", "stars": 5,
+          "text": "Best steakhouse in KW. Staff is always super friendly and attentive. Great live music on the patio and superb food. My husband said his rib eye was perfectly cooked and flavorful. I had the seafood risotto which had the perfect balance of creaminess and flavor.",
+          "responded": false,
+          "ai_response": "Best steakhouse in Key West — thank you for that! A perfectly cooked ribeye and a seafood risotto with that balance of creaminess and flavor is exactly what our kitchen works toward every night. The live music on the patio ties it all together. We're so glad you had a great experience and we look forward to welcoming you back!"
+        },
+        {
+          "reviewer": "Omar & The Empanadas", "initials": "OE", "date": "December 2025", "stars": 5,
+          "text": "We had the steak empanadas, viva salad, and steak sandwich. All of which was fantastic, along with great service from Omar behind the bar. The lemongrass mojitos were the best we've ever had! Thank you Omar!",
+          "responded": false,
+          "ai_response": "Omar and the lemongrass mojito have their own fan club at this point and we couldn't be prouder! The steak empanadas, viva salad, and steak sandwich together is a great way to experience the menu. Thank you for the kind words and for recognizing Omar — we'll make sure he sees this. See you back on the patio!"
+        },
+        {
+          "reviewer": "Kendra's Tiki Bar", "initials": "KT", "date": "November 2025", "stars": 5,
+          "text": "We stopped by as they had a great musician playing and the tiki bar gave off great vibes. Kendra our bartender was amazing — so friendly and fixed an amazing drink for us and filled us in on her favorite places in Key West. The fans made the 100-degree-plus day feel good. Music was live and so good. Highly recommend!",
+          "responded": false,
+          "ai_response": "Kendra and a great musician on the only outdoor tiki bar on Duval Street — sounds like you found Viva at its best! She truly knows Key West and loves sharing it with guests, which makes her as much a local guide as a bartender. Thank you for the wonderful review and we hope to see you back for more live music and tiki bar vibes!"
+        },
+        {
+          "reviewer": "AC & Steak Issues", "initials": "AI", "date": "October 2025", "stars": 2,
+          "text": "We sat inside because it was close to 90 degrees outside but despite the 10 AC wall units on the interior it was actually hotter inside than outside. That was one of the biggest detractors, but good food would have made it worth it. Unfortunately the food didn't save it either — steak quality and tenderness were below expectations for the price.",
+          "responded": false,
+          "ai_response": "Thank you for this honest feedback. The air conditioning situation you described is something we have since addressed — that level of discomfort is completely unacceptable and we're sorry it affected your experience. We also hear you on the steak quality and this goes straight to our kitchen. Our Argentine grass-fed steaks should be exceptional at every service and we take this seriously. We'd genuinely like the chance to make this right — please call us at 305-783-2602."
+        },
+        {
+          "reviewer": "Blue Cheese Burger Find", "initials": "BB", "date": "September 2025", "stars": 4,
+          "text": "Came in on the first day of the new menu. The Caesar dressing is made in house and is really great. The bleu cheese burger stands out with celery hearts instead of lettuce and a roasted tomato — a delicious twist on a classic burger, perfectly juicy and flavorful. Good spot on Duval.",
+          "responded": false,
+          "ai_response": "Day one of the new menu and the bleu cheese burger already making an impression — that's exactly what we were hoping for! Celery hearts and roasted tomato on a perfectly cooked patty with house Caesar is a combination our kitchen is proud of. Thank you for being there from the start and for sharing the feedback. Come back and explore more of the new menu!"
+        }
+      ]
+    },
+    "yelp": {
+      "name": "Yelp",
+      "icon": "Y",
+      "color": "#FF1A1A",
+      "total": 488,
+      "rating": 4.0,
+      "responded": 15,
+      "unresponded": 473,
+      "response_rate": 3,
+      "profile_url": "https://www.yelp.com/biz/viva-argentinian-steakhouse-key-west",
+      "reviews": [
+        {
+          "reviewer": "Patio & Live Music", "initials": "PL", "date": "2 months ago", "stars": 5,
+          "text": "Viva Saloon is a nice casual restaurant and bar on the southern end of Duval. A nice place for a cold beer and live entertainment. The place was packed with fans catching a sporting event on the large screen. Tater tots were pretty addictive. Prices reasonable and staff friendly. A good stop on the Duval Crawl.",
+          "responded": false,
+          "ai_response": "The Duval Crawl has an official Viva stop now! Live sports on the big screen, live music on the patio, addictive tater tots, and a friendly staff — that's us doing what we love every day. Thank you for the kind words and come back anytime. The patio and the cold beers will be waiting!"
+        },
+        {
+          "reviewer": "Mahi & Atmosphere", "initials": "MA", "date": "3 months ago", "stars": 4,
+          "text": "Great atmosphere. The Mahi sandwich was delicious and the performer was incredible. Only downside was slow service but we would definitely return. Worth checking out.",
+          "responded": false,
+          "ai_response": "A delicious Mahi sandwich and an incredible performer on the patio — that's Viva at its best! We hear you on the service pace and we're always working to improve consistency at busy times. Thank you for the fair review and we look forward to showing you a tighter service experience on your return visit!"
+        },
+        {
+          "reviewer": "Key Lime Pie Win", "initials": "KL", "date": "4 months ago", "stars": 5,
+          "text": "Best key lime pie in Key West! Great food, great entertainment. Had the jalapeno poppers made with fresh peppers — slightly crunchy, delicious. Had the Key Lime Pie cocktail too. Bartender was excellent. Stopped in for drinks, appetizers and football — the perfect afternoon.",
+          "responded": false,
+          "ai_response": "Best key lime pie in Key West — we'll absolutely take that! Fresh jalapeño poppers, a Key Lime Pie cocktail, football on the screen, and a great bartender is a perfect Viva afternoon. Thank you for the enthusiastic review and come back for dinner sometime — the steaks and empanadas alongside that key lime pie will complete the picture!"
+        },
+        {
+          "reviewer": "Service Letdown", "initials": "SL", "date": "5 months ago", "stars": 2,
+          "text": "Service was prompt at the beginning but the longer we were there the longer we went without seeing our server. The salad had mushy croutons and wilted lettuce. Server never asked what dressing we wanted and brought the salad out with no dressing. Waited over 5 minutes for dressing after asking. We will not be returning.",
+          "responded": false,
+          "ai_response": "We're genuinely sorry for this experience. A salad with mushy croutons and wilted lettuce is a kitchen failure and forgetting to ask about dressing then making you wait for it is a service failure — we own both. This is not the standard we hold ourselves to and we've used this feedback in direct conversations with our team. We understand if returning feels like a risk and we respect that. If you're ever willing to give us one more chance, please reach out directly at 305-783-2602 — we'd like to take care of you personally."
+        },
+        {
+          "reviewer": "Speakeasy Discovery", "initials": "SD", "date": "6 months ago", "stars": 5,
+          "text": "Nobody told me about the Follow the Rabbit speakeasy inside! Hidden bar, incredible vibe, completely different atmosphere from the patio. Omar behind the bar was fantastic. The steak empanadas might be the best thing I've eaten in Key West. Unique spot — there's nothing else like this on the island.",
+          "responded": false,
+          "ai_response": "The Follow the Rabbit speakeasy revealing itself to another guest — this is exactly the reaction we love! That hidden bar has its own energy and it's become one of Key West's best-kept secrets. Omar in there is something special. And the steak empanadas alongside it — that's a combination worth coming back for. Thank you for discovering us and for sharing the secret responsibly!"
+        }
+      ]
+    }
+  },
+  "system_prompt": "You are the friendly, knowledgeable assistant for Viva Argentinian Steakhouse in Key West — the only Argentinian steakhouse in Key West, located at 903 Duval Street in a historic building with roots back to the early 1900s.\n\nYou speak with warmth and genuine enthusiasm for the food, the drinks, and the unique atmosphere.\n\n--- ABOUT VIVA ---\nFounded in 2018 by Alfredo and Gaston, two owners from Argentina who brought authentic Argentine flavors to Key West while keeping the beloved local vibe of the space. The building has a colorful history — it was once a hotel, adult entertainment center, and brothel, then an art gallery, and in the 90s became 'Viva Zapata,' a legendary Key West bar. In the 70s and 80s, Bill Murray and Hunter S. Thompson were regulars.\n\n--- UNIQUE FEATURES ---\n- Largest outdoor patio on Duval Street\n- The ONLY outdoor tiki bar on Duval Street\n- 'Follow the Rabbit' hidden speakeasy bar inside\n- Live music daily on the patio\n- Dog friendly\n- Private events, weddings, birthday parties (large patio perfect for events)\n- Free parking on Olivia St\n\n--- HOURS ---\nMon–Thu: 11:00 AM – 10:00 PM\nFri–Sat: 10:00 AM – 12:00 AM\nSun: 10:00 AM – 10:00 PM\nHappy Hour: 11:00 AM – 5:00 PM daily\n\n--- MENU HIGHLIGHTS ---\nSTEAKS (Argentine grass-fed):\n- Filet (most consistently praised)\n- Ribeye\n- Skirt steak (praised for tenderness)\nAll steaks are Argentine grass-fed — no corn-fed beef\n\nAPPETIZERS:\n- Steak empanadas (a must-order — consistently praised)\n- Mushroom & chorizo bites\n- Jalapeño poppers (made with fresh peppers, slightly crunchy)\n\nSIDES:\n- Mushroom risotto\n- Seafood risotto\n- Sweet potato mashed\n- Garlic mashed\n- Hot mashed potatoes with cheese (served on iron skillet)\n\nOTHER MAINS:\n- Mahi sandwich\n- Bleu cheese burger (celery hearts instead of lettuce, roasted tomato)\n- Steak sandwich\n- Viva salad\n\nDESSERTS:\n- Key lime pie (praised as best in Key West)\n- Argentinian Chocotorta\n\nDRINKS:\n- Lemongrass mojitos (Omar's — legendary, multiple guests say best in Key West)\n- Sangria\n- Espresso martini\n- Caribbean Mule\n- Key Lime Pie cocktail\n- Full Argentine wine list\n- Happy hour drink specials daily 11am–5pm\n\n--- THE TEAM ---\n- Alfredo and Gaston — owners from Argentina\n- Omar — bartender, famous for lemongrass mojitos\n- Kendra — tiki bar bartender, beloved by guests\n- Daniel M. — server\n- Patrick — server\n- Doug — house musician\n\n--- RESERVATIONS ---\nAvailable via OpenTable: opentable.com/viva-argentinean-steakhouse-key-west\nWalk-ins also welcome — large patio means availability most times\n\n--- CONTACT ---\nPhone: (305) 783-2602\nWebsite: vivaargentiniansteakhouse.com\n903 Duval St, Key West, FL 33040\n\n--- IMPORTANT NOTES ---\n- All entrees are à la carte — sides ordered separately\n- Gluten-free options available\n- Private events contact: through website or call directly\n- The Follow the Rabbit speakeasy is inside the main building\n\nIf unsure about anything: 'Great question — best to call us at (305) 783-2602 or check vivaargentiniansteakhouse.com for the most current info!'"
+}
