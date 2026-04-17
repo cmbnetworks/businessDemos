@@ -1,0 +1,93 @@
+{
+  "id": "fogartys",
+  "name": "Fogarty's & Flying Monkeys Saloon",
+  "tagline": "World-Famous Frozen Drinks on Duval Since 2001",
+  "phone": "(305) 294-7525",
+  "address": "227 Duval St, Key West, FL 33040",
+  "website": "https://fogartysofkeywest.com",
+  "booking_url": "https://fogartysofkeywest.com",
+  "hours": "Daily 11AM–11PM",
+  "theme": {
+    "primary": "#2d5a1b",
+    "accent": "#f0a500",
+    "bg": "#f2f7ee",
+    "chat_bg": "#2d5a1b"
+  },
+  "logo_emoji": "🐒",
+  "welcome_message": "I'm your Fogarty's assistant. Ask me anything about our menu, frozen drinks, the Flying Monkeys Saloon, events, or what to order on your first visit.",
+  "total_reviews_all_platforms": 5493,
+  "avg_rating": 4.4,
+  "platforms": {
+    "google": {
+      "name": "Google",
+      "icon": "G",
+      "color": "#4285F4",
+      "total": 3933,
+      "rating": 4.5,
+      "responded": 40,
+      "unresponded": 3893,
+      "response_rate": 1,
+      "profile_url": "https://www.google.com/maps/place/Fogarty%27s/@24.5583701,-81.8042268",
+      "reviews": [
+        {
+          "reviewer": "Frozen Drink Lover", "initials": "FD", "date": "1 week ago", "stars": 5,
+          "text": "The mahi fish bites are THE BEST EVER and the frozen drinks from Flying Monkey are delicious and come in so many flavors. Buy the insulated glass and get discounted refills — best deal on Duval. Staff is awesome and made sure we had a great time!",
+          "responded": false,
+          "ai_response": "The fish bites and the insulated glass combo — you figured out the Fogarty's code! That glass pays for itself in about two refills and the frozen drinks just get better from there. Thank you for the kind words about our team — we'll make sure they hear this. We hope to see you and that glass again real soon!"
+        },
+        {
+          "reviewer": "Burger Fan", "initials": "BF", "date": "2 weeks ago", "stars": 5,
+          "text": "Locals recommended Fogarty's for the best burger on Key West. They were right — it was huge, perfectly cooked, and the Pain in the Ass frozen drink was incredible. Our server Kelly was full of energy and humor and made the whole night more fun.",
+          "responded": false,
+          "ai_response": "Kelly is exactly the kind of energy Fogarty's is built on — and your instincts on the burger were right! Nothing better than a Key West local tip that actually delivers. Thank you for sharing this and tell Kelly she made someone's TripAdvisor review. We hope to see you back on Duval for round two of that Pain in the Ass!"
+        },
+        {
+          "reviewer": "Patio Diner", "initials": "PD", "date": "1 month ago", "stars": 4,
+          "text": "Great location and comfortable outdoor seating. I had the Ahi salad and was impressed. The waiter disappeared after food arrived which was frustrating but the manager stepped in and was very helpful. Good overall.",
+          "responded": false,
+          "ai_response": "Thank you for the honest feedback — we're glad the Ahi salad delivered and that our manager was able to step in and turn things around. That's not the service standard we hold ourselves to and we'll be using this to improve. We really appreciate you giving us the chance to make it right and we hope the overall experience keeps you coming back!"
+        }
+      ]
+    },
+    "tripadvisor": {
+      "name": "TripAdvisor",
+      "icon": "TA",
+      "color": "#34E0A1",
+      "total": 780,
+      "rating": 4.0,
+      "responded": 15,
+      "unresponded": 765,
+      "response_rate": 2,
+      "ranking": "Casual Dining on Duval Street",
+      "profile_url": "https://www.tripadvisor.com/Restaurant_Review-g34345-d512799",
+      "reviews": [
+        {
+          "reviewer": "Joel & Rosalie", "initials": "JR", "date": "October 2025", "stars": 5,
+          "text": "Wow. You MUST come here! The Mahi tacos were enormous — two to the order with fresh crunchy red cabbage, Mahi pieces, a nice aioli sauce and grilled flour tacos. Drinks were large and strong. Server was full of energy and stories. We would go back just because of her!",
+          "responded": false,
+          "ai_response": "Joel and Rosalie — this review genuinely made our day! The Mahi tacos are one of our proudest dishes and it sounds like your server made the whole meal an event. That's Fogarty's at its best — great food AND great people. Thank you for taking the time to share this from Delray Beach. Duval Street will be waiting for you next time you're in the Keys!"
+        }
+      ]
+    },
+    "yelp": {
+      "name": "Yelp",
+      "icon": "Y",
+      "color": "#FF1A1A",
+      "total": 780,
+      "rating": 3.5,
+      "responded": 5,
+      "unresponded": 775,
+      "response_rate": 1,
+      "profile_url": "https://www.yelp.com/biz/fogartys-restaurant-and-bar-key-west",
+      "reviews": [
+        {
+          "reviewer": "Duval Walker", "initials": "DW", "date": "3 months ago", "stars": 4,
+          "text": "Great spot on Duval for people-watching with a frozen drink. The outdoor patio is perfect and the Flying Monkey drinks are strong and good. Food is decent for the area. Staff was friendly and attentive.",
+          "responded": false,
+          "ai_response": "People watching on the Fogarty's patio with a Flying Monkey frozen drink is genuinely one of the great Key West pastimes — you did it right! Thank you for the Yelp review and the kind words about our team. Come back anytime — the patio, the drinks, and the Duval Street show will be here waiting!"
+        }
+      ]
+    }
+  },
+  "system_prompt": "You are the friendly assistant for Fogarty's and the Flying Monkeys Saloon in Key West — a beloved Duval Street bar and restaurant inside the historic Fogarty Mansion, open since 2001.\n\nYou're warm, fun, and enthusiastic about the food and drinks.\n\n--- ABOUT ---\nForarty's is inside the historic Fogarty Mansion built in 1875. The Flying Monkeys Saloon is famous for world-class frozen drinks made with real fruit juice. The building features murals by legendary local artist Captain Outrageous.\n\n--- HOURS ---\nDaily: 11:00 AM – 11:00 PM\n\n--- MENU HIGHLIGHTS ---\nFrozen Drinks: World-famous — Pain in the Ass, various fruit flavors. Buy the insulated souvenir cup for discounted refills.\nFood: Pecan crusted mahi-mahi, mahi fish bites, mahi tacos, conch fritters, burgers, Cuban roast pork, Baha fish tacos, Ahi salad, key lime pie (made in-house daily)\nSpecialty: Always ask about the fresh fish of the day\n\n--- LOCATION ---\n227 Duval St, Key West. Great outdoor patio for people-watching.\n\n--- EVENTS ---\nHosts the Red Party charity event during Fantasy Fest each October.\n\nPhone: (305) 294-7525\nWebsite: fogartysofkeywest.com\n\nIf unsure: 'Best to call us at (305) 294-7525 or check fogartysofkeywest.com for today's specials!'"
+}

@@ -1,0 +1,93 @@
+{
+  "id": "sunset-pier",
+  "name": "Sunset Pier",
+  "tagline": "Live Music, Waterfront Views & Key West Sunsets",
+  "phone": "(305) 809-8072",
+  "address": "0 Duval St (Ocean Key Resort), Key West, FL 33040",
+  "website": "https://www.oceankey.com/dining/sunset-pier",
+  "booking_url": "https://www.oceankey.com/dining/sunset-pier",
+  "hours": "Daily 11:30AM–8:30PM",
+  "theme": {
+    "primary": "#b34700",
+    "accent": "#ffd166",
+    "bg": "#fff8f0",
+    "chat_bg": "#b34700"
+  },
+  "logo_emoji": "🌅",
+  "welcome_message": "I'm your Sunset Pier assistant. Ask me about our waterfront dining, live music, drinks, the best table for the sunset, or what to order.",
+  "total_reviews_all_platforms": 5700,
+  "avg_rating": 4.5,
+  "platforms": {
+    "google": {
+      "name": "Google",
+      "icon": "G",
+      "color": "#4285F4",
+      "total": 4092,
+      "rating": 4.6,
+      "responded": 80,
+      "unresponded": 4012,
+      "response_rate": 2,
+      "profile_url": "https://www.google.com/maps/place/Sunset+Pier/@24.5609118,-81.8072677",
+      "reviews": [
+        {
+          "reviewer": "Sunset Chaser", "initials": "SC", "date": "1 week ago", "stars": 5,
+          "text": "One of the best places to hang on Key West. Incredible views of the water and passing boats, usually live music on stage, TVs, vibrant colors, fans to keep cool. The bartending service was great and the drinks were excellent. It could almost seem like a hidden gem with fewer crowds than Duval!",
+          "responded": false,
+          "ai_response": "A hidden gem at the end of Duval — that's exactly the vibe we love hearing! The water views, the live music, and a breeze from the Gulf — it's hard to beat for a Key West afternoon or sunset. Thank you for the kind words about our bar team and we hope to see you back for another round in the best seat on the island!"
+        },
+        {
+          "reviewer": "Lobster Roll Fan", "initials": "LR", "date": "2 weeks ago", "stars": 5,
+          "text": "Great little spot on the water's edge. Awesome views all around. Service was good even though they were busier than usual. The Lobster Rolls were excellent and the key lime pie was fabulous — cheesecake-esque. Recommend this spot for drinks, food and live music.",
+          "responded": false,
+          "ai_response": "The Lobster Roll and that key lime pie — two of our proudest menu items! Thank you for the patience on a busy evening and the kind words about our team pushing through it. Views, live music, lobster, and key lime pie at the water's edge — that's a Key West afternoon worth writing home about. We hope to see you back for round two!"
+        },
+        {
+          "reviewer": "Sunset Seeker", "initials": "SS", "date": "1 month ago", "stars": 5,
+          "text": "This fantastic spot on the boardwalk offers live music and a charming tiki bar for drinks. Most tables are along the boardwalk with a perfect view of the boats and stunning sunsets. The drinks are enjoyable and the food is above average. Perfect place to savor a meal while watching the sunset.",
+          "responded": false,
+          "ai_response": "Boats, boardwalk, tiki bar, and a Key West sunset — you found the right table! We work hard to make Sunset Pier feel like the most naturally perfect spot on the island for that golden hour. Thank you for the lovely review and we hope the next sunset you catch from our pier is even more spectacular!"
+        }
+      ]
+    },
+    "tripadvisor": {
+      "name": "TripAdvisor",
+      "icon": "TA",
+      "color": "#34E0A1",
+      "total": 1200,
+      "rating": 4.3,
+      "responded": 25,
+      "unresponded": 1175,
+      "response_rate": 2,
+      "ranking": "Top Waterfront Dining — Key West",
+      "profile_url": "https://www.tripadvisor.com/Restaurant_Review-g34345-d1390476",
+      "reviews": [
+        {
+          "reviewer": "Mahi Taco Convert", "initials": "MT", "date": "October 2025", "stars": 5,
+          "text": "Ordered the Grilled Mahi Mahi Tacos and Lobster Roll. Both were excellent! Service was great, Pena coladas were so good, and the views were amazing. Fun live music rounding it all out. One of the best spots in Key West.",
+          "responded": false,
+          "ai_response": "The Mahi Tacos AND the Lobster Roll — you came prepared! Add the live music, the Pena coladas, and those water views and you've got the full Sunset Pier experience. Thank you for this wonderful review from TripAdvisor — we'll share it with our kitchen and bar team who work hard every day to earn exactly this. Hope to see you back at the best seat in Key West!"
+        }
+      ]
+    },
+    "yelp": {
+      "name": "Yelp",
+      "icon": "Y",
+      "color": "#FF1A1A",
+      "total": 408,
+      "rating": 3.5,
+      "responded": 5,
+      "unresponded": 403,
+      "response_rate": 1,
+      "profile_url": "https://www.yelp.com/biz/sunset-pier-key-west",
+      "reviews": [
+        {
+          "reviewer": "Waterfront Diner", "initials": "WD", "date": "3 months ago", "stars": 4,
+          "text": "Great waterfront location with excellent views. Drinks were good and the atmosphere was perfect for watching the sunset. Food was decent — nothing exceptional but solid. Service could be faster during peak times but overall a great Key West experience.",
+          "responded": false,
+          "ai_response": "Thank you for the honest and fair review! The waterfront location and sunset views are something we're genuinely proud of every single evening. We hear you on service speed during peak times — that's a real challenge at a pier this popular and we're always working on it. We're glad the overall experience delivered and hope to show you an even better one on your next visit!"
+        }
+      ]
+    }
+  },
+  "system_prompt": "You are the friendly assistant for Sunset Pier at Ocean Key Resort in Key West — a waterfront bar and restaurant at the very end of Duval Street, right on the Gulf of Mexico. Known for spectacular sunsets, live music, lobster rolls, and mahi tacos.\n\nYou speak with laid-back Key West warmth and genuine pride in the views and the vibe.\n\n--- ABOUT ---\nSunset Pier sits at the tip of Duval Street, directly on the water at Ocean Key Resort. One of the best spots on the island to watch the world-famous Key West sunset. Live music on stage most days.\n\n--- HOURS ---\nDaily: 11:30 AM – 8:30 PM\n\n--- MENU HIGHLIGHTS ---\n- Lobster Rolls (excellent)\n- Grilled Mahi Mahi Tacos\n- Key Lime Pie (cheesecake-style, fabulous)\n- Tropical cocktails and Pena coladas\n- Full tiki bar\n\n--- SEATING ---\nMost tables on the boardwalk with water views. Arrive early for the best sunset seats — no reservations for outdoor seating, first come first served.\n\n--- LIVE MUSIC ---\nLive music on stage regularly. Check oceankey.com for entertainment schedule.\n\n--- LOCATION ---\n0 Duval St (at Ocean Key Resort), Key West\nPhone: (305) 809-8072\n\nIf unsure: 'Call us at (305) 809-8072 or visit oceankey.com for today's entertainment schedule and specials!'"
+}

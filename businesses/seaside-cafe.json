@@ -1,0 +1,93 @@
+{
+  "id": "seaside-cafe",
+  "name": "Seaside Cafe at the Mansion",
+  "tagline": "Lobster Pizza & Ocean Views on the Quiet End of Duval",
+  "phone": "(305) 340-8167",
+  "address": "1400 Duval St, Key West, FL 33040",
+  "website": "https://keysdentalspecialists.com",
+  "booking_url": "https://www.opentable.com/seaside-cafe-at-the-mansion",
+  "hours": "Daily 11:30AM–8PM",
+  "theme": {
+    "primary": "#0d4f6b",
+    "accent": "#e8a030",
+    "bg": "#f0f7f9",
+    "chat_bg": "#0d4f6b"
+  },
+  "logo_emoji": "🦞",
+  "welcome_message": "I'm your Seaside Cafe assistant. Ask me about our legendary lobster pizza, honey butter lobster biscuits, ocean view seating, cocktails, or how to make a reservation.",
+  "total_reviews_all_platforms": 2070,
+  "avg_rating": 4.6,
+  "platforms": {
+    "google": {
+      "name": "Google",
+      "icon": "G",
+      "color": "#4285F4",
+      "total": 1470,
+      "rating": 4.7,
+      "responded": 35,
+      "unresponded": 1435,
+      "response_rate": 2,
+      "profile_url": "https://www.google.com/maps/place/Seaside+Cafe+at+the+Mansion/@24.5468315,-81.79651",
+      "reviews": [
+        {
+          "reviewer": "Lobster Pizza Convert", "initials": "LP", "date": "1 week ago", "stars": 5,
+          "text": "Saw the sign for world famous lobster pizza and decided to try — it did not disappoint! Fresh dough baked with a cream sauce, fresh herbs and plenty of lobster. Margaritas were expensive but worth it. Rooftop bar view was stunning even on a cloudy day.",
+          "responded": false,
+          "ai_response": "You took the leap on the lobster pizza and it delivered — that's the Seaside Cafe experience! Rafe our chef puts real care into every pie and that cream sauce and fresh herbs have earned those 'world famous' claims honestly. The rooftop view on a cloudy Key West day still beats most sunny days elsewhere. Thank you for this wonderful review and we hope to see you back for a perfect sunset next time!"
+        },
+        {
+          "reviewer": "Anniversary Couple", "initials": "AC", "date": "2 weeks ago", "stars": 5,
+          "text": "Imagined sitting a few feet from the ocean enjoying a tropical breeze. Then add the island's best margarita and the legendary honey butter lobster biscuits. From the owner Michael to chef Rafe to bartender Maddie — we were treated like family. Life just cannot get better.",
+          "responded": false,
+          "ai_response": "Michael, Rafe, and Maddie will absolutely love seeing this — thank you for mentioning them by name! We're a family-owned operation and treating guests like our own family is not a talking point, it's how we were built. Honey butter lobster biscuits with an ocean view margarita is a combination we're genuinely proud of. Please come back and let us top it!"
+        },
+        {
+          "reviewer": "Caprese Fan", "initials": "CF", "date": "1 month ago", "stars": 5,
+          "text": "Had a fantastic lunch — husband had the salami with hot honey pizza and I had the Caprese Sandwich. So good! Beautiful view and perfect weather. Service was great and food was amazing.",
+          "responded": false,
+          "ai_response": "The hot honey pizza and Caprese sandwich is a fantastic lunch combination — great choices! Outdoor dining on the Southernmost House grounds with the Atlantic just steps away is tough to beat. Thank you for sharing this with us and we hope to see you back soon — bring the sunset this time!"
+        }
+      ]
+    },
+    "tripadvisor": {
+      "name": "TripAdvisor",
+      "icon": "TA",
+      "color": "#34E0A1",
+      "total": 480,
+      "rating": 4.5,
+      "responded": 10,
+      "unresponded": 470,
+      "response_rate": 2,
+      "ranking": "Highly Rated — Ocean View Dining Key West",
+      "profile_url": "https://www.tripadvisor.com/Restaurant_Review-g34345-d15829055",
+      "reviews": [
+        {
+          "reviewer": "Conch Fritter Fan", "initials": "CF", "date": "November 2025", "stars": 5,
+          "text": "Probably the best pizza in Key West — the lobster pizza on gluten free crust was outstanding. You can't beat the seaside view. The Mansion Mojitos are exceptional. The downstairs bar bartender Duffy remembered our favorite cocktails after just a couple of visits — that's service.",
+          "responded": false,
+          "ai_response": "Duffy is one of a kind and we're so glad he made that impression! Having a bartender remember your drink after a couple of visits — that's the neighborhood bar energy we try to bring to the 'quiet end' of Duval. The lobster pizza on GF crust is something we're really proud of. Thank you for this wonderful review and we'll let Duffy know he made TripAdvisor!"
+        }
+      ]
+    },
+    "yelp": {
+      "name": "Yelp",
+      "icon": "Y",
+      "color": "#FF1A1A",
+      "total": 120,
+      "rating": 4.0,
+      "responded": 2,
+      "unresponded": 118,
+      "response_rate": 2,
+      "profile_url": "https://www.yelp.com/biz/seaside-cafe-at-the-mansion-key-west",
+      "reviews": [
+        {
+          "reviewer": "Pizza Pilgrim", "initials": "PP", "date": "2 months ago", "stars": 5,
+          "text": "Our bike tour guide told us the lobster pizza here was worth the trip to the south end of Duval. He was absolutely right. Outstanding. The honey butter lobster biscuits as a starter were incredible.",
+          "responded": false,
+          "ai_response": "Your bike tour guide has excellent taste — please pass along our thanks! The south end of Duval has a different energy and we love being the reason people make the walk down. Lobster pizza followed by honey butter biscuits is the move and we're glad you discovered it. Come back anytime — the ocean and the biscuits will be here!"
+        }
+      ]
+    }
+  },
+  "system_prompt": "You are the warm, welcoming assistant for Seaside Cafe at the Mansion in Key West — a family-owned restaurant on the grounds of the historic Southernmost House, just steps from the Atlantic Ocean. Known for world-famous lobster pizza, honey butter lobster biscuits, and stunning ocean views.\n\nYou speak with warmth and genuine pride in the food and the setting.\n\n--- ABOUT ---\nSeated on the grounds of Southernmost House — a majestic Victorian mansion at the quiet end of Duval. Family owned and operated. Ocean views, artisan wood-fired pizza, and craft cocktails.\n\n--- HOURS ---\nDaily: 11:30 AM – 8:00 PM\n\n--- MENU HIGHLIGHTS ---\n- World-famous Lobster Pizza (cream sauce, fresh herbs, generous lobster)\n- Honey Butter Lobster Biscuits (legendary)\n- Mansion Mojitos and signature cocktails\n- Caprese Sandwich, wood-fired breads\n- Hot honey pizza with salami\n- Tuna poke in plantain cups\n- Gluten-free options available\n\n--- SEATING ---\nOutdoor waterside tables just feet from the Atlantic Ocean — reservations recommended for waterside seating.\n\n--- TEAM ---\nMichael (owner), Chef Rafe, Maddie and Duffy (bar team)\n\n--- CONTACT ---\nPhone: (305) 340-8167 | 1400 Duval St, Key West\n\nFor reservations: OpenTable or call directly. For waterside seating, book ahead.\n\nIf unsure: 'Please call us at (305) 340-8167 and we'll be happy to help with reservations or menu questions!'"
+}

@@ -1,0 +1,108 @@
+{
+  "id": "willie-ts",
+  "name": "Willie T's",
+  "tagline": "Dollar Bills, Live Music & Key West Soul Since the 80s",
+  "phone": "(305) 294-7674",
+  "address": "525 Duval St, Key West, FL 33040",
+  "website": "https://willietskeywest.com",
+  "booking_url": "https://willietskeywest.com",
+  "hours": "Daily 10AM–2AM",
+  "theme": {
+    "primary": "#1a1a2e",
+    "accent": "#e94560",
+    "bg": "#f5f0f5",
+    "chat_bg": "#1a1a2e"
+  },
+  "logo_emoji": "💵",
+  "welcome_message": "I'm your Willie T's assistant. Ask me about our food, drinks, live music, the famous dollar bill walls, or what to expect on your visit.",
+  "total_reviews_all_platforms": 5200,
+  "avg_rating": 4.4,
+  "platforms": {
+    "google": {
+      "name": "Google",
+      "icon": "G",
+      "color": "#4285F4",
+      "total": 3176,
+      "rating": 4.5,
+      "responded": 30,
+      "unresponded": 3146,
+      "response_rate": 1,
+      "profile_url": "https://www.google.com/maps/place/Willie+T%27s/@24.5553397,-81.8021898",
+      "reviews": [
+        {
+          "reviewer": "Dollar Bill Stapler",
+          "initials": "DB",
+          "date": "1 week ago",
+          "stars": 5,
+          "text": "Willie T's is a Key West legend. The walls covered in autographed dollar bills are incredible. The chicken marsala was probably the best I've ever eaten — no joke. Great atmosphere, local vibe, and you can staple your own dollar to the wall!",
+          "responded": false,
+          "ai_response": "High praise for the chicken marsala — that means the world to our kitchen! And yes, your dollar is now part of Key West history on those walls. There's something about stapling your name to Willie T's that makes the trip feel official. Thank you for this wonderful review and for becoming part of our wall. See you next time!"
+        },
+        {
+          "reviewer": "Nachos King",
+          "initials": "NK",
+          "date": "2 weeks ago",
+          "stars": 5,
+          "text": "I ordered nachos with beef and it was large enough for two or three full grown men. It was HUGE! Live band atmosphere was great. Parking can be a challenge but totally worth it.",
+          "responded": false,
+          "ai_response": "The nachos at Willie T's are not messing around — we appreciate the honesty! Our portions are meant to be shared but hey, we respect the ambition. Live music, massive nachos, dollar bills on the wall — that's a Key West night done right. Thank you for the review and we hope to feed you (and maybe a friend) again soon!"
+        },
+        {
+          "reviewer": "Clam Fan",
+          "initials": "CF",
+          "date": "3 weeks ago",
+          "stars": 5,
+          "text": "Willie T's is a cool place. The walls are covered in autographed dollar bills. The chicken marsala was probably the best I've ever eaten. Strong drinks, great service, and a real Key West local feel.",
+          "responded": false,
+          "ai_response": "Two chicken marsala shoutouts in the same week — our chef is going to need a bigger head! The dollar bill walls, the strong drinks, and that local energy you can't fake — that's Willie T's. Thank you for sharing and we hope to see you back on Duval real soon!"
+        }
+      ]
+    },
+    "tripadvisor": {
+      "name": "TripAdvisor",
+      "icon": "TA",
+      "color": "#34E0A1",
+      "total": 1500,
+      "rating": 4.0,
+      "responded": 20,
+      "unresponded": 1480,
+      "response_rate": 1,
+      "ranking": "Popular Duval Street Bar — Key West",
+      "profile_url": "https://www.tripadvisor.com/Restaurant_Review-g34345-d615067",
+      "reviews": [
+        {
+          "reviewer": "Margarita Mission",
+          "initials": "MM",
+          "date": "September 2025",
+          "stars": 5,
+          "text": "We kept going back to Willie T's each night for their margaritas — good drinks, good prices and good bands. The 2-for-$10 margarita special is unreal for Key West. The dollar bill stapling tradition is so fun.",
+          "responded": false,
+          "ai_response": "Back every night — that's the highest compliment you can give a bar! The margarita specials and the live music have a way of pulling you back and we're proud of that. Stapling your dollar to the wall is a rite of passage and sounds like you've officially been initiated. Thank you and the wall misses you already!"
+        }
+      ]
+    },
+    "yelp": {
+      "name": "Yelp",
+      "icon": "Y",
+      "color": "#FF1A1A",
+      "total": 524,
+      "rating": 3.5,
+      "responded": 5,
+      "unresponded": 519,
+      "response_rate": 1,
+      "profile_url": "https://www.yelp.com/biz/willie-ts-key-west",
+      "reviews": [
+        {
+          "reviewer": "First Visit",
+          "initials": "FV",
+          "date": "4 months ago",
+          "stars": 4,
+          "text": "Fun atmosphere with the dollar bills everywhere. Good food — the fish and chips were excellent and the clams were delicious. Drinks were strong. Live music made the whole vibe great. Only issue was one server who seemed distracted.",
+          "responded": false,
+          "ai_response": "Fish and chips, clams, strong drinks, and live music — sounds like a great Key West night! We appreciate the honest note about service and we'll be sharing that with our team. Every guest deserves to feel taken care of the entire visit. Thank you for the fair review and we hope to earn a 5-star next time!"
+        }
+      ]
+    }
+  },
+  "system_prompt": "You are the fun, welcoming assistant for Willie T's on Duval Street in Key West — a legendary local bar known for dollar bills stapled all over the walls, live music, strong drinks, and great food.\n\nYou're enthusiastic, a little rowdy (in a good way), and proud of what makes Willie T's unique.\n\n--- ABOUT ---\nWillie T's is covered wall-to-wall in autographed dollar bills — guests are encouraged to staple their own. Live music daily. A true Key West institution.\n\n--- HOURS ---\nDaily: 10:00 AM – 2:00 AM\n\n--- MENU HIGHLIGHTS ---\nFood: Chicken marsala (legendary), fish and chips, clams, nachos (enormous portions), burgers, and Key West classics.\nDrinks: Margaritas (2-for-$10 specials), strong mixed drinks, full bar\nTradition: Staple a signed dollar bill to the wall!\n\n--- LIVE MUSIC ---\nLive bands and entertainment daily. Great dancing at night.\n\n--- LOCATION ---\n525 Duval St, Key West\nPhone: (305) 294-7674\n\nIf unsure: 'Best to call us at (305) 294-7674 or stop by — we're open every day from 10am!'"
+}
