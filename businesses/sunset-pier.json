@@ -30,22 +30,49 @@
       "profile_url": "https://www.google.com/maps/place/Sunset+Pier/@24.5609118,-81.8072677",
       "reviews": [
         {
-          "reviewer": "Sunset Chaser", "initials": "SC", "date": "1 week ago", "stars": 5,
+          "reviewer": "Sunset Chaser",
+          "initials": "SC",
+          "date": "1 week ago",
+          "stars": 5,
           "text": "One of the best places to hang on Key West. Incredible views of the water and passing boats, usually live music on stage, TVs, vibrant colors, fans to keep cool. The bartending service was great and the drinks were excellent. It could almost seem like a hidden gem with fewer crowds than Duval!",
           "responded": false,
           "ai_response": "A hidden gem at the end of Duval — that's exactly the vibe we love hearing! The water views, the live music, and a breeze from the Gulf — it's hard to beat for a Key West afternoon or sunset. Thank you for the kind words about our bar team and we hope to see you back for another round in the best seat on the island!"
         },
         {
-          "reviewer": "Lobster Roll Fan", "initials": "LR", "date": "2 weeks ago", "stars": 5,
+          "reviewer": "Lobster Roll Fan",
+          "initials": "LR",
+          "date": "2 weeks ago",
+          "stars": 5,
           "text": "Great little spot on the water's edge. Awesome views all around. Service was good even though they were busier than usual. The Lobster Rolls were excellent and the key lime pie was fabulous — cheesecake-esque. Recommend this spot for drinks, food and live music.",
           "responded": false,
           "ai_response": "The Lobster Roll and that key lime pie — two of our proudest menu items! Thank you for the patience on a busy evening and the kind words about our team pushing through it. Views, live music, lobster, and key lime pie at the water's edge — that's a Key West afternoon worth writing home about. We hope to see you back for round two!"
         },
         {
-          "reviewer": "Sunset Seeker", "initials": "SS", "date": "1 month ago", "stars": 5,
+          "reviewer": "Sunset Seeker",
+          "initials": "SS",
+          "date": "1 month ago",
+          "stars": 5,
           "text": "This fantastic spot on the boardwalk offers live music and a charming tiki bar for drinks. Most tables are along the boardwalk with a perfect view of the boats and stunning sunsets. The drinks are enjoyable and the food is above average. Perfect place to savor a meal while watching the sunset.",
           "responded": false,
           "ai_response": "Boats, boardwalk, tiki bar, and a Key West sunset — you found the right table! We work hard to make Sunset Pier feel like the most naturally perfect spot on the island for that golden hour. Thank you for the lovely review and we hope the next sunset you catch from our pier is even more spectacular!"
+        },
+        {
+          "reviewer": "Pier Fanatic",
+          "initials": "PF",
+          "date": "1 month ago",
+          "stars": 5,
+          "text": "One of the best places to hang on Key West. Incredible views of water and passing boats, live music on stage, TVs, vibrant colors, fans to keep cool. Bartending was great and drinks excellent. Fewer crowds than Duval!",
+          "responded": false,
+          "ai_response": "A hidden gem at the end of Duval — that's exactly the vibe we love hearing! The water views, the live music, and a Gulf breeze are hard to beat for a Key West afternoon or sunset. Thank you for the kind words about our bar team and we hope to see you back for another round in the best seat on the island!"
+        },
+        {
+          "reviewer": "Sunset Chaser Pro",
+          "initials": "SC",
+          "date": "6 weeks ago",
+          "stars": 5,
+          "text": "Watched the most spectacular sunset of my life from this pier. The Pena coladas were outstanding. Lobster roll was fresh and generous. Service was excellent even though they were slammed. Best end to a Key West trip.",
+          "responded": false,
+          "ai_response": "The most spectacular sunset of your life from Sunset Pier — we'll take it! The Pena coladas, a fresh lobster roll, and the Gulf of Mexico turning gold in front of you is a combination we're proud to offer every single evening. Thank you for the wonderful review and we hope every Key West trip ends on our pier from now on!"
         }
       ]
     },
@@ -62,10 +89,49 @@
       "profile_url": "https://www.tripadvisor.com/Restaurant_Review-g34345-d1390476",
       "reviews": [
         {
-          "reviewer": "Mahi Taco Convert", "initials": "MT", "date": "October 2025", "stars": 5,
+          "reviewer": "Mahi Taco Convert",
+          "initials": "MT",
+          "date": "October 2025",
+          "stars": 5,
           "text": "Ordered the Grilled Mahi Mahi Tacos and Lobster Roll. Both were excellent! Service was great, Pena coladas were so good, and the views were amazing. Fun live music rounding it all out. One of the best spots in Key West.",
           "responded": false,
           "ai_response": "The Mahi Tacos AND the Lobster Roll — you came prepared! Add the live music, the Pena coladas, and those water views and you've got the full Sunset Pier experience. Thank you for this wonderful review from TripAdvisor — we'll share it with our kitchen and bar team who work hard every day to earn exactly this. Hope to see you back at the best seat in Key West!"
+        },
+        {
+          "reviewer": "Mahi Taco Fan",
+          "initials": "MT",
+          "date": "September 2025",
+          "stars": 5,
+          "text": "Ordered Grilled Mahi Mahi Tacos and Lobster Roll. Both were excellent! Service great, Pena coladas so good, views amazing. Fun live music rounding it all out. One of the best spots in Key West.",
+          "responded": false,
+          "ai_response": "The Mahi Tacos AND the Lobster Roll in one visit — you came prepared! Add the live music, the Pena coladas, and those water views and you've got the full Sunset Pier experience. Thank you for this wonderful review and we hope to see you back at the best seat in Key West!"
+        },
+        {
+          "reviewer": "Boardwalk Regular",
+          "initials": "BR",
+          "date": "October 2025",
+          "stars": 5,
+          "text": "This fantastic boardwalk spot has live music and a charming tiki bar. Tables along the boardwalk with a perfect view of boats and stunning sunsets. Drinks enjoyable, food above average. Perfect for a meal watching the sunset.",
+          "responded": false,
+          "ai_response": "Boats, boardwalk, tiki bar, and a Key West sunset — you found the right table! We work hard to make Sunset Pier feel like the most naturally perfect spot on the island for that golden hour. Thank you for the lovely review and we hope the next sunset you catch from our pier is even more spectacular!"
+        },
+        {
+          "reviewer": "Couple's Sunset",
+          "initials": "CS",
+          "date": "November 2025",
+          "stars": 5,
+          "text": "My husband and I made this our nightly sunset ritual for our entire Key West vacation. Different drinks each night, always great service, always a stunning view. The key lime pie is fabulous. Will plan our trips around this place.",
+          "responded": false,
+          "ai_response": "A nightly sunset ritual for an entire vacation — that's the highest compliment we could ever receive! Planning future trips around Sunset Pier means the world to us. The key lime pie, the ever-changing drink menu, and that reliable sunset view — we'll have it all waiting for you on your next visit. Thank you!"
+        },
+        {
+          "reviewer": "Nightly Ritual",
+          "initials": "NR",
+          "date": "December 2025",
+          "stars": 5,
+          "text": "Made Sunset Pier our nightly ritual for our entire vacation. Different drinks each night, always great service, stunning views every time. The key lime pie is fabulous. Staff recognized us by night three. Planning all future Key West trips around this place.",
+          "responded": false,
+          "ai_response": "A nightly ritual for an entire vacation and recognized by staff by night three — that's Sunset Pier doing exactly what we love to do! Planning future trips around us means the world to our whole team. The key lime pie, the ever-changing drink menu, and that reliable sunset view will all be here waiting. Thank you and see you soon!"
         }
       ]
     },
@@ -81,10 +147,49 @@
       "profile_url": "https://www.yelp.com/biz/sunset-pier-key-west",
       "reviews": [
         {
-          "reviewer": "Waterfront Diner", "initials": "WD", "date": "3 months ago", "stars": 4,
+          "reviewer": "Waterfront Diner",
+          "initials": "WD",
+          "date": "3 months ago",
+          "stars": 4,
           "text": "Great waterfront location with excellent views. Drinks were good and the atmosphere was perfect for watching the sunset. Food was decent — nothing exceptional but solid. Service could be faster during peak times but overall a great Key West experience.",
           "responded": false,
           "ai_response": "Thank you for the honest and fair review! The waterfront location and sunset views are something we're genuinely proud of every single evening. We hear you on service speed during peak times — that's a real challenge at a pier this popular and we're always working on it. We're glad the overall experience delivered and hope to show you an even better one on your next visit!"
+        },
+        {
+          "reviewer": "Tiki Bar Devotee",
+          "initials": "TB",
+          "date": "2 months ago",
+          "stars": 5,
+          "text": "The tiki bar at Sunset Pier is legitimately one of the best spots in Key West. Cold drinks, amazing views, live music, friendly staff. Went back three times in one week. Cheaper than most places nearby too.",
+          "responded": false,
+          "ai_response": "Three times in one week — you officially have great taste in Key West bars! The tiki bar is our pride and the views make every drink taste better. Thank you for being a Sunset Pier regular and we'll have your spot at the rail ready whenever you're back in town!"
+        },
+        {
+          "reviewer": "Weekend Warrior",
+          "initials": "WW",
+          "date": "3 months ago",
+          "stars": 4,
+          "text": "Great waterfront location and views. Food was solid, drinks were good. Gets very busy around sunset which means service slows down. Worth it for the view though — just plan to arrive early for the best seats.",
+          "responded": false,
+          "ai_response": "Arrive early for the best seats — that's the Sunset Pier pro tip right there! You're absolutely right that sunset hour gets busy and we appreciate the honest feedback on service pace. We're always working on handling the rush better. Thank you for the fair review and for sharing that valuable advice with future guests!"
+        },
+        {
+          "reviewer": "Margarita Sunset",
+          "initials": "MS",
+          "date": "4 months ago",
+          "stars": 5,
+          "text": "Perfect spot for happy hour before the Mallory Square sunset celebration. Cocktails were well-made and not overpriced for Key West. The views of the harbor were stunning. Staff was attentive and friendly. Will be back.",
+          "responded": false,
+          "ai_response": "A pre-Mallory Square happy hour at Sunset Pier — you've figured out the perfect Key West evening sequence! Well-made cocktails at fair prices with harbor views and attentive staff is exactly what we aim for. Thank you for the wonderful review and we'll have the happy hour specials ready for your return!"
+        },
+        {
+          "reviewer": "Harbor View Happy Hour",
+          "initials": "HH",
+          "date": "5 months ago",
+          "stars": 5,
+          "text": "Perfect happy hour spot before Mallory Square. Well-made cocktails, not overpriced for Key West. Views of the harbor were stunning. Staff attentive and friendly. The lobster roll was fresh and generous. Came back the next two nights.",
+          "responded": false,
+          "ai_response": "Pre-Mallory Square happy hour at Sunset Pier — you figured out the perfect Key West evening sequence! Back the next two nights is the best review we could ask for. Well-made cocktails, a fresh lobster roll, and harbor views with attentive staff is exactly the standard we hold ourselves to every night. Thank you and we'll have your spot at the rail ready!"
         }
       ]
     }

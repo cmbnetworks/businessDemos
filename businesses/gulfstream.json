@@ -52,6 +52,24 @@
           "text": "Amazing time with Gulfstream Fishing. Crew extremely attentive, fishing action was constant. Every time I come back to Key West I plan on going on this charter.",
           "responded": false,
           "ai_response": "Constant action and an attentive crew is what every angler deserves. We love hearing that Gulfstream is now part of your Key West tradition. See you on the next trip — tell us what you're targeting and we'll put you right on them!"
+        },
+        {
+          "reviewer": "Ethan's Guest",
+          "initials": "EG",
+          "date": "6 weeks ago",
+          "stars": 5,
+          "text": "Entire crew was fantastic. Big shout out to Ethan for taking care of our side of the boat! Everything provided. Captain put us in great locations for snapper, grouper and red grouper. Will be back every Key West trip.",
+          "responded": false,
+          "ai_response": "Shout out received and passed right along to Ethan — he'll be thrilled! Snapper, grouper, and red grouper in the right locations is what Gulfstream is built on. We love hearing we're becoming part of your Key West tradition. See you on the next trip!"
+        },
+        {
+          "reviewer": "Repeat Booker",
+          "initials": "RB",
+          "date": "2 months ago",
+          "stars": 5,
+          "text": "Every time I come back to Key West I plan on going on this charter. The crew was extremely attentive, fishing action was constant. The owner was a joy to work with. I highly recommend this company.",
+          "responded": false,
+          "ai_response": "A standing Key West tradition — we love hearing that! Constant action and an attentive crew is what every angler deserves. Thank you for making Gulfstream part of your annual visit. We'll have the lines ready and the crew waiting for your next trip!"
         }
       ],
       "profile_url": "https://www.google.com/maps/place/Gulfstream+Fishing/@24.560,–81.785"
@@ -84,6 +102,33 @@
           "text": "I was visiting Key West and wanted to try deep sea fishing. Found Gulfstream and it was absolutely worth it. Affordable price, great crew, caught tons of fish. The crew even helped fillet everything at the dock.",
           "responded": false,
           "ai_response": "Welcome to the Gulfstream family! Deep sea fishing on your first Key West visit is the right call — and we're glad the crew and the fishing delivered. The dock-side filleting is one of those little extras that makes the day feel complete. Come back anytime!"
+        },
+        {
+          "reviewer": "First Charter",
+          "initials": "FC",
+          "date": "August 2025",
+          "stars": 5,
+          "text": "My son and I had our first deep sea fishing experience. Captain and crew were patient with first-timers and put us on fish immediately. Affordable price, quality gear, real fish tales to bring home. Couldn't recommend more.",
+          "responded": false,
+          "ai_response": "A father and son's first deep sea fishing trip — what an honor to be part of that! Our crew takes extra care with first-timers because we remember that feeling. Affordable prices, quality gear, and real fish to bring home — that's the Gulfstream promise. We hope it becomes a yearly tradition!"
+        },
+        {
+          "reviewer": "Keys Regular",
+          "initials": "KR",
+          "date": "September 2025",
+          "stars": 5,
+          "text": "Been going to Key West 15 years and finally tried Gulfstream. Don't know why I waited. Party boat concept is perfect — affordable, social, crew knows exactly where the fish are. Already booked my next trip.",
+          "responded": false,
+          "ai_response": "15 years and finally finding us — better late than never! The party boat concept has been working since 1947 for exactly that reason: affordable, social, and the fish are always there when you know where to look. Thank you for the booking and we can't wait to have you back aboard the Gulfstream IV!"
+        },
+        {
+          "reviewer": "Vacation Angler",
+          "initials": "VA",
+          "date": "October 2025",
+          "stars": 5,
+          "text": "In Key West for a week and went out twice with Gulfstream. Second trip we caught more. Crew remembered us and gave us better spots. That personal touch on a party boat is rare. Will be our go-to every visit.",
+          "responded": false,
+          "ai_response": "Twice in one week and the second trip even better — that's exactly how it should work! A crew that remembers returning guests and takes care of them is something we're proud of. You've officially earned your spot on the Gulfstream regulars list. See you on the next trip!"
         }
       ],
       "profile_url": "https://www.tripadvisor.com/Attraction_Review-g34345-d1383046"
@@ -106,6 +151,42 @@
           "text": "Good affordable option for fishing in Key West. Boat was crowded but that's the nature of a party boat. Crew was helpful and we caught plenty of fish. Good value for the price.",
           "responded": false,
           "ai_response": "Thanks for the honest review! You're right — the party boat is designed for value and shared adventure. For a more spacious experience, our private charters give you the full boat. Either way, we're glad the fishing delivered and hope to see you back!"
+        },
+        {
+          "reviewer": "Budget Fisher",
+          "initials": "BF",
+          "date": "2 months ago",
+          "stars": 5,
+          "text": "Best value fishing in Key West. $70 for a 6-hour trip with tackle, bait, and license included is unbeatable. Caught plenty of snapper and grouper. Crew was helpful and knowledgeable. The filleting at the dock was a great touch.",
+          "responded": false,
+          "ai_response": "$70 for 6 hours with everything included — we've been offering that value since 1947 and we're proud to still be the best deal on the water! Snapper and grouper in the cooler, filleted at the dock. That's a Gulfstream day done right. Thank you and we hope to see you back!"
+        },
+        {
+          "reviewer": "Solo Weekender",
+          "initials": "SW",
+          "date": "3 months ago",
+          "stars": 4,
+          "text": "Solid experience on the party boat. A bit crowded but that's expected. Crew managed it well and everyone caught fish. Would have been nice to target specific species but for the price you really can't complain.",
+          "responded": false,
+          "ai_response": "Totally fair feedback — the party boat is designed for shared adventure and value, and if you're targeting specific species our private charters are the move. We're glad the crew delivered and everyone caught fish! Thank you for the honest review and we hope to see you back — maybe on a private charter next time for the targeted experience!"
+        },
+        {
+          "reviewer": "Family Outing",
+          "initials": "FO",
+          "date": "4 months ago",
+          "stars": 5,
+          "text": "Took the family out on the Gulfstream IV for the first time. Kids loved it, parents loved it, grandparents loved it. Crew was patient with everyone. Brought home enough fish for a big family dinner. Perfect day.",
+          "responded": false,
+          "ai_response": "A multi-generational family fishing day on the Gulfstream IV — from kids to grandparents all catching fish and going home to a big family dinner. That is genuinely what we're here for. Thank you for this wonderful review and we hope it becomes a family tradition!"
+        },
+        {
+          "reviewer": "Snapper Haul",
+          "initials": "SH",
+          "date": "5 months ago",
+          "stars": 5,
+          "text": "Went on the 6-hour party boat trip. Caught more yellowtail snapper than I could count. Crew knew exactly where to position the boat and kept everyone's lines productive. Best value fishing in the Keys — period.",
+          "responded": false,
+          "ai_response": "More yellowtail snapper than you could count — that's a Gulfstream IV kind of day! Knowing where to position the boat is decades of knowledge in action and we're glad it showed. Best value fishing in the Keys is a title we've been earning since 1947 and we don't plan to stop. Thank you for the great review and we hope to see you back with another cooler to fill!"
         }
       ],
       "profile_url": "https://www.yelp.com/biz/gulfstream-fishing-key-west"

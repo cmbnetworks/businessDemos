@@ -55,6 +55,24 @@
           "text": "Willie T's is a cool place. The walls are covered in autographed dollar bills. The chicken marsala was probably the best I've ever eaten. Strong drinks, great service, and a real Key West local feel.",
           "responded": false,
           "ai_response": "Two chicken marsala shoutouts in the same week — our chef is going to need a bigger head! The dollar bill walls, the strong drinks, and that local energy you can't fake — that's Willie T's. Thank you for sharing and we hope to see you back on Duval real soon!"
+        },
+        {
+          "reviewer": "First Timer KW",
+          "initials": "FT",
+          "date": "1 month ago",
+          "stars": 5,
+          "text": "First time in Key West and Willie T's was recommended by everyone. Walls covered in dollar bills, live band, great margaritas. Stapled our own dollar — now we're part of Key West history. Chicken marsala was unreal.",
+          "responded": false,
+          "ai_response": "Your dollar is officially part of Key West history now — welcome to the wall! First-timers who find Willie T's right away have good taste in travel tips. The chicken marsala and a cold margarita while a live band plays — that's the evening we're proud to offer every single night. Come back whenever you're in town!"
+        },
+        {
+          "reviewer": "Margarita Regular",
+          "initials": "MR",
+          "date": "6 weeks ago",
+          "stars": 5,
+          "text": "Went back multiple nights for the margarita specials. 2-for-$10 is unbeatable in Key West. Live music every night was different and always great. Nachos were genuinely enormous. Staff remembered us on night two.",
+          "responded": false,
+          "ai_response": "Back multiple nights, remembered by the staff, unbeatable margarita specials and enormous nachos — that's Willie T's doing what we love to do! Staff who remember returning guests is something we take real pride in. Thank you for making us your Key West anchor and we'll see you on the next visit!"
         }
       ]
     },
@@ -78,6 +96,42 @@
           "text": "We kept going back to Willie T's each night for their margaritas — good drinks, good prices and good bands. The 2-for-$10 margarita special is unreal for Key West. The dollar bill stapling tradition is so fun.",
           "responded": false,
           "ai_response": "Back every night — that's the highest compliment you can give a bar! The margarita specials and the live music have a way of pulling you back and we're proud of that. Stapling your dollar to the wall is a rite of passage and sounds like you've officially been initiated. Thank you and the wall misses you already!"
+        },
+        {
+          "reviewer": "Key West Crawler",
+          "initials": "KC",
+          "date": "August 2025",
+          "stars": 5,
+          "text": "Multiple bars on Duval but kept ending up back at Willie T's. The margarita 2-for-$10 special draws you in, the live bands keep you there, and the dollar bill stapling tradition makes you part of the place. Unique and fun.",
+          "responded": false,
+          "ai_response": "The Willie T's gravity — once you find it, it keeps pulling you back! The margaritas, the bands, and that moment when you staple your dollar to the wall and realize you're now literally part of the bar. That's what we love about this place. Thank you and see you on your next Duval crawl!"
+        },
+        {
+          "reviewer": "Chicken Marsala Convert",
+          "initials": "CM",
+          "date": "September 2025",
+          "stars": 5,
+          "text": "Didn't expect great food at a Duval bar but the chicken marsala here is genuinely outstanding. Portions are enormous. Great value, great atmosphere, live music was excellent. A must visit.",
+          "responded": false,
+          "ai_response": "The chicken marsala sneaking up on people who came for drinks is one of our favorite things! Our kitchen takes real pride in that dish and the portions are never going to disappoint. Thank you for the must-visit endorsement and we hope the marsala keeps earning that reputation!"
+        },
+        {
+          "reviewer": "Birthday Night",
+          "initials": "BN",
+          "date": "October 2025",
+          "stars": 5,
+          "text": "Celebrated a birthday at Willie T's. Staff made us feel special, had the whole group staple dollars with our names. Drinks were flowing, band was incredible, ended up dancing until close. Perfect Key West birthday.",
+          "responded": false,
+          "ai_response": "A birthday celebrated with a group dollar stapling ceremony, dancing until close, and a killer band — that's exactly what Willie T's is built for! We love being part of Key West milestones. Happy belated birthday and we hope the wall keeps your group's names for years to come. Come back anytime!"
+        },
+        {
+          "reviewer": "Duval Dollar Stapler",
+          "initials": "DD",
+          "date": "December 2025",
+          "stars": 5,
+          "text": "Willie T's is unlike any bar I've been to anywhere in the world. Six layers of dollar bills on every surface. Chicken marsala was outstanding — not what you expect from a Duval bar. Margarita specials are unbeatable. Live band had everyone dancing by 9pm.",
+          "responded": false,
+          "ai_response": "Six layers deep and the best chicken marsala you didn't expect — that's Willie T's in a nutshell! A bar unlike anywhere else in the world with a kitchen that backs it up and a band that gets everyone dancing. Thank you for this wonderful review and your dollar is now part of Key West history. See you on the next visit!"
         }
       ]
     },
@@ -100,6 +154,42 @@
           "text": "Fun atmosphere with the dollar bills everywhere. Good food — the fish and chips were excellent and the clams were delicious. Drinks were strong. Live music made the whole vibe great. Only issue was one server who seemed distracted.",
           "responded": false,
           "ai_response": "Fish and chips, clams, strong drinks, and live music — sounds like a great Key West night! We appreciate the honest note about service and we'll be sharing that with our team. Every guest deserves to feel taken care of the entire visit. Thank you for the fair review and we hope to earn a 5-star next time!"
+        },
+        {
+          "reviewer": "Sunday Afternoon",
+          "initials": "SA",
+          "date": "2 months ago",
+          "stars": 4,
+          "text": "Great atmosphere and the dollar bills everywhere create a really unique vibe. Margaritas were strong and well-priced. Fish and chips were good. Service was a bit slow but staff was friendly when they got to us.",
+          "responded": false,
+          "ai_response": "The unique vibe, strong margaritas, and that fish and chips — solid Willie T's afternoon! We hear you on the service pace and we're always working to improve on busy days. Thank you for the honest review and we hope the good outweighed the wait. See you back at the bar!"
+        },
+        {
+          "reviewer": "Clam Chowder Fan",
+          "initials": "CF",
+          "date": "3 months ago",
+          "stars": 5,
+          "text": "The clams were delicious and so was everything else. Loved the live music atmosphere. Dollar bills on every surface create something you just don't see anywhere else. Strong drinks, great service. Five stars easily.",
+          "responded": false,
+          "ai_response": "The clams, the music, the dollar bill walls, and five stars — that's the Willie T's trifecta! We love that the visual impact of those walls still gets people every time. Thank you for the wonderful review and come back soon — the band and the clams will be waiting!"
+        },
+        {
+          "reviewer": "Duval Night Out",
+          "initials": "DO",
+          "date": "4 months ago",
+          "stars": 5,
+          "text": "Best margaritas on Duval. The specials are real value. Live band was fantastic and the crowd energy was amazing. Stapled my dollar — officially part of Key West now. Will be back every time I visit.",
+          "responded": false,
+          "ai_response": "Welcome to the wall and welcome to Key West — officially! The best margaritas on Duval is a title we work hard to earn every single night. Live music and a crowd that brings the energy — that's the Willie T's formula. We'll have a fresh margarita and a stapler waiting for you on your next visit!"
+        },
+        {
+          "reviewer": "Nachos for Days",
+          "initials": "ND",
+          "date": "5 months ago",
+          "stars": 5,
+          "text": "The nachos are genuinely enormous — enough for a table of four easily. Strong margaritas at great prices. Dollar bill stapling tradition is so fun and unique. Live music was great. Willie T's is the real Key West deal, not a tourist trap.",
+          "responded": false,
+          "ai_response": "Table-for-four nachos, strong margaritas, dollar bills, and live music — you nailed the Willie T's experience! 'The real Key West deal, not a tourist trap' is exactly what we aim to be every single day. 90+ years of locals and visitors coexisting at that bar is proof that getting it right is possible. Thank you and see you soon!"
         }
       ]
     }

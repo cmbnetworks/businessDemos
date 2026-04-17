@@ -30,22 +30,49 @@
       "profile_url": "https://www.google.com/maps/place/Fogarty%27s/@24.5583701,-81.8042268",
       "reviews": [
         {
-          "reviewer": "Frozen Drink Lover", "initials": "FD", "date": "1 week ago", "stars": 5,
+          "reviewer": "Frozen Drink Lover",
+          "initials": "FD",
+          "date": "1 week ago",
+          "stars": 5,
           "text": "The mahi fish bites are THE BEST EVER and the frozen drinks from Flying Monkey are delicious and come in so many flavors. Buy the insulated glass and get discounted refills — best deal on Duval. Staff is awesome and made sure we had a great time!",
           "responded": false,
           "ai_response": "The fish bites and the insulated glass combo — you figured out the Fogarty's code! That glass pays for itself in about two refills and the frozen drinks just get better from there. Thank you for the kind words about our team — we'll make sure they hear this. We hope to see you and that glass again real soon!"
         },
         {
-          "reviewer": "Burger Fan", "initials": "BF", "date": "2 weeks ago", "stars": 5,
+          "reviewer": "Burger Fan",
+          "initials": "BF",
+          "date": "2 weeks ago",
+          "stars": 5,
           "text": "Locals recommended Fogarty's for the best burger on Key West. They were right — it was huge, perfectly cooked, and the Pain in the Ass frozen drink was incredible. Our server Kelly was full of energy and humor and made the whole night more fun.",
           "responded": false,
           "ai_response": "Kelly is exactly the kind of energy Fogarty's is built on — and your instincts on the burger were right! Nothing better than a Key West local tip that actually delivers. Thank you for sharing this and tell Kelly she made someone's TripAdvisor review. We hope to see you back on Duval for round two of that Pain in the Ass!"
         },
         {
-          "reviewer": "Patio Diner", "initials": "PD", "date": "1 month ago", "stars": 4,
+          "reviewer": "Patio Diner",
+          "initials": "PD",
+          "date": "1 month ago",
+          "stars": 4,
           "text": "Great location and comfortable outdoor seating. I had the Ahi salad and was impressed. The waiter disappeared after food arrived which was frustrating but the manager stepped in and was very helpful. Good overall.",
           "responded": false,
           "ai_response": "Thank you for the honest feedback — we're glad the Ahi salad delivered and that our manager was able to step in and turn things around. That's not the service standard we hold ourselves to and we'll be using this to improve. We really appreciate you giving us the chance to make it right and we hope the overall experience keeps you coming back!"
+        },
+        {
+          "reviewer": "Best Burger Seeker",
+          "initials": "BB",
+          "date": "1 month ago",
+          "stars": 5,
+          "text": "Locals recommended Fogarty's for the best burger on Key West. Huge, perfectly cooked, amazing. The Pain in the Ass frozen drink was incredible. Our server Kelly was full of energy and humor. Would go back just because of her!",
+          "responded": false,
+          "ai_response": "A local tip on the burger AND Kelly making the whole night more fun — that's Fogarty's at its best! Kelly brings energy to every table and the burger has been earning that local recommendation for years. Thank you for sharing this and we'll make sure Kelly hears it. Duval Street will be ready for your return!"
+        },
+        {
+          "reviewer": "Fish Bite Convert",
+          "initials": "FC",
+          "date": "6 weeks ago",
+          "stars": 5,
+          "text": "The mahi fish bites are THE BEST EVER. Frozen drinks from Flying Monkey are delicious. Buy the insulated glass — best deal on Duval. Staff is awesome and ensured we had a wonderful time. Will be back!",
+          "responded": false,
+          "ai_response": "The fish bites and the insulated glass combo — you cracked the Fogarty's code! That glass pays for itself in about two refills and the fish bites have been winning people over since we opened. Thank you for the kind words and we'll see you and that glass again real soon!"
         }
       ]
     },
@@ -62,10 +89,49 @@
       "profile_url": "https://www.tripadvisor.com/Restaurant_Review-g34345-d512799",
       "reviews": [
         {
-          "reviewer": "Joel & Rosalie", "initials": "JR", "date": "October 2025", "stars": 5,
+          "reviewer": "Joel & Rosalie",
+          "initials": "JR",
+          "date": "October 2025",
+          "stars": 5,
           "text": "Wow. You MUST come here! The Mahi tacos were enormous — two to the order with fresh crunchy red cabbage, Mahi pieces, a nice aioli sauce and grilled flour tacos. Drinks were large and strong. Server was full of energy and stories. We would go back just because of her!",
           "responded": false,
           "ai_response": "Joel and Rosalie — this review genuinely made our day! The Mahi tacos are one of our proudest dishes and it sounds like your server made the whole meal an event. That's Fogarty's at its best — great food AND great people. Thank you for taking the time to share this from Delray Beach. Duval Street will be waiting for you next time you're in the Keys!"
+        },
+        {
+          "reviewer": "Pecan Mahi Fan",
+          "initials": "PM",
+          "date": "September 2025",
+          "stars": 5,
+          "text": "You MUST try the pecan crusted mahi. I wasn't expecting the food to be this good. Great staff, delicious conch fritters, big burger and great quesadilla. Fresh daiquiris were outstanding. A real gem on Duval.",
+          "responded": false,
+          "ai_response": "The pecan crusted mahi wins people over every time — we're so glad you took the chance on it! Conch fritters, big burger, quesadilla, and fresh daiquiris — you did the full Fogarty's menu tour and we're honored it impressed. Thank you for calling us a Duval gem and we hope to see you back!"
+        },
+        {
+          "reviewer": "Outdoor Patio Fan",
+          "initials": "OP",
+          "date": "October 2025",
+          "stars": 4,
+          "text": "Great location for people-watching on Duval with a frozen drink. Outdoor patio is perfect. Food was decent — nothing exceptional but solid. Drinks were the highlight. Staff friendly and attentive.",
+          "responded": false,
+          "ai_response": "People-watching on the Fogarty's patio with a Flying Monkey frozen drink is genuinely one of the great Key West pastimes. We appreciate the honest food feedback and our kitchen works every day to earn that extra star. Thank you for the fair review and come back for the fish bites — they might change your mind!"
+        },
+        {
+          "reviewer": "Historic Mansion Diner",
+          "initials": "HM",
+          "date": "November 2025",
+          "stars": 5,
+          "text": "Love that this is inside the historic Fogarty Mansion. The Captain Outrageous murals are incredible. Food was better than expected — the ahi tuna salad was impressive. Flying Monkey drinks were strong and amazing.",
+          "responded": false,
+          "ai_response": "The Fogarty Mansion history and the Captain Outrageous murals are something we're incredibly proud to be part of — every inch of this place has a story. We're glad the ahi tuna salad impressed and the Flying Monkey did its job! Thank you for appreciating what makes Fogarty's different from every other spot on Duval."
+        },
+        {
+          "reviewer": "Tex-Mex Roll Convert",
+          "initials": "TR",
+          "date": "December 2025",
+          "stars": 5,
+          "text": "Happened upon Fogarty's walking down Duval looking for lunch. Large outdoor space, umbrellas, shade, friendly staff. Had the Tex-Mex rolls — sizzling hot, tasty with cilantro, roasted corn and melted cheese. Mahi tacos enormous and fresh. Drinks large and strong. Will be back.",
+          "responded": false,
+          "ai_response": "A Duval Street stumble that turned into a great lunch — that's exactly how we love to be discovered! The Tex-Mex rolls and Mahi tacos together is an outstanding combination and it sounds like the drinks pulled their weight too. Thank you for giving us a shot and we can't wait to have you back. Next time try the pecan crusted mahi — you won't regret it!"
         }
       ]
     },
@@ -81,10 +147,49 @@
       "profile_url": "https://www.yelp.com/biz/fogartys-restaurant-and-bar-key-west",
       "reviews": [
         {
-          "reviewer": "Duval Walker", "initials": "DW", "date": "3 months ago", "stars": 4,
+          "reviewer": "Duval Walker",
+          "initials": "DW",
+          "date": "3 months ago",
+          "stars": 4,
           "text": "Great spot on Duval for people-watching with a frozen drink. The outdoor patio is perfect and the Flying Monkey drinks are strong and good. Food is decent for the area. Staff was friendly and attentive.",
           "responded": false,
           "ai_response": "People watching on the Fogarty's patio with a Flying Monkey frozen drink is genuinely one of the great Key West pastimes — you did it right! Thank you for the Yelp review and the kind words about our team. Come back anytime — the patio, the drinks, and the Duval Street show will be here waiting!"
+        },
+        {
+          "reviewer": "Insulated Cup Club",
+          "initials": "IC",
+          "date": "2 months ago",
+          "stars": 5,
+          "text": "Bought the insulated cup and got refills all night at a discount. Smartest $15 I spent in Key West. The frozen drinks are actually made with real fruit juice and you can taste the difference. Staff was friendly and fun.",
+          "responded": false,
+          "ai_response": "The insulated cup investment always pays off — glad you figured that out early! Real fruit juice in every Flying Monkey drink is something we're genuinely proud of. That difference is real and you can taste it. Thank you for the Yelp review and we'll see you and that cup again soon!"
+        },
+        {
+          "reviewer": "Late Night Diner",
+          "initials": "LN",
+          "date": "3 months ago",
+          "stars": 4,
+          "text": "Good late-night option on Duval. Open until 11pm which is later than a lot of places. Frozen drinks were great, service was decent. Food quality varies — stick to the simpler items and you'll be happy.",
+          "responded": false,
+          "ai_response": "Late-night on Duval with a frozen drink when most places have already called it — we're glad we could be there! Fair feedback on the food and noted. The fish bites and mahi tacos are our best performers if you're looking for a guide next time. Thank you for the honest review!"
+        },
+        {
+          "reviewer": "Fantasy Fest Regular",
+          "initials": "FF",
+          "date": "6 months ago",
+          "stars": 5,
+          "text": "Been coming to Fogarty's during Fantasy Fest for years. The Red Party charity event here is one of the highlights of the week. Staff goes all out, drinks are flowing, and it raises money for local education. See you next year!",
+          "responded": false,
+          "ai_response": "The Red Party is one of our proudest annual moments — great night for a great cause and we're so grateful for regulars like you who make it what it is! Supporting local education through Fantasy Fest is something our whole team is passionate about. See you next October!"
+        },
+        {
+          "reviewer": "Duval Lunch Stop",
+          "initials": "DL",
+          "date": "5 months ago",
+          "stars": 4,
+          "text": "Solid lunch spot on Duval. The mahi fish bites were excellent and the frozen drinks were very good and strong. Service was a bit slow during the lunch rush but staff was friendly when they got to us. Good value for Key West.",
+          "responded": false,
+          "ai_response": "Excellent fish bites, strong frozen drinks, and a friendly team — solid Fogarty's lunch! We hear you on the pace during the lunch rush and we're always working to handle that better. Thank you for the fair review and we hope the next visit earns that extra star. Try Kelly's section if she's working — she'll take great care of you!"
         }
       ]
     }

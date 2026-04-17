@@ -52,6 +52,24 @@
           "text": "Ben knew exactly where to go and what to do. He does all the work and you catch all the fish. Took home a slew of yellowtail snapper and ate them that night. Also affordable.",
           "responded": false,
           "ai_response": "Yellowtail snapper for dinner the same night — as fresh as it gets! 'He does all the work and you catch all the fish' might be our new tagline. Thank you for the kind words!"
+        },
+        {
+          "reviewer": "Manny's Guest",
+          "initials": "MG",
+          "date": "6 weeks ago",
+          "stars": 5,
+          "text": "Amazing fishing trip with Captain Manny! He put us on the fish and made the whole experience fun and easy. Afterward recommended we take fresh snapper to The Perry Hotel to have cooked — absolutely phenomenal. Such a great touch.",
+          "responded": false,
+          "ai_response": "Captain Manny + fresh snapper at The Perry Hotel — that's a Key West day done right! Manny has a real instinct for finding fish and making guests feel at home on the water. Thank you for the wonderful review and the tip for future guests about The Perry. We hope to have you back soon!"
+        },
+        {
+          "reviewer": "Kids First Trip",
+          "initials": "KF",
+          "date": "2 months ago",
+          "stars": 5,
+          "text": "A Manny suggestion: the late afternoon slot with our 6 year old was perfect. Captain Ben kept her entertained reeling in yellowtail while we fished for bigger stuff. Ben made this a wonderful experience. My kid is hooked on fishing now!",
+          "responded": false,
+          "ai_response": "A 6-year-old hooked on fishing — that's the greatest result we could ask for! Ben has a special gift for making sure every single person on the boat has a great time, regardless of age or experience. Thank you for trusting us with her first fishing trip. We hope to see the whole family back soon — especially the newest angler!"
         }
       ],
       "profile_url": "https://maps.app.goo.gl/fishmonster"
@@ -84,6 +102,33 @@
           "text": "Good experience overall on the split charter. Crew was helpful and knowledgeable. Only wish we'd had a bit more time at the reef. Would book again.",
           "responded": false,
           "ai_response": "Thank you for the honest feedback — and we're glad the crew delivered on the water! The reef time on split charters can fly by. Next time, consider the private charter option so you control the clock entirely. We'd love to have you back and make it a 5-star experience!"
+        },
+        {
+          "reviewer": "Offshore Chaser",
+          "initials": "OC",
+          "date": "September 2025",
+          "stars": 5,
+          "text": "Capt Justin and Brody were amazing! Truly a wonderful experience. Kind, personable, knowledgeable and enthusiastic. You can tell they are passionate and love what they do. 10/10 stars. Best charter we've done in the Keys.",
+          "responded": false,
+          "ai_response": "Justin and Brody are exactly the kind of crew that makes a fishing trip unforgettable — and it shows when guests feel like they're with people who genuinely love what they do, because they do. Thank you for the 10/10 and we'd love to have you back chasing whatever's running next season!"
+        },
+        {
+          "reviewer": "Mahi Mission",
+          "initials": "MM",
+          "date": "October 2025",
+          "stars": 5,
+          "text": "We had a blast fishing! Matt and Paul put us on the fish all day and we slayed it — 19 fish caught with 15 keepers including a 20 pound Mahi. Boat was immaculate, head was clean and spacious. AC was awesome. Highly recommend.",
+          "responded": false,
+          "ai_response": "19 caught, 15 keepers, and a 20-pound Mahi — Matt and Paul delivered the full Key West fishing experience! An immaculate boat with working AC and a crew that puts you on fish. That's the FishMonster standard and we're glad it showed. Thank you for the amazing review and we hope to top that Mahi on your next trip!"
+        },
+        {
+          "reviewer": "Lobster Season Fan",
+          "initials": "LF",
+          "date": "November 2025",
+          "stars": 5,
+          "text": "Booked the lobstering trip during mini-season. Incredible experience — crew helped us find and catch our own Florida spiny lobster. Kids loved every minute. Will absolutely be booking this again next year.",
+          "responded": false,
+          "ai_response": "The lobstering trip during mini-season is one of our absolute favorites to run — there's nothing like watching guests pull their own lobster out of the water! We love that the kids were part of it. That's a family memory that lasts. See you next mini-season — book early, those spots fill up fast!"
         }
       ],
       "profile_url": "https://www.tripadvisor.com/Attraction_Review-g34345-d2308070"
@@ -106,6 +151,42 @@
           "text": "Good fishing trip overall. Captain was knowledgeable and put us on fish. Dock was a bit hard to find but once we got there everything was great. Would recommend for anyone wanting to fish Key West on a budget.",
           "responded": false,
           "ai_response": "Thanks for the kind words and the honest note about the dock — we hear that occasionally and we're working on making our directions clearer. We're glad the fishing delivered! Next time, call us when you're close and we'll talk you right in. Hope to see you back!"
+        },
+        {
+          "reviewer": "Split Charter Solo",
+          "initials": "SC",
+          "date": "3 months ago",
+          "stars": 5,
+          "text": "Went solo on the split charter and it was perfect. Met great people, caught fish, crew was fantastic. Best way to experience fishing in Key West without paying for a full private charter. Already planning to come back.",
+          "responded": false,
+          "ai_response": "The split charter for solo travelers is one of the best-kept secrets in Key West fishing — and you figured it out! Meeting fellow anglers and splitting the experience is half the fun. Thank you for the great review and we'll have a spot on the boat waiting for your return trip!"
+        },
+        {
+          "reviewer": "Offshore Adventure",
+          "initials": "OA",
+          "date": "4 months ago",
+          "stars": 5,
+          "text": "Did the offshore sportfishing trip. Targeted mahi and got on them quickly. Crew was knowledgeable and professional. Clean boat, great gear. This is the real deal for serious anglers visiting Key West.",
+          "responded": false,
+          "ai_response": "Getting on the mahi quickly offshore — that's the FishMonster promise! Serious anglers deserve serious crew and serious gear and we take pride in delivering all three. Thank you for the kind words and we hope to get you on even bigger fish next time!"
+        },
+        {
+          "reviewer": "Family Fun Day",
+          "initials": "FF",
+          "date": "5 months ago",
+          "stars": 5,
+          "text": "Booked the family fun day for our group of 8. Everyone from age 6 to 72 caught fish. Crew was patient with the kids and knowledgeable for the adults. They filleted everything at the dock. Perfect day on the water.",
+          "responded": false,
+          "ai_response": "Age 6 to 72 all catching fish — that's a charter doing its job perfectly! Our crew takes genuine pride in making sure every single person on the boat has a great time regardless of age or experience. The dock-side filleting is always the perfect ending. Thank you and we hope to see all 8 of you back!"
+        },
+        {
+          "reviewer": "Night Fishing Fan",
+          "initials": "NF",
+          "date": "6 months ago",
+          "stars": 5,
+          "text": "Tried the night fishing charter — totally different experience from daytime. Caught snapper and grouper under the lights. Captain was incredibly knowledgeable about night fishing techniques. Crew made it fun and kept everyone engaged all night.",
+          "responded": false,
+          "ai_response": "Night fishing is one of our absolute favorite charters to run — there's something magical about fishing under the lights that daytime just can't replicate. Snapper and grouper under the lights with a knowledgeable crew is a Key West experience most tourists never discover. Thank you for the great review and we hope to get you back out on the water — day or night!"
         }
       ],
       "profile_url": "https://www.yelp.com/biz/fishmonster-key-west"

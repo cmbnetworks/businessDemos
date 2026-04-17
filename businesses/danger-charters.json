@@ -53,6 +53,24 @@
           "text": "Amazing adventure. Four people, Captain Micah — dolphins, lemon sharks, sandbar time and knowledge bites all the way through. Totally fluid and accommodating when things came up.",
           "responded": false,
           "ai_response": "Dolphins, lemon sharks, and a sandbar — sounds like Micah delivered the full Keys experience! He has a real gift for reading the water and keeping things flexible. Thank you for sharing this — we'll make sure Micah sees it. Hope to see you back on the Danger fleet soon!"
+        },
+        {
+          "reviewer": "J. Williams",
+          "initials": "JW",
+          "date": "1 month ago",
+          "stars": 5,
+          "text": "We had a 10 member family event celebrating a 21st birthday. The sunset cruise was amazing. Captain and crew were informative and fun. The boat Sarah was comfortable and very well kept. Felt like a private cruise.",
+          "responded": false,
+          "ai_response": "Happy belated 21st! A 10-person family celebration on the Sarah is exactly the kind of milestone we love being part of. The intimate feel is something we're really proud of and it sounds like the crew made the evening everything it should have been. Thank you for celebrating with us!"
+        },
+        {
+          "reviewer": "Rocky's Guest",
+          "initials": "RG",
+          "date": "1 month ago",
+          "stars": 5,
+          "text": "We missed our original snorkeling trip but they were so kind to offer a gift certificate. Captain Joe and Rocky were thoughtful and gave us great bar recommendations for live music afterward.",
+          "responded": false,
+          "ai_response": "We're so glad the team could make it right! Captain Joe and Rocky are two of our best and it sounds like they turned a disappointment into a great evening. Use that gift certificate soon — we'd love to get you out on the water for the snorkel experience you missed!"
         }
       ]
     },
@@ -94,6 +112,24 @@
           "text": "Born and raised in Key West, I chartered a sailboat from Danger to celebrate my brother's life with 25 family members. The boat was spectacular, the crew amazing and respectful. It was a fantastic experience from booking all the way to stepping off the boat.",
           "responded": false,
           "ai_response": "Thank you for trusting us with such a deeply meaningful moment. Celebrating your brother's life on the water he loved — that's an honor we don't take lightly. We hope the day brought your family some peace and beautiful memories. Our thoughts are with you."
+        },
+        {
+          "reviewer": "Anniversary Pair",
+          "initials": "AP",
+          "date": "December 2025",
+          "stars": 5,
+          "text": "Second sunset cruise with Danger Charters, obviously we enjoyed the first one. Captain and crew outstanding. Wine selection excellent with other beverages for every taste. A good time was had by all. Highly recommend.",
+          "responded": false,
+          "ai_response": "A return visit is the best review there is! We're so glad the wine, the crew, and that Key West sunset delivered again. We hope to keep earning your return visits for many more anniversaries to come. Thank you!"
+        },
+        {
+          "reviewer": "Captain Matt Fan",
+          "initials": "CM",
+          "date": "January 2026",
+          "stars": 5,
+          "text": "Danger Charters is a well run business from booking to check-in to boarding. Had a private trip cancelled due to weather 18 months ago and they honored the credit immediately when I called to rebook. Great crew yesterday — shout out to Nate and Nicole who helped make great memories. Best charter in Key West!",
+          "responded": false,
+          "ai_response": "Nate and Nicole will be so happy to see this — thank you! Honoring credits and making rebooking easy is something we take seriously because we know plans get disrupted. We're thrilled the rebooked trip delivered the memories you were hoping for the first time around. Best charter in Key West is a title we work hard to earn every single day. See you on the water!"
         }
       ]
     },
@@ -125,6 +161,33 @@
           "text": "Booked last minute because our fishing charter cancelled. It was a blessing. Logan, Morgan and Christian provided such a wonderful experience — went above and beyond. The kayaking and snorkeling was beyond amazing. Saw an eagle ray, southern ray, tarpon, snook, barracudas.",
           "responded": false,
           "ai_response": "A last-minute booking that turned into the trip highlight — Logan, Morgan, and Christian will love hearing this! That wildlife list is genuinely impressive and speaks to how pristine the backcountry waters are when you get out there with people who know where to look. Thanks for the review!"
+        },
+        {
+          "reviewer": "Solo Sailor",
+          "initials": "SS",
+          "date": "4 months ago",
+          "stars": 5,
+          "text": "Perfect getaway! I was afraid to go alone thinking it was more of a couples excursion. Staff was more than accommodating making everyone feel welcome. Would recommend to singles, couples and families alike. Amazing time!",
+          "responded": false,
+          "ai_response": "Solo guests are some of our favorites to have aboard — there's something special about watching someone step on the boat uncertain and leave feeling like they made a dozen new friends. We're so glad the crew made you feel at home. Come back anytime!"
+        },
+        {
+          "reviewer": "Day Tripper",
+          "initials": "DT",
+          "date": "5 months ago",
+          "stars": 5,
+          "text": "Had a great time on the Danger Charter. Staff was especially friendly, food was great. Tides weren't right so we didn't kayak but they adapted and made sure we still had a fantastic day on the water.",
+          "responded": false,
+          "ai_response": "The Keys throw curve balls sometimes — tides, weather, wildlife — and our crew takes pride in reading the day and making sure you have a great time regardless. We're glad they delivered! Come back and we'll get you that kayak adventure you missed."
+        },
+        {
+          "reviewer": "Couple's Retreat",
+          "initials": "CR",
+          "date": "6 months ago",
+          "stars": 5,
+          "text": "My husband and I went out with Evan, Sean and Joe. Great time, best tour we've ever been on. Crew was friendly, informative and helpful. Kayaking and snorkeling was awesome. We're even thinking of buying a kayak!",
+          "responded": false,
+          "ai_response": "Evan, Sean, and Joe — what a team to have on the water! Converting guests into kayak buyers is honestly our favorite outcome. Thank you for this wonderful review and we hope the new kayak gets as much use as the one you paddled with us!"
         }
       ]
     }

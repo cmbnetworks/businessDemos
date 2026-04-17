@@ -52,6 +52,24 @@
           "text": "Emergency appointment to re-cement a gold crown — seen right away. Dr. Buckley was very thorough and took the time to make sure everything was done properly. Friendly, professional, and extremely accommodating.",
           "responded": false,
           "ai_response": "Toni, we're so relieved we could get you in right away — a loose crown is stressful enough! Dr. Buckley will be thrilled to hear your kind words. Taking the time to do things right under pressure is exactly the standard we hold ourselves to. We're here whenever you need us!"
+        },
+        {
+          "reviewer": "T. Fox-Royer",
+          "initials": "TF",
+          "date": "2 months ago",
+          "stars": 5,
+          "text": "My husband needed emergency wisdom tooth extraction. Because oral surgeons only come to the island every so often he was going to have to wait over a week for relief. We reached out to Keys Dental and they accommodated him the next day. They moved mountains. Staff compassionate and knowledgeable.",
+          "responded": false,
+          "ai_response": "Thank you so much for this incredibly kind review! Dental emergencies don't wait — and neither do we. We're so glad we could get your husband seen quickly without a week of unnecessary pain. Your kind words about our entire team mean the world to us. We hope he's feeling much better and we look forward to being your family's dental home here in the Keys!"
+        },
+        {
+          "reviewer": "Satisfied Patient",
+          "initials": "SP",
+          "date": "3 months ago",
+          "stars": 5,
+          "text": "A terrific dental experience! Prior to my appointment received a text letting me know what my responsibility would be after insurance. Walked in and was greeted by Brittani and Maddie by name. Nellie my hygienist is very friendly and thorough. Dr Guthrie does a complete examination. Overall A++++",
+          "responded": false,
+          "ai_response": "Pre-appointment cost transparency, greeted by name, a thorough hygienist and a complete examination from Dr. Guthrie — that's the Keys Dental Specialists experience from start to finish! Brittani, Maddie, Nellie, and Dr. Guthrie will love seeing this. Thank you for the A++++ and we look forward to your next visit!"
         }
       ],
       "profile_url": "https://www.google.com/maps/place/Keys+Dental+Specialists/@24.5509725,-81.7924683"
@@ -84,6 +102,33 @@
           "text": "All I wanted was a rough estimate for dental implants over the phone. The only number I got was $65k which scared me away. I wish the call had been handled a bit more sensitively.",
           "responded": false,
           "ai_response": "Thank you for sharing this feedback — we genuinely appreciate it. You're right that a phone call about implant costs deserves a more thoughtful, guided conversation. Implant pricing varies widely based on the individual case, and $65k represents a complex full-mouth scenario. We'd love the opportunity to have a proper consultation where we can give you accurate, personalized information. Please call us at (305) 296-2722 and ask for a complimentary implant consultation — no pressure, just real answers."
+        },
+        {
+          "reviewer": "Emergency Visitor",
+          "initials": "EV",
+          "date": "3 months ago",
+          "stars": 5,
+          "text": "Was in Marathon on vacation and cracked a crown in half. They worked me in on Good Friday. Everyone nice and helpful. Dr Barkley assessed my situation quickly and got a good temporary fix. I would give 10 stars if I could.",
+          "responded": false,
+          "ai_response": "Getting you in on Good Friday with a cracked crown during vacation — that's exactly why we keep emergency slots available! Dr. Barkley and our team take real pride in being there when it counts most. 10 stars accepted! We hope the rest of your vacation was wonderful and the permanent fix went smoothly back home."
+        },
+        {
+          "reviewer": "Anxiety Patient",
+          "initials": "AP",
+          "date": "4 months ago",
+          "stars": 5,
+          "text": "I've avoided dentists for years due to anxiety. From the moment I walked in I felt at ease. Staff was calm and reassuring. Dr. Guthrie explained everything before doing it. Sedation option discussed. I actually scheduled my next appointment before leaving.",
+          "responded": false,
+          "ai_response": "Scheduling your next appointment before you even left — that tells us everything! Dental anxiety is real and our whole team trains specifically to create an environment where anxious patients feel genuinely comfortable, not just tolerated. Dr. Guthrie's thorough explanations make all the difference. We're so glad you came in and we look forward to seeing you at your next visit!"
+        },
+        {
+          "reviewer": "Implant Patient",
+          "initials": "IP",
+          "date": "6 months ago",
+          "stars": 5,
+          "text": "Had full dental implant surgery here — didn't have to travel to Miami. The team is experienced with complex restorations and everything was handled in-office. Painless process, professional staff, and incredible results. Worth every penny.",
+          "responded": false,
+          "ai_response": "Implant surgery without the Miami trip — that's exactly why we built our multispecialty practice here in Key West! We know what it means to our patients and our community to have complex procedures available close to home. Thank you for trusting us with your smile and for sharing your experience. We hope you're loving the results!"
         }
       ]
     },
@@ -114,6 +159,33 @@
           "text": "Always a friendly atmosphere but also totally professional! Robin is a great hygienist and Dr. McCarron always takes whatever time is needed after. I've been going here for about 10 years and wouldn't dream of going anywhere else!",
           "responded": false,
           "ai_response": "Ten years — that means the world to us! Robin and Dr. McCarron are cornerstones of our practice and it's wonderful to hear that the care has been consistent throughout. Thank you for your loyalty and for taking the time to share this. We look forward to many more years of keeping your smile healthy!"
+        },
+        {
+          "reviewer": "Crown Emergency",
+          "initials": "CE",
+          "date": "2 months ago",
+          "stars": 5,
+          "text": "While visiting Key West I had a dental emergency and Keys Dental was very accommodating — worked me in that day. Very friendly and professional, and great follow up after the visit.",
+          "responded": false,
+          "ai_response": "Thank you for sharing this on Healthgrades! Dental emergencies during travel are stressful and we're so glad we could get you seen same-day. The follow-up call matters just as much to us as the visit itself. We hope your smile is back to full strength and we'd love to be your Keys dental home on future visits!"
+        },
+        {
+          "reviewer": "10 Year Patient",
+          "initials": "TY",
+          "date": "3 months ago",
+          "stars": 5,
+          "text": "Always a friendly atmosphere but totally professional! Robin is a great hygienist and Dr. McCarron always takes whatever time is needed. I've been going here 10 years and wouldn't dream of going anywhere else. Just the best.",
+          "responded": false,
+          "ai_response": "Ten years — that means the world to us! Robin and Dr. McCarron are cornerstones of our practice and it's wonderful to hear the care has been consistent throughout. Thank you for your loyalty and for taking the time to share this on Healthgrades. We look forward to many more years of keeping your smile healthy!"
+        },
+        {
+          "reviewer": "Same Day Success",
+          "initials": "SD",
+          "date": "4 months ago",
+          "stars": 5,
+          "text": "First ever visit, a bit of an emergency. I have never met a nicer staff. Superb efficiency. Felt more than comfortable and will highly recommend to everyone. Five star experience from minute to end.",
+          "responded": false,
+          "ai_response": "A five-star experience from minute one on your very first emergency visit — that's exactly what we aim for with every single patient! Our team works hard to make sure nobody feels like a stranger in our office, especially during stressful moments. Thank you for the wonderful review and we hope to see you back under much less urgent circumstances!"
         }
       ],
       "profile_url": "https://www.healthgrades.com/group-directory/fl-florida/key-west/keys-dental-specialists-x5g56f"
