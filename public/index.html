@@ -952,7 +952,7 @@ async function selectBusiness(id) {
     const tabBar = document.getElementById('tabBar');
     tabBar.style.display = 'flex';
     const repTab = document.getElementById('tabRep');
-    repTab.style.display = biz.reviews ? 'block' : 'none';
+    repTab.style.display = biz.platforms ? 'block' : 'none';
 
     // Reset to chat tab
     switchTab('chat');
